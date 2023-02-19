@@ -1,4 +1,4 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
@@ -7,8 +7,8 @@ import java.util.Collections;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
-import mochotexto.dataset.util.ParsingUtils;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
 import java.util.List;
 import java.util.Map;
@@ -16,7 +16,7 @@ import java.util.Map;
 @NoArgsConstructor
 @Setter
 @ToString
-public class AvengersValuetodaySchema implements DatasetMapper {
+public class AvengersValuetodaySchema implements JsonDatasetMapper {
 	@JsonProperty("id")
 	private String _id;
 

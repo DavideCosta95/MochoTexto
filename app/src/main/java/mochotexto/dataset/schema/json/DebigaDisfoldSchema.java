@@ -1,11 +1,11 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
-import mochotexto.dataset.util.ParsingUtils;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -15,37 +15,37 @@ import java.util.Map;
 @NoArgsConstructor
 @Setter
 @ToString
-public class GrenValuetodaySchema implements DatasetMapper {
+public class DebigaDisfoldSchema implements JsonDatasetMapper {
+
 	@JsonProperty("name")
 	private String _name;
 
-	@JsonProperty("annual_revenue_USD")
-	private String _annualRevenueUSD;
+	@JsonProperty("market_cap")
+	private String _marketCap;
 
-	@JsonProperty("annual_net_income_USD")
-	private String _annualNetIncomeUSD;
+	@JsonProperty("stock")
+	private String _stock;
 
-	@JsonProperty("market_capitalization_2022")
-	private String _marketCapitalization2022;
+	@JsonProperty("country")
+	private String _country;
 
-	@JsonProperty("employees_number")
-	private String _employeesNumber;
+	@JsonProperty("sector")
+	private String _sector;
 
-	@JsonProperty("CEO")
+	@JsonProperty("industry")
+	private String _industry;
+
+	@JsonProperty("headquarters")
+	private String _headquarters;
+
+	@JsonProperty("founded")
+	private String _founded;
+
+	@JsonProperty("employees")
+	private String _employees;
+
+	@JsonProperty("ceo")
 	private String _ceo;
-
-	@JsonProperty("headquarters_country")
-	private String _headquartersCountry;
-
-	@JsonProperty("wikipedia_page_url")
-	private String _wikipediaPageUrl;
-
-	@JsonProperty("twitter_page_url")
-	private String _twitterPageUrl;
-
-	@JsonProperty("facebook_page_url")
-	private String _facebookPageUrl;
-
 
 
 	@Override
@@ -55,17 +55,24 @@ public class GrenValuetodaySchema implements DatasetMapper {
 
 	@Override
 	public String getStocksName() {
-		return null;
+		return _stock;
 	}
 
 	@Override
 	public List<String> getSectors() {
-		return Collections.emptyList();
+		List<String> sectors = new ArrayList<>();
+		if (_sector != null) {
+			sectors.add(_sector);
+		}
+		if (_industry != null) {
+			sectors.add(_industry);
+		}
+		return sectors;
 	}
 
 	@Override
 	public String getCountry() {
-		return _headquartersCountry;
+		return _country;
 	}
 
 	@Override
@@ -75,7 +82,7 @@ public class GrenValuetodaySchema implements DatasetMapper {
 
 	@Override
 	public String getFoundedOn() {
-		return null;
+		return _founded;
 	}
 
 	@Override
@@ -85,7 +92,7 @@ public class GrenValuetodaySchema implements DatasetMapper {
 
 	@Override
 	public Integer getEmployeesCount() {
-		return ParsingUtils.sanitizeInteger(_employeesNumber);
+		return ParsingUtils.sanitizeInteger(_employees);
 	}
 
 	@Override
@@ -95,7 +102,7 @@ public class GrenValuetodaySchema implements DatasetMapper {
 
 	@Override
 	public String getHeadquartersLocation() {
-		return null;
+		return _headquarters;
 	}
 
 	@Override
@@ -115,22 +122,12 @@ public class GrenValuetodaySchema implements DatasetMapper {
 
 	@Override
 	public List<String> getUrls() {
-		List<String> urls = new ArrayList<>();
-		if (_wikipediaPageUrl != null) {
-			urls.add(_wikipediaPageUrl);
-		}
-		if (_twitterPageUrl != null) {
-			urls.add(_twitterPageUrl);
-		}
-		if (_facebookPageUrl != null) {
-			urls.add(_facebookPageUrl);
-		}
-		return urls;
+		return Collections.emptyList();
 	}
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_marketCapitalization2022);
+		return ParsingUtils.sanitizeCurrencyLong(_marketCap);
 	}
 
 	@Override

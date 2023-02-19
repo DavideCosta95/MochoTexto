@@ -1,52 +1,46 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import java.util.Collections;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
-import mochotexto.dataset.util.ParsingUtils;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
 @NoArgsConstructor
 @Setter
 @ToString
-public class DebigaDisfoldSchema implements DatasetMapper {
+public class AvengersHithorizonsSchema implements JsonDatasetMapper {
+
+	@JsonProperty("id")
+	private String _id;
 
 	@JsonProperty("name")
 	private String _name;
 
-	@JsonProperty("market_cap")
-	private String _marketCap;
+	@JsonProperty("address")
+	private String _address;
 
-	@JsonProperty("stock")
-	private String _stock;
+	@JsonProperty("nation")
+	private String _nation;
 
-	@JsonProperty("country")
-	private String _country;
-
-	@JsonProperty("sector")
-	private String _sector;
+	@JsonProperty("hhid")
+	private String _hhid;
 
 	@JsonProperty("industry")
 	private String _industry;
 
-	@JsonProperty("headquarters")
-	private String _headquarters;
+	@JsonProperty("sic_code")
+	private String _sicCode;
 
-	@JsonProperty("founded")
-	private String _founded;
+	@JsonProperty("type")
+	private String _type;
 
-	@JsonProperty("employees")
-	private String _employees;
-
-	@JsonProperty("ceo")
-	private String _ceo;
-
+	@JsonProperty("est_of_ownership")
+	private String _estOfOwnership;
 
 	@Override
 	public String getName() {
@@ -55,24 +49,20 @@ public class DebigaDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public String getStocksName() {
-		return _stock;
+		return null;
 	}
 
 	@Override
 	public List<String> getSectors() {
-		List<String> sectors = new ArrayList<>();
-		if (_sector != null) {
-			sectors.add(_sector);
+		if (_industry == null) {
+			return Collections.emptyList();
 		}
-		if (_industry != null) {
-			sectors.add(_industry);
-		}
-		return sectors;
+		return List.of(_industry);
 	}
 
 	@Override
 	public String getCountry() {
-		return _country;
+		return "Italy";
 	}
 
 	@Override
@@ -82,7 +72,7 @@ public class DebigaDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public String getFoundedOn() {
-		return _founded;
+		return _estOfOwnership;
 	}
 
 	@Override
@@ -92,17 +82,17 @@ public class DebigaDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public Integer getEmployeesCount() {
-		return ParsingUtils.sanitizeInteger(_employees);
+		return null;
 	}
 
 	@Override
 	public List<String> getCeo() {
-		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
+		return Collections.emptyList();
 	}
 
 	@Override
 	public String getHeadquartersLocation() {
-		return _headquarters;
+		return _address;
 	}
 
 	@Override
@@ -127,7 +117,7 @@ public class DebigaDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_marketCap);
+		return null;
 	}
 
 	@Override

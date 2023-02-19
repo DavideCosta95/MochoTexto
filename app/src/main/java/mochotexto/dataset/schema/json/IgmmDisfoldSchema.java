@@ -1,49 +1,63 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-
-import java.util.Collections;
-
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
-import mochotexto.dataset.util.ParsingUtils;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
 @NoArgsConstructor
 @Setter
 @ToString
-public class DebigaGlobaldataSchema implements DatasetMapper {
-
+public class IgmmDisfoldSchema implements JsonDatasetMapper {
 	@JsonProperty("name")
 	private String _name;
 
-	@JsonProperty("headquarters")
-	private String _headquarters;
+	@JsonProperty("code")
+	private String _code;
 
-	@JsonProperty("number_of_employees")
-	private String _numberOfEmployees;
+	@JsonProperty("rank")
+	private String _rank;
 
-	@JsonProperty("address")
-	private String _address;
+	@JsonProperty("ceo")
+	private String _ceo;
+
+	@JsonProperty("country")
+	private String _country;
+
+	@JsonProperty("sector")
+	private String _sector;
 
 	@JsonProperty("industry")
 	private String _industry;
 
-	@JsonProperty("website")
-	private String _website;
+	@JsonProperty("headquarters")
+	private String _headquarters;
 
-	@JsonProperty("market_cap")
-	private String _marketCap;
+	@JsonProperty("employees")
+	private String _employees;
 
-	@JsonProperty("telephone")
-	private String _telephone;
+	@JsonProperty("founded")
+	private String _founded;
+
+	@JsonProperty("marketcap")
+	private String _marketcap;
 
 	@JsonProperty("revenue")
 	private String _revenue;
+
+	@JsonProperty("net income")
+	private String _netIncome;
+
+	@JsonProperty("link")
+	private List<String> _link;
+
 
 	@Override
 	public String getName() {
@@ -52,17 +66,24 @@ public class DebigaGlobaldataSchema implements DatasetMapper {
 
 	@Override
 	public String getStocksName() {
-		return null;
+		return _code;
 	}
 
 	@Override
 	public List<String> getSectors() {
-		return _industry != null ? List.of(_industry) : Collections.emptyList();
+		List<String> sectors = new ArrayList<>();
+		if (_sector != null) {
+			sectors.add(_sector);
+		}
+		if (_industry != null) {
+			sectors.add(_industry);
+		}
+		return sectors;
 	}
 
 	@Override
 	public String getCountry() {
-		return _headquarters;
+		return _country;
 	}
 
 	@Override
@@ -72,7 +93,7 @@ public class DebigaGlobaldataSchema implements DatasetMapper {
 
 	@Override
 	public String getFoundedOn() {
-		return null;
+		return _founded;
 	}
 
 	@Override
@@ -82,17 +103,17 @@ public class DebigaGlobaldataSchema implements DatasetMapper {
 
 	@Override
 	public Integer getEmployeesCount() {
-		return ParsingUtils.sanitizeInteger(_numberOfEmployees);
+		return ParsingUtils.sanitizeInteger(_employees);
 	}
 
 	@Override
 	public List<String> getCeo() {
-		return Collections.emptyList();
+		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
 	}
 
 	@Override
 	public String getHeadquartersLocation() {
-		return _address;
+		return _headquarters;
 	}
 
 	@Override
@@ -102,7 +123,7 @@ public class DebigaGlobaldataSchema implements DatasetMapper {
 
 	@Override
 	public String getTelephoneNumber() {
-		return _telephone;
+		return null;
 	}
 
 	@Override
@@ -112,12 +133,12 @@ public class DebigaGlobaldataSchema implements DatasetMapper {
 
 	@Override
 	public List<String> getUrls() {
-		return _website != null ? List.of(_website) : Collections.emptyList();
+		return _link != null ? _link : Collections.emptyList();
 	}
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return null;
+		return ParsingUtils.sanitizeCurrencyLong(_marketcap);
 	}
 
 	@Override

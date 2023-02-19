@@ -1,40 +1,57 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import java.util.Collections;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
 @NoArgsConstructor
 @Setter
 @ToString
-public class GioponspizWikipediaSchema implements DatasetMapper {
+@JsonIgnoreProperties(ignoreUnknown = true)
+public class AvengersDisfoldSchema implements JsonDatasetMapper {
 
-	@JsonProperty("Name")
+	@JsonProperty("id")
+	private String _id;
+
+	@JsonProperty("name")
 	private String _name;
 
-	@JsonProperty("Industry")
-	private String _industry;
+	@JsonProperty("official_name")
+	private String _officialName;
 
-	@JsonProperty("Sector")
-	private String _sector;
+	@JsonProperty("headquarters_country")
+	private String _headquartersCountry;
 
-	@JsonProperty("Headquarters")
-	private String _headquarters;
+	@JsonProperty("headquarters_continent")
+	private String _headquartersContinent;
 
-	@JsonProperty("Founded")
+	@JsonProperty("founded")
 	private String _founded;
+
+	@JsonProperty("employees")
+	private String _employees;
+
+	@JsonProperty("ceo")
+	private String _ceo;
+
+	@JsonProperty("market_cap")
+	private String _marketCap;
+
+	@JsonProperty("categories")
+	private List<String> _categories;
 
 
 	@Override
 	public String getName() {
-		return _name;
+		return _officialName;
 	}
 
 	@Override
@@ -44,19 +61,12 @@ public class GioponspizWikipediaSchema implements DatasetMapper {
 
 	@Override
 	public List<String> getSectors() {
-		List<String> sectors = new ArrayList<>();
-		if (_industry != null && !_industry.isBlank()) {
-			sectors.add(_industry);
-		}
-		if (_sector != null && !_sector.isBlank()) {
-			sectors.add(_sector);
-		}
-		return sectors;
+		return _categories != null ? _categories : Collections.emptyList();
 	}
 
 	@Override
 	public String getCountry() {
-		return null;
+		return _headquartersContinent;
 	}
 
 	@Override
@@ -76,17 +86,17 @@ public class GioponspizWikipediaSchema implements DatasetMapper {
 
 	@Override
 	public Integer getEmployeesCount() {
-		return null;
+		return ParsingUtils.sanitizeInteger(_employees);
 	}
 
 	@Override
 	public List<String> getCeo() {
-		return Collections.emptyList();
+		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
 	}
 
 	@Override
 	public String getHeadquartersLocation() {
-		return _headquarters;
+		return _headquartersCountry;
 	}
 
 	@Override
@@ -111,7 +121,7 @@ public class GioponspizWikipediaSchema implements DatasetMapper {
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return null;
+		return ParsingUtils.sanitizeCurrencyLong(_marketCap);
 	}
 
 	@Override

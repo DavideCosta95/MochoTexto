@@ -1,46 +1,35 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import java.util.Collections;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
-import mochotexto.dataset.util.ParsingUtils;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
 
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
 @NoArgsConstructor
 @Setter
 @ToString
-public class AvengersCompaniesmarketcapSchema implements DatasetMapper {
-	@JsonProperty("id")
-	private String _id;
+public class GioponspizWikipediaSchema implements JsonDatasetMapper {
 
-	@JsonProperty("name")
+	@JsonProperty("Name")
 	private String _name;
 
-	@JsonProperty("rank")
-	private String _rank;
+	@JsonProperty("Industry")
+	private String _industry;
 
-	@JsonProperty("market_cap")
-	private String _marketCap;
+	@JsonProperty("Sector")
+	private String _sector;
 
-	@JsonProperty("country")
-	private String _country;
+	@JsonProperty("Headquarters")
+	private String _headquarters;
 
-	@JsonProperty("share_price")
-	private String _sharePrice;
-
-	@JsonProperty("change_1_day")
-	private String _change1Day;
-
-	@JsonProperty("change_1_year")
-	private String _change1Year;
-
-	@JsonProperty("categories")
-	private List<String> _categories;
+	@JsonProperty("Founded")
+	private String _founded;
 
 
 	@Override
@@ -55,22 +44,29 @@ public class AvengersCompaniesmarketcapSchema implements DatasetMapper {
 
 	@Override
 	public List<String> getSectors() {
-		return _categories != null ? _categories : Collections.emptyList();
+		List<String> sectors = new ArrayList<>();
+		if (_industry != null && !_industry.isBlank()) {
+			sectors.add(_industry);
+		}
+		if (_sector != null && !_sector.isBlank()) {
+			sectors.add(_sector);
+		}
+		return sectors;
 	}
 
 	@Override
 	public String getCountry() {
-		return _country;
+		return null;
 	}
 
 	@Override
 	public Float getSharePriceUSD() {
-		return ParsingUtils.sanitizeCurrencyFloat(_sharePrice);
+		return null;
 	}
 
 	@Override
 	public String getFoundedOn() {
-		return null;
+		return _founded;
 	}
 
 	@Override
@@ -90,7 +86,7 @@ public class AvengersCompaniesmarketcapSchema implements DatasetMapper {
 
 	@Override
 	public String getHeadquartersLocation() {
-		return null;
+		return _headquarters;
 	}
 
 	@Override
@@ -115,7 +111,7 @@ public class AvengersCompaniesmarketcapSchema implements DatasetMapper {
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_marketCap);
+		return null;
 	}
 
 	@Override

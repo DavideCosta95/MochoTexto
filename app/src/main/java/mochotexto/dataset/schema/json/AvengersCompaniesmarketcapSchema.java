@@ -1,13 +1,12 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-
 import java.util.Collections;
-
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
 import java.util.List;
 import java.util.Map;
@@ -15,28 +14,33 @@ import java.util.Map;
 @NoArgsConstructor
 @Setter
 @ToString
-public class DebigaGovukSchema implements DatasetMapper {
+public class AvengersCompaniesmarketcapSchema implements JsonDatasetMapper {
+	@JsonProperty("id")
+	private String _id;
 
 	@JsonProperty("name")
 	private String _name;
 
-	@JsonProperty("company_number")
-	private String _companyNumber;
+	@JsonProperty("rank")
+	private String _rank;
 
-	@JsonProperty("registered_office_address")
-	private String _registeredOfficeAddress;
+	@JsonProperty("market_cap")
+	private String _marketCap;
 
-	@JsonProperty("company_status")
-	private String _companyStatus;
+	@JsonProperty("country")
+	private String _country;
 
-	@JsonProperty("company_type")
-	private String _companyType;
+	@JsonProperty("share_price")
+	private String _sharePrice;
 
-	@JsonProperty("company_creation_date")
-	private String _companyCreationDate;
+	@JsonProperty("change_1_day")
+	private String _change1Day;
 
-	@JsonProperty("nature_of_business")
-	private String _natureOfBusiness;
+	@JsonProperty("change_1_year")
+	private String _change1Year;
+
+	@JsonProperty("categories")
+	private List<String> _categories;
 
 
 	@Override
@@ -51,41 +55,22 @@ public class DebigaGovukSchema implements DatasetMapper {
 
 	@Override
 	public List<String> getSectors() {
-		if (_natureOfBusiness == null) {
-			return Collections.emptyList();
-		}
-
-		int startIndex = _natureOfBusiness.indexOf("-");
-		if (startIndex < 0) {
-			return List.of(_natureOfBusiness);
-		}
-
-		String extractedValue;
-		try {
-			extractedValue = _natureOfBusiness.substring(startIndex + 2);
-		} catch (Exception e) {
-			return Collections.emptyList();
-		}
-
-		if (extractedValue.trim().isEmpty()) {
-			return Collections.emptyList();
-		}
-		return List.of(extractedValue);
+		return _categories != null ? _categories : Collections.emptyList();
 	}
 
 	@Override
 	public String getCountry() {
-		return null;
+		return _country;
 	}
 
 	@Override
 	public Float getSharePriceUSD() {
-		return null;
+		return ParsingUtils.sanitizeCurrencyFloat(_sharePrice);
 	}
 
 	@Override
 	public String getFoundedOn() {
-		return _companyCreationDate;
+		return null;
 	}
 
 	@Override
@@ -105,7 +90,7 @@ public class DebigaGovukSchema implements DatasetMapper {
 
 	@Override
 	public String getHeadquartersLocation() {
-		return _registeredOfficeAddress;
+		return null;
 	}
 
 	@Override
@@ -130,7 +115,7 @@ public class DebigaGovukSchema implements DatasetMapper {
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return null;
+		return ParsingUtils.sanitizeCurrencyLong(_marketCap);
 	}
 
 	@Override

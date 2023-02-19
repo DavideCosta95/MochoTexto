@@ -1,11 +1,14 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+
 import java.util.Collections;
+
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
 import java.util.List;
 import java.util.Map;
@@ -13,34 +16,34 @@ import java.util.Map;
 @NoArgsConstructor
 @Setter
 @ToString
-public class AvengersHithorizonsSchema implements DatasetMapper {
-
-	@JsonProperty("id")
-	private String _id;
+public class DebigaGlobaldataSchema implements JsonDatasetMapper {
 
 	@JsonProperty("name")
 	private String _name;
 
+	@JsonProperty("headquarters")
+	private String _headquarters;
+
+	@JsonProperty("number_of_employees")
+	private String _numberOfEmployees;
+
 	@JsonProperty("address")
 	private String _address;
-
-	@JsonProperty("nation")
-	private String _nation;
-
-	@JsonProperty("hhid")
-	private String _hhid;
 
 	@JsonProperty("industry")
 	private String _industry;
 
-	@JsonProperty("sic_code")
-	private String _sicCode;
+	@JsonProperty("website")
+	private String _website;
 
-	@JsonProperty("type")
-	private String _type;
+	@JsonProperty("market_cap")
+	private String _marketCap;
 
-	@JsonProperty("est_of_ownership")
-	private String _estOfOwnership;
+	@JsonProperty("telephone")
+	private String _telephone;
+
+	@JsonProperty("revenue")
+	private String _revenue;
 
 	@Override
 	public String getName() {
@@ -54,15 +57,12 @@ public class AvengersHithorizonsSchema implements DatasetMapper {
 
 	@Override
 	public List<String> getSectors() {
-		if (_industry == null) {
-			return Collections.emptyList();
-		}
-		return List.of(_industry);
+		return _industry != null ? List.of(_industry) : Collections.emptyList();
 	}
 
 	@Override
 	public String getCountry() {
-		return "Italy";
+		return _headquarters;
 	}
 
 	@Override
@@ -72,7 +72,7 @@ public class AvengersHithorizonsSchema implements DatasetMapper {
 
 	@Override
 	public String getFoundedOn() {
-		return _estOfOwnership;
+		return null;
 	}
 
 	@Override
@@ -82,7 +82,7 @@ public class AvengersHithorizonsSchema implements DatasetMapper {
 
 	@Override
 	public Integer getEmployeesCount() {
-		return null;
+		return ParsingUtils.sanitizeInteger(_numberOfEmployees);
 	}
 
 	@Override
@@ -102,7 +102,7 @@ public class AvengersHithorizonsSchema implements DatasetMapper {
 
 	@Override
 	public String getTelephoneNumber() {
-		return null;
+		return _telephone;
 	}
 
 	@Override
@@ -112,7 +112,7 @@ public class AvengersHithorizonsSchema implements DatasetMapper {
 
 	@Override
 	public List<String> getUrls() {
-		return Collections.emptyList();
+		return _website != null ? List.of(_website) : Collections.emptyList();
 	}
 
 	@Override

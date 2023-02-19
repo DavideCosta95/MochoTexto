@@ -1,43 +1,39 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+
+import java.util.Collections;
+
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
-import mochotexto.dataset.util.ParsingUtils;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
-import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
 @NoArgsConstructor
 @Setter
 @ToString
-public class SlytherinForbesSchema implements DatasetMapper {
+public class SlytherinDisfoldSchema implements JsonDatasetMapper {
 	@JsonProperty("link")
 	private String _link;
 
 	@JsonProperty("name")
 	private String _name;
 
-	@JsonProperty("industry")
-	private String _industry;
-
-	@JsonProperty("founded")
-	private String _founded;
-
-	@JsonProperty("country")
-	private String _country;
-
-	@JsonProperty("ceo")
-	private String _ceo;
+	@JsonProperty("headquarters")
+	private String _headquarters;
 
 	@JsonProperty("employees")
 	private String _employees;
 
-	@JsonProperty("revenue")
-	private String _revenue;
+	@JsonProperty("ceo")
+	private String _ceo;
+
+	@JsonProperty("market_cap")
+	private String _marketCap;
 
 
 	@Override
@@ -52,12 +48,12 @@ public class SlytherinForbesSchema implements DatasetMapper {
 
 	@Override
 	public List<String> getSectors() {
-		return _industry != null ? List.of(_industry) : Collections.emptyList();
+		return Collections.emptyList();
 	}
 
 	@Override
 	public String getCountry() {
-		return _country;
+		return null;
 	}
 
 	@Override
@@ -67,8 +63,7 @@ public class SlytherinForbesSchema implements DatasetMapper {
 
 	@Override
 	public String getFoundedOn() {
-		Integer parsed = ParsingUtils.sanitizeInteger(_founded);
-		return parsed != null ? parsed.toString() : null;
+		return null;
 	}
 
 	@Override
@@ -83,12 +78,15 @@ public class SlytherinForbesSchema implements DatasetMapper {
 
 	@Override
 	public List<String> getCeo() {
-		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
+		if (_ceo == null || _ceo.trim().equalsIgnoreCase("not found")) {
+			return Collections.emptyList();
+		}
+		return List.of(_ceo);
 	}
 
 	@Override
 	public String getHeadquartersLocation() {
-		return null;
+		return _headquarters;
 	}
 
 	@Override
@@ -118,6 +116,6 @@ public class SlytherinForbesSchema implements DatasetMapper {
 
 	@Override
 	public Long getRevenue2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_revenue);
+		return null;
 	}
 }

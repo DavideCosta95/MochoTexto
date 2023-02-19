@@ -1,13 +1,12 @@
 package mochotexto;
 
 import lombok.extern.slf4j.Slf4j;
-import mochotexto.dataset.schemamapper.AvengersValuetodaySchema;
-import mochotexto.json.JsonParser;
-import mochotexto.dataset.CompanyMediatedSchema;
-import mochotexto.dataset.DatasetMapper;
-import mochotexto.dataset.DatasetMetadata;
+import mochotexto.parsing.exception.ParsingException;
+import mochotexto.parsing.model.DatasetParser;
+import mochotexto.dataset.schema.CompanyMediatedSchema;
+import mochotexto.dataset.mapper.DatasetMapper;
+import mochotexto.dataset.mapper.DatasetMetadata;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -22,7 +21,7 @@ public class App {
 		datasets.forEach(
 				d -> {
 					// TODO: improve
-					JsonParser<? extends DatasetMapper> parser = new JsonParser<>("./dataset/" + d.getFilePath(), d.getMapper());
+					DatasetParser<? extends DatasetMapper> parser = new DatasetParser<>("./dataset/" + d.getFilePath(), d.getMapper());
 					try {
 						List<CompanyMediatedSchema> companyMediatedSchemaList = parser.readDataset().stream()
 								.map(CompanyMediatedSchema::of)
@@ -30,7 +29,7 @@ public class App {
 						log.info("{}", companyMediatedSchemaList.subList(0, 50));
 						log.info("{}", companyMediatedSchemaList.size());
 						mediatedSchemaRecords.addAll(companyMediatedSchemaList);
-					} catch (IOException e) {
+					} catch (ParsingException e) {
 						log.error("", e);
 					}
 					log.info("Total: {}", mediatedSchemaRecords.size());

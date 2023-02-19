@@ -1,13 +1,13 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
+
 import java.util.Collections;
+
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
-import mochotexto.dataset.util.ParsingUtils;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
 
 import java.util.List;
 import java.util.Map;
@@ -15,43 +15,33 @@ import java.util.Map;
 @NoArgsConstructor
 @Setter
 @ToString
-@JsonIgnoreProperties(ignoreUnknown = true)
-public class AvengersDisfoldSchema implements DatasetMapper {
-
-	@JsonProperty("id")
-	private String _id;
+public class DebigaGovukSchema implements JsonDatasetMapper {
 
 	@JsonProperty("name")
 	private String _name;
 
-	@JsonProperty("official_name")
-	private String _officialName;
+	@JsonProperty("company_number")
+	private String _companyNumber;
 
-	@JsonProperty("headquarters_country")
-	private String _headquartersCountry;
+	@JsonProperty("registered_office_address")
+	private String _registeredOfficeAddress;
 
-	@JsonProperty("headquarters_continent")
-	private String _headquartersContinent;
+	@JsonProperty("company_status")
+	private String _companyStatus;
 
-	@JsonProperty("founded")
-	private String _founded;
+	@JsonProperty("company_type")
+	private String _companyType;
 
-	@JsonProperty("employees")
-	private String _employees;
+	@JsonProperty("company_creation_date")
+	private String _companyCreationDate;
 
-	@JsonProperty("ceo")
-	private String _ceo;
-
-	@JsonProperty("market_cap")
-	private String _marketCap;
-
-	@JsonProperty("categories")
-	private List<String> _categories;
+	@JsonProperty("nature_of_business")
+	private String _natureOfBusiness;
 
 
 	@Override
 	public String getName() {
-		return _officialName;
+		return _name;
 	}
 
 	@Override
@@ -61,12 +51,31 @@ public class AvengersDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public List<String> getSectors() {
-		return _categories != null ? _categories : Collections.emptyList();
+		if (_natureOfBusiness == null) {
+			return Collections.emptyList();
+		}
+
+		int startIndex = _natureOfBusiness.indexOf("-");
+		if (startIndex < 0) {
+			return List.of(_natureOfBusiness);
+		}
+
+		String extractedValue;
+		try {
+			extractedValue = _natureOfBusiness.substring(startIndex + 2);
+		} catch (Exception e) {
+			return Collections.emptyList();
+		}
+
+		if (extractedValue.trim().isEmpty()) {
+			return Collections.emptyList();
+		}
+		return List.of(extractedValue);
 	}
 
 	@Override
 	public String getCountry() {
-		return _headquartersContinent;
+		return null;
 	}
 
 	@Override
@@ -76,7 +85,7 @@ public class AvengersDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public String getFoundedOn() {
-		return _founded;
+		return _companyCreationDate;
 	}
 
 	@Override
@@ -86,17 +95,17 @@ public class AvengersDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public Integer getEmployeesCount() {
-		return ParsingUtils.sanitizeInteger(_employees);
+		return null;
 	}
 
 	@Override
 	public List<String> getCeo() {
-		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
+		return Collections.emptyList();
 	}
 
 	@Override
 	public String getHeadquartersLocation() {
-		return _headquartersCountry;
+		return _registeredOfficeAddress;
 	}
 
 	@Override
@@ -121,7 +130,7 @@ public class AvengersDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_marketCap);
+		return null;
 	}
 
 	@Override

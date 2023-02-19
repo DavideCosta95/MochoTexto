@@ -1,11 +1,11 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
-import mochotexto.dataset.util.ParsingUtils;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -15,48 +15,37 @@ import java.util.Map;
 @NoArgsConstructor
 @Setter
 @ToString
-public class IgmmDisfoldSchema implements DatasetMapper {
+public class GrenValuetodaySchema implements JsonDatasetMapper {
 	@JsonProperty("name")
 	private String _name;
 
-	@JsonProperty("code")
-	private String _code;
+	@JsonProperty("annual_revenue_USD")
+	private String _annualRevenueUSD;
 
-	@JsonProperty("rank")
-	private String _rank;
+	@JsonProperty("annual_net_income_USD")
+	private String _annualNetIncomeUSD;
 
-	@JsonProperty("ceo")
+	@JsonProperty("market_capitalization_2022")
+	private String _marketCapitalization2022;
+
+	@JsonProperty("employees_number")
+	private String _employeesNumber;
+
+	@JsonProperty("CEO")
 	private String _ceo;
 
-	@JsonProperty("country")
-	private String _country;
+	@JsonProperty("headquarters_country")
+	private String _headquartersCountry;
 
-	@JsonProperty("sector")
-	private String _sector;
+	@JsonProperty("wikipedia_page_url")
+	private String _wikipediaPageUrl;
 
-	@JsonProperty("industry")
-	private String _industry;
+	@JsonProperty("twitter_page_url")
+	private String _twitterPageUrl;
 
-	@JsonProperty("headquarters")
-	private String _headquarters;
+	@JsonProperty("facebook_page_url")
+	private String _facebookPageUrl;
 
-	@JsonProperty("employees")
-	private String _employees;
-
-	@JsonProperty("founded")
-	private String _founded;
-
-	@JsonProperty("marketcap")
-	private String _marketcap;
-
-	@JsonProperty("revenue")
-	private String _revenue;
-
-	@JsonProperty("net income")
-	private String _netIncome;
-
-	@JsonProperty("link")
-	private List<String> _link;
 
 
 	@Override
@@ -66,24 +55,17 @@ public class IgmmDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public String getStocksName() {
-		return _code;
+		return null;
 	}
 
 	@Override
 	public List<String> getSectors() {
-		List<String> sectors = new ArrayList<>();
-		if (_sector != null) {
-			sectors.add(_sector);
-		}
-		if (_industry != null) {
-			sectors.add(_industry);
-		}
-		return sectors;
+		return Collections.emptyList();
 	}
 
 	@Override
 	public String getCountry() {
-		return _country;
+		return _headquartersCountry;
 	}
 
 	@Override
@@ -93,7 +75,7 @@ public class IgmmDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public String getFoundedOn() {
-		return _founded;
+		return null;
 	}
 
 	@Override
@@ -103,7 +85,7 @@ public class IgmmDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public Integer getEmployeesCount() {
-		return ParsingUtils.sanitizeInteger(_employees);
+		return ParsingUtils.sanitizeInteger(_employeesNumber);
 	}
 
 	@Override
@@ -113,7 +95,7 @@ public class IgmmDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public String getHeadquartersLocation() {
-		return _headquarters;
+		return null;
 	}
 
 	@Override
@@ -133,12 +115,22 @@ public class IgmmDisfoldSchema implements DatasetMapper {
 
 	@Override
 	public List<String> getUrls() {
-		return _link != null ? _link : Collections.emptyList();
+		List<String> urls = new ArrayList<>();
+		if (_wikipediaPageUrl != null) {
+			urls.add(_wikipediaPageUrl);
+		}
+		if (_twitterPageUrl != null) {
+			urls.add(_twitterPageUrl);
+		}
+		if (_facebookPageUrl != null) {
+			urls.add(_facebookPageUrl);
+		}
+		return urls;
 	}
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_marketcap);
+		return ParsingUtils.sanitizeCurrencyLong(_marketCapitalization2022);
 	}
 
 	@Override

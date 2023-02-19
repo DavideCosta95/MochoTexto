@@ -1,35 +1,43 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import java.util.Collections;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
-import mochotexto.dataset.util.ParsingUtils;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
+import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
 @NoArgsConstructor
 @Setter
 @ToString
-public class GioponspizCompaniesmarketcapSchema implements DatasetMapper {
-
+public class GrenFtSchema implements JsonDatasetMapper {
 	@JsonProperty("name")
 	private String _name;
 
-	@JsonProperty("codice")
-	private String _codice;
-
-	@JsonProperty("pricecap")
-	private String _pricecap;
-
-	@JsonProperty("price")
-	private String _price;
-
 	@JsonProperty("country")
 	private String _country;
+
+	@JsonProperty("sector")
+	private String _sector;
+
+	@JsonProperty("revenue_2020_EU")
+	private String _revenue2020EU;
+
+	@JsonProperty("revenue_2017_EU")
+	private String _revenue2017EU;
+
+	@JsonProperty("employees_number_2020")
+	private String _employeesNumber2020;
+
+	@JsonProperty("employees_number_2017")
+	private String _employeesNumber2017;
+
+	@JsonProperty("founding_year")
+	private String _foundingYear;
 
 
 	@Override
@@ -39,12 +47,12 @@ public class GioponspizCompaniesmarketcapSchema implements DatasetMapper {
 
 	@Override
 	public String getStocksName() {
-		return _codice;
+		return null;
 	}
 
 	@Override
 	public List<String> getSectors() {
-		return Collections.emptyList();
+		return _sector != null ? List.of(_sector) : Collections.emptyList();
 	}
 
 	@Override
@@ -54,12 +62,13 @@ public class GioponspizCompaniesmarketcapSchema implements DatasetMapper {
 
 	@Override
 	public Float getSharePriceUSD() {
-		return ParsingUtils.sanitizeCurrencyFloat(_price);
+		return null;
 	}
 
 	@Override
 	public String getFoundedOn() {
-		return null;
+		Integer parsed = ParsingUtils.sanitizeInteger(_foundingYear);
+		return parsed != null ? parsed.toString() : null;
 	}
 
 	@Override
@@ -67,6 +76,7 @@ public class GioponspizCompaniesmarketcapSchema implements DatasetMapper {
 		return Collections.emptyList();
 	}
 
+	// TODO: handle employees count 2020
 	@Override
 	public Integer getEmployeesCount() {
 		return null;
@@ -104,11 +114,12 @@ public class GioponspizCompaniesmarketcapSchema implements DatasetMapper {
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_pricecap);
+		return null;
 	}
 
 	@Override
 	public Long getRevenue2022USD() {
 		return null;
 	}
+	// TODO: handle EUR value
 }

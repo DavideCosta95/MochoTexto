@@ -1,4 +1,4 @@
-package mochotexto.dataset;
+package mochotexto.dataset.mapper;
 
 import java.util.List;
 import java.util.Map;

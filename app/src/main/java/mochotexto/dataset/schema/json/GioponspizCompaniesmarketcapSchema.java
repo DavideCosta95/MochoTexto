@@ -1,45 +1,35 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import java.util.Collections;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
-import mochotexto.dataset.util.ParsingUtils;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
-import java.util.Collections;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 
 @NoArgsConstructor
 @Setter
 @ToString
-public class SlytherinValuetodaySchema implements DatasetMapper {
-	@JsonProperty("link")
-	private String _link;
-
-	@JsonProperty("rank")
-	private String _rank;
+public class GioponspizCompaniesmarketcapSchema implements JsonDatasetMapper {
 
 	@JsonProperty("name")
 	private String _name;
 
-	@JsonProperty("ceo")
-	private String _ceo;
+	@JsonProperty("codice")
+	private String _codice;
 
-	@JsonProperty("founded")
-	private String _founded;
+	@JsonProperty("pricecap")
+	private String _pricecap;
 
-	@JsonProperty("revenue")
-	private String _revenue;
+	@JsonProperty("price")
+	private String _price;
 
 	@JsonProperty("country")
 	private String _country;
-
-	@JsonProperty("industry")
-	// because people does not know how to properly work
-	private Object _industry;
 
 
 	@Override
@@ -49,14 +39,12 @@ public class SlytherinValuetodaySchema implements DatasetMapper {
 
 	@Override
 	public String getStocksName() {
-		return null;
+		return _codice;
 	}
 
 	@Override
 	public List<String> getSectors() {
-		return ParsingUtils.parseStringList(_industry).stream()
-				.filter(s -> !s.trim().equalsIgnoreCase("not found"))
-				.collect(Collectors.toList());
+		return Collections.emptyList();
 	}
 
 	@Override
@@ -66,12 +54,12 @@ public class SlytherinValuetodaySchema implements DatasetMapper {
 
 	@Override
 	public Float getSharePriceUSD() {
-		return null;
+		return ParsingUtils.sanitizeCurrencyFloat(_price);
 	}
 
 	@Override
 	public String getFoundedOn() {
-		return _founded;
+		return null;
 	}
 
 	@Override
@@ -86,7 +74,7 @@ public class SlytherinValuetodaySchema implements DatasetMapper {
 
 	@Override
 	public List<String> getCeo() {
-		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
+		return Collections.emptyList();
 	}
 
 	@Override
@@ -116,11 +104,11 @@ public class SlytherinValuetodaySchema implements DatasetMapper {
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return null;
+		return ParsingUtils.sanitizeCurrencyLong(_pricecap);
 	}
 
 	@Override
 	public Long getRevenue2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_revenue);
+		return null;
 	}
 }

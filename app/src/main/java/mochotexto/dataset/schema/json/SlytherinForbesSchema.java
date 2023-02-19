@@ -1,11 +1,11 @@
-package mochotexto.dataset.schemamapper;
+package mochotexto.dataset.schema.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.DatasetMapper;
-import mochotexto.dataset.util.ParsingUtils;
+import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
 import java.util.Collections;
 import java.util.List;
@@ -14,30 +14,30 @@ import java.util.Map;
 @NoArgsConstructor
 @Setter
 @ToString
-public class GrenFtSchema implements DatasetMapper {
+public class SlytherinForbesSchema implements JsonDatasetMapper {
+	@JsonProperty("link")
+	private String _link;
+
 	@JsonProperty("name")
 	private String _name;
+
+	@JsonProperty("industry")
+	private String _industry;
+
+	@JsonProperty("founded")
+	private String _founded;
 
 	@JsonProperty("country")
 	private String _country;
 
-	@JsonProperty("sector")
-	private String _sector;
+	@JsonProperty("ceo")
+	private String _ceo;
 
-	@JsonProperty("revenue_2020_EU")
-	private String _revenue2020EU;
+	@JsonProperty("employees")
+	private String _employees;
 
-	@JsonProperty("revenue_2017_EU")
-	private String _revenue2017EU;
-
-	@JsonProperty("employees_number_2020")
-	private String _employeesNumber2020;
-
-	@JsonProperty("employees_number_2017")
-	private String _employeesNumber2017;
-
-	@JsonProperty("founding_year")
-	private String _foundingYear;
+	@JsonProperty("revenue")
+	private String _revenue;
 
 
 	@Override
@@ -52,7 +52,7 @@ public class GrenFtSchema implements DatasetMapper {
 
 	@Override
 	public List<String> getSectors() {
-		return _sector != null ? List.of(_sector) : Collections.emptyList();
+		return _industry != null ? List.of(_industry) : Collections.emptyList();
 	}
 
 	@Override
@@ -67,7 +67,7 @@ public class GrenFtSchema implements DatasetMapper {
 
 	@Override
 	public String getFoundedOn() {
-		Integer parsed = ParsingUtils.sanitizeInteger(_foundingYear);
+		Integer parsed = ParsingUtils.sanitizeInteger(_founded);
 		return parsed != null ? parsed.toString() : null;
 	}
 
@@ -76,15 +76,14 @@ public class GrenFtSchema implements DatasetMapper {
 		return Collections.emptyList();
 	}
 
-	// TODO: handle employees count 2020
 	@Override
 	public Integer getEmployeesCount() {
-		return null;
+		return ParsingUtils.sanitizeInteger(_employees);
 	}
 
 	@Override
 	public List<String> getCeo() {
-		return Collections.emptyList();
+		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
 	}
 
 	@Override
@@ -119,7 +118,6 @@ public class GrenFtSchema implements DatasetMapper {
 
 	@Override
 	public Long getRevenue2022USD() {
-		return null;
+		return ParsingUtils.sanitizeCurrencyLong(_revenue);
 	}
-	// TODO: handle EUR value
 }

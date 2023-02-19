@@ -1,7 +1,8 @@
-package mochotexto.dataset;
+package mochotexto.dataset.schema;
 
 import lombok.Builder;
 import lombok.Data;
+import mochotexto.dataset.mapper.DatasetMapper;
 
 import java.util.List;
 import java.util.Map;
