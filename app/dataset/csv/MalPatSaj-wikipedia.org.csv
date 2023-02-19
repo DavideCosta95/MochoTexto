@@ -1,0 +1,3091 @@
+_id,_name,_industry,_sector,_headquarters,_founded
+0,Agrana,Consumer goods,Food products,Vienna,1988
+1,pewag group,Industrials,Industrial machinery,Klagenfurt,1479
+2,AHT Cooling Systems,Industrials,Electronic equipment,Rottenmann,1983
+3,Ammerer Bed Company,Consumer goods,Durable household products,Ried im Innkreis,1763
+4,ams AG,Technology,Semiconductors,Premst�tten,1981
+5,Andritz,Industrials,Industrial machinery,Graz,1852
+6,Atomic Skis,Consumer goods,Recreational products,Altenmarkt im Pongau,1955
+7,Augarten porcelain,Consumer goods,Durable household products,Vienna,1923
+8,AMAG Austria Metall AG,Industrials,Diversified industrials,Braunau am Inn,1938
+9,Austria Wirtschaftsservice Gesellschaft (aws),Financials,Banks,Vienna,1954
+10,Austrian Airlines,Consumer services,Airlines,Schwechat,1957
+11,AVL,Industrials,Business support services,Graz,1948
+12,B&R,Industrials,Electronic equipment,Eggelsberg,1979
+13,Bank Austria,Financials,Banks,Vienna,1855
+14,bauMax,Consumer services,Home improvement retailers,Klosterneuburg,1976
+15,BAWAG,Financials,Banks,Vienna,1922
+16,Bene AG,Consumer goods,Furnishings,Waidhofen an der Ybbs,1790
+17,Bestattung Wien,Consumer services,Specialized consumer services,Vienna,1907
+18,Billa,Consumer services,Food retailers & wholesalers,Wiener Neudorf,1953
+19,B�hler-Uddeholm,Basic materials,Iron & steel,Vienna,1991
+20,Borealis,Basic materials,Commodity chemicals,Vienna,1994
+21,B�sendorfer,Consumer goods,Recreational products,Vienna,1828
+22,Bundesimmobiliengesellschaft (BIG),Financials,Real estate holding & development,Vienna,1992
+23,Cineplexx Cinemas,Consumer services,Recreational services,Vienna,1993
+24,CISC Semiconductor,Technology,Semiconductors,Klagenfurt,1999
+25,Delfortgroup,Basic materials,Paper,Traun,2006
+26,Dependeq,Industrials,Business support services,Vienna,1999
+27,Diamond Aircraft Industries,Consumer goods,Aerospace,Wiener Neustadt,1981
+28,Doka Group,Industrials,Heavy construction,Amstetten,1868
+29,Doppelmayr Garaventa Group,Consumer goods,Recreational products,Wolfurt,1892
+30,Dorotheum,Consumer services,Specialized consumer services,Vienna,1707
+31,Erste Bank,Financials,Banks,Vienna,2008
+32,Fabasoft,Technology,Software,Linz,1988
+33,Fischer,Consumer goods,Recreational products,Ried im Innkreis,1924
+34,Frequentis,Technology,Telecommunications equipment,Vienna,1947
+35,GE Jenbacher,Industrials,Industrial machinery,Jenbach,1959
+36,Gericom,Technology,Computer hardware,Linz,1990
+37,Gessler,Consumer goods,Distillers & vintners,Vienna,1777
+38,Glock Ges.m.b.H.,Industrials,Defense,Deutsch-Wagram,1963
+39,Goldscheider ceramics,Consumer goods,Durable household products,Vienna,1885
+40,Julius Blum,Consumer goods,Furnishings,H�chst,1952
+41,Julius Meinl,Consumer goods,Beverages,Vienna,1862
+42,Kapsch,Technology,Telecommunications equipment,Vienna,1892
+43,Kika,Consumer goods,Furnishings,Vienna,1973[3]
+44,Kores,Consumer goods,Nondurable household products,Vienna,1887
+45,KTM,Consumer goods,Automobiles,Mattighofen,1934
+46,Lenzing AG,Basic materials,Commodity chemicals,Lenzing,1938
+47,L�blich & Co.,Industrials,Industrial machinery,Vienna,1738
+48,Lyoness,Consumer services,Specialized consumer services,Graz,2003
+49,Magna Steyr,Consumer goods,Automobiles,Graz,2001
+50,Mayr-Melnhof,Industrials,Containers & packaging,Vienna,1950
+51,Neumann International,Industrials,Business training & employment agencies,Vienna,1971
+52,Niki,Consumer services,Airlines,Schwechat,2003
+53,Noctua,Consumer goods,Computer hardware,Vienna,2005
+54,�AF,Consumer goods,Automobiles,Floridsdorf,1907
+55,�BB,Industrials,Railroads,Vienna,1923
+56,OMV,Oil & gas,Exploration & production,Vienna,1956
+57,Onepharm,Health care,Biotechnology,Vienna,2005
+58,�sterreichische Industrieholding AG,Financials,Asset managers,Vienna,1967
+59,�sterreichische Post,Logistics,Delivery services,Vienna,1999
+60,Palfinger,Industrials,Commercial vehicles & trucks,Salzburg,1932
+61,Pfanner,Consumer goods,Beverages,Lauterach,1856
+62,Piatnik & S�hne,Consumer goods,Recreational products,Vienna,1824
+63,Plansee Group,Basic materials,Commodity chemicals,Breitenwang,1921
+64,Puch,Consumer goods,Automobiles,Graz,1899
+65,Raiffeisen,Financials,Banks,Vienna,1927
+66,Red Bull GmbH,Consumer goods,Beverages,Fuschl am See,1987
+67,RHI AG,Industrials,Industrial suppliers,Vienna,1834
+68,Rosenbauer,Industrials,Commercial vehicles & trucks,Leonding,1866
+69,Rotax,Industrials,Auto components,Gunskirchen,1920
+70,Runtastic,Technology,Software,Pasching,2009
+71,Semperit,Basic materials,Commodity chemicals,Vienna,1824
+72,SKIDATA,Industrials,Electronic equipment,Gr�dig,1977
+73,Steyr Mannlicher,Industrials,Defense,Sankt Ulrich bei Steyr,1864
+74,Steyr Motors GmbH,Industrials,Auto components,Sankt Ulrich bei Steyr,2001
+75,Steyr Tractor,Consumer goods,Automobiles,Floridsdorf,1907
+76,Strabag,Industrials,Heavy construction,Vienna,1835
+77,Stroh,Consumer goods,Distillers & vintners,Klagenfurt,1832
+78,Swarovski,Consumer goods,Clothing & accessories,Wattens,1895
+79,Taurob,Robotics,Autonomous robots,Vienna,2010
+80,Telekom Austria,Telecommunications,Fixed line telecommunications,Vienna,1998
+81,TourRadar,Consumer services,Travel & tourism,Vienna,2010
+82,Tushek&Spigel Supercars,Consumer goods,Automobiles,Graz,2012
+83,Uniqa,Financials,Full line insurance,Vienna,1922
+84,Verbund,Utilities,Alternative electricity,Vienna,1947
+85,Vienna Insurance Group,Financials,Full line insurance,Vienna,1824
+86,Voestalpine,Basic materials,Iron & steel,Linz,1938
+87,Wienerberger,Industrials,Building materials & fixtures,Vienna,1819
+88,Zumtobel Lighting Group,Industrials,Building materials & fixtures,Dornbirn,1950
+89,Abelag Aviation,Consumer services,Airlines,Zaventem,1964
+90,Ablynx,Health care,Biotechnology,Ghent[7],2001
+91,Ackermans & van Haaren,Conglomerates,-,Antwerp,1876
+92,AF Compressors,Industrials,Industrial Engineering,Liege,1870
+93,AG Real Estate,Financials,Real estate holding and development,Brussels,1824
+94,Ageas,Financials,Consumer finance,Brussels,1990
+95,Agfa-Gevaert,Technology,Computer services,Mortsel,1867
+96,Agoria,Industrials,Business support services,Brussels,1946
+97,AIM Productions,Technology,Computer services,Hove,1994
+98,Alpro,Consumer goods,Food products,Ghent[8],1980
+99,Anheuser-Busch InBev,Consumer goods,Brewers,Leuven,2008
+100,Antwerp Water Works,Utilities,Water,Antwerp,1880
+101,Aquafin,Utilities,Water,Antwerp,1990
+102,ASL Airlines Belgium,Industrials,Delivery services,Li�ge,1999
+103,Associated Weavers,Consumer goods,Clothing and accessories,Ronse,1964
+104,Aveve,Consumer goods,Farming and fishing,Aalter,1890
+105,Aviapartner,Industrials,Delivery services,Brussels,1949
+106,Barco,Technology,Computer hardware,Kortrijk,1934
+107,Base,Industrials,Business support services,Brussels,1993
+108,Beaulieu International Group,Consumer goods,Clothing and accessories,Wielsbeke,1959
+109,Befimmo,Financials,Real estate holding and development,Brussels,1995
+110,Bekaert,Basic materials,Specialty chemicals,Kortrijk,1880
+111,Belgian Beer Caf�,Consumer services,Restaurants and bars,Leuven,1998
+112,Belgian Investment Company for Developing Countries,Financials,Specialty finance,Brussels,2001
+113,Bpost,Industrials,Delivery services,Brussels,2000
+114,Brussels Airlines,Consumer services,Airlines,Brussels,2006
+115,Brussels Regional Investment Company,Financials,Specialty finance,Brussels,1984
+116,Cockerill Sambre,Basic materials,Iron and steel,Seraing,1817
+117,Carmeuse,Basic materials,General mining,Louvain-la-Neuve,1860
+118,Cartamundi,Consumer goods,Toys,Turnhout,1970
+119,Cavalier Chocolate,Consumer goods,Food products,Eeklo,1996
+120,Claeys,Industrials,Commercial vehicles and trucks,Zedelgem,1906
+121,Cofinimmo,Financials,Real estate services,Brussels,1983
+122,Colruyt Group,Consumer services,Food retailers and wholesalers,Halle,1925
+123,Compagnie Maritime Belge,Industrials,Marine transportation,Antwerp,1895
+124,Confiserie Roodthooft,Consumer goods,Food products,Antwerp,1925
+125,Copiepresse,Consumer services,Publishing,Brussels,2000
+126,De Lijn,Consumer services,Travel and tourism,Mechelen,1991
+127,Deceuninck,Basic materials,Commodity chemicals,Hooglede,1937
+128,Delhaize Group,Consumer goods,Food products,Brussels,1867
+129,DEME,Industrials,Heavy construction,Zwijndrecht,1991
+130,D'Ieteren,Consumer services,Specialized consumer services,Brussels,1805
+131,DOMO Group,Consumer goods,Clothing and accessories,Ghent,1992
+132,Ecover,Consumer goods,Nondurable household products,Malle,1979
+133,Effortel,Financials,Financial services,Brussels,2005
+134,ETAP Lighting,Consumer goods,Building materials and fixtures,Malle,1949
+135,Eurogentec,Health care,Biotechnology,Seraing,1985
+136,EVS Broadcast Equipment,Technology,Telecommunications equipment,Li�ge,1994
+137,Ferranti Computer Systems,Technology,Computer hardware,Antwerp,1976
+138,Fluxys,Oil and gas,Exploration and production,Brussels,2001
+139,Forrest Group,Basic materials,General mining,Wavre,1922
+140,Gimv,Financials,Equity investment instruments,Brussels,1980[9]
+141,Godiva Chocolatier,Consumer goods,Food products,Brussels,1926
+142,Group Joos,Consumer services,Publishing,Turnhout,1935
+143,Groupe Bruxelles Lambert,Industrials,Diversified industrials,Brussels,1902
+144,Guylian,Consumer goods,Food products,Sint-Niklaas,1960
+145,IMEC,Technology,Computer services,Leuven,1984
+146,Imperia Automobiles,Consumer goods,Automobiles,Li�ge,1906
+147,Innogenetics,Health care,Biotechnology,Ghent,1985
+148,Jan De Nul,Industrials,Building materials and fixtures,Aalst,1938
+149,Janssen Pharmaceutica,Health care,Pharmaceuticals,Beerse,1953
+150,Jonckheere,Industrials,Commercial vehicles and trucks,Roeselare,1881
+151,Katoen Natie,Industrials,Delivery services,Antwerp,1854
+152,KBC Bank,Financials,Banks,Brussels,1985
+153,Keytrade Bank,Financials,Investment services,Brussels,1998
+154,Kinepolis,Consumer services,Recreational services,Ghent,1997
+155,Larian Studios,Technology,Software,Ghent,1996
+156,Libeco-Lagae,Consumer goods,Clothing and accessories,Meulebeke,1997
+157,Louis Delhaize Group,Consumer services,Food retailers and wholesalers,Charleroi,1875
+158,Luciad NV,Technology,Computer services,Leuven,1999
+159,Materialise NV,Technology,Computer services,Leuven,1990
+160,Metallo-Chimique,Basic materials,Nonferrous metals,Beerse,1919
+161,Mutoh Europe nv,Consumer goods,Consumer electronics,Ostend,1990
+162,Namahn,Industrials,Business support services,Brussels,1987
+163,National Railway Company of Belgium,Consumer services,Rail transport,Brussels,1926
+164,Compagnie Nationale � Portefeuille (CNP),Industrials,Diversified industrials,Gerpinnes,1981
+165,Nyrstar,Basic materials,General mining,Balen,2007
+166,Option N.V.,Technology,Computer hardware,Leuven,1986
+167,Proost,Consumer services,Publishing,Turnhout,1913
+168,Proximus,Telecommunications,Mobile telecommunications,Brussels,1994
+169,Proximus Group,Telecommunications,Fixed line telecommunications,Brussels,1930
+170,Regional Investment Company of Wallonia,Financials,Investment services,Li�ge,1979
+171,Reynaers Aluminium,Basic materials,Aluminum,Duffel,1965
+172,RHJ International,Financials,Asset managers,Brussels,1786
+173,Ridley Bikes,Consumer goods,Recreational products,Paal,1997
+174,Saluc,Consumer goods,Recreational products,P�ruwelz,1923
+175,Septentrio,Consumer goods,Consumer electronics,Leuven,2000
+176,Seyntex,Consumer goods,Clothing and accessories,Oostrozebeke,1908
+177,Skytech,Industrials,Aerospace,Brussels,1989
+178,Sofina,Financials,Equity investment instruments,Brussels,1898
+179,Solvay S.A.,Basic materials,Specialty chemicals,Brussels,1863
+180,Soudal,Basic materials,Specialty chemicals,Turnhout,1966
+181,Sugar refinery of Tienen,Consumer goods,Food products,Tienen,1836
+182,Telenet,Telecommunications,Fixed line telecommunications,Mechelen,1996
+183,Teleroute,Industrials,Delivery services,Brussels,1985
+184,Thermote & Vanhalst,Industrials,Commercial vehicles and trucks,Waregem,1969
+185,Thomas Cook Airlines Belgium,Consumer services,Airlines,Zaventem,2001
+186,Tibotec,Health care,Pharmaceuticals,Mechelen,1994
+187,TiGenix,Health care,Biotechnology,Leuven,2000
+188,Tractebel,Industrials,Business support services,Brussels,1986
+189,Truvo,Industrials,Business support services,Antwerp,1968
+190,TUIfly Belgium,Consumer services,Airlines,Zaventem,2003
+191,UCB,Health care,Pharmaceuticals,Brussels,1928
+192,UMedia,Consumer services,Broadcasting and entertainment,Brussels,2010
+193,Umicore,Basic materials,General mining,Brussels,1989
+194,Unibind,Industrials,Containers and packaging,Brussels,1939
+195,Union Mini�re du Haut Katanga,Basic materials,General mining,Brussels,1906
+196,Van Genechten Packaging,Industrials,Containers and packaging,Turnhout,1833
+197,Van Hool,Industrials,Commercial vehicles and trucks,Koningshooikt,1947
+198,Vanbreda International,Financials,Life insurance,Antwerp,1937
+199,Vanparys,Consumer goods,Food products,Brussels,1889
+200,Velleman,Industrials,Electronic equipment,Gavere,1975
+201,Vin�otte,Industrials,Business support services,Brussels,1873
+202,VLM Airlines,Consumer services,Airlines,Antwerp,1992
+203,Volvo Car Gent,Consumer goods,Automobiles,Ghent,1965
+204,Walloon SME finance and guarantee company,Financials,Specialty finance,Li�ge,2002
+205,Zetes,Technology,Technology hardware,Brussels,1984
+206,Air VIA,Consumer services,Airlines,Sofia,1990
+207,Ariana Brewery,Consumer goods,Brewers,Sofia,1884
+208,Armimex,Industrials,Defense,Sofia,1992
+209,Arsenal AD,Industrials,Defense,Kazanlak,1878
+210,Asarel Medet,Basic materials,Nonferrous metals,Panagyurishte,1964
+211,Astika Brewery,Consumer goods,Brewers,Pazardzhik,1980
+212,Aukro.bg,Consumer services,Broadline retailers,Sofia,2007
+213,Balkanstroy,Industrials,Construction & materials,Sofia,1994
+214,Balkantourist,Consumer services,Travel & tourism,Sofia,1948
+215,Balkanton,Consumer services,Record label,Sofia,1952
+216,BH Air,Consumer services,Airlines,Sofia,2001
+217,Black Sea Studios,Technology,Software,Sofia,2001
+218,Blizoo,Telecommunications,Fixed line telecommunications,Sofia,2010
+219,Bulgaria Air,Consumer services,Airlines,Sofia,2002
+220,Bulgarian Agricultural and Commercial Bank,Financials,Banks,Sofia,1969
+221,Bulgarian Air Charter,Consumer services,Airlines,Sofia,2000
+222,Bulgarian Development Bank,Financials,Banks,Sofia,1999
+223,Bulgarian Energy Holding,Oil & gas,Exploration & production,Sofia,2008
+224,Bulgarian National Bank,Financials,Banks,Sofia,1879
+225,Bulgarian Postbank,Financials,Banks,Sofia,1991
+226,Bulgarian Posts,Industrials,Delivery services,Sofia,1879
+227,Bulgarian State Railways,Industrials,Railroads,Sofia,1885
+228,Bulgartabac,Consumer goods,Tobacco,Sofia,1947
+229,Cargoair,Industrials,Delivery services,Sofia,2007
+230,Central Cooperative Bank,Financials,Banks,Sofia,1991
+231,Chimimport,Conglomerates,-,Sofia,1947
+232,Corecom,Consumer services,Specialty retailers,Sofia,1960
+233,Cumerio Med,Basic materials,Nonferrous metals,Pirdop,1932
+234,Diema,Consumer services,Broadcasting & entertainment,Sofia,1999
+235,DSK Bank,Financials,Banks,Sofia,1951
+236,DZI,Financials,Full line insurance,Sofia,1946
+237,Economedia,Consumer services,Publishing,Sofia[1],1993[1]
+238,Egmont Bulgaria,Consumer services,Publishing,Sofia,1991
+239,Era,Consumer services,Publishing,Sofia,1996
+240,Eurofootball,Consumer services,Gambling,Sofia,1990
+241,Fantastico,Consumer services,Food retailers & wholesalers,Sofia,1991
+242,First Investment Bank,Financials,Banks,Sofia,1993
+243,Girdap,Financials,Banks,Ruse,1881
+244,Haemimont Games,Technology,Software,Sofia,1997
+245,Heli Air Services,Consumer services,Airlines,Sofia,1990
+246,Hotel Rodina,Consumer services,Hotels,Sofia,1979
+247,HVB Bank Biochim,Financials,Banks,Sofia,1986
+248,Kamenitza,Consumer goods,Brewers,Plovdiv,1881
+249,Karlsberg Bulgaria AD,Consumer goods,Brewers,Shumen,2002
+250,Kino Nova,Consumer services,Broadcasting & entertainment,Sofia,2011
+251,Kintex,Industrials,Defense,Sofia,1966
+252,Kremikovtzi AD,Basic materials,Iron & steel,Sofia,1963
+253,M3 Communications Group Inc,Consumer services,Broadcasting & entertainment,Sofia,1994
+254,Maxeurope,Consumer goods,Recreational products,Plovdiv,1996
+255,Mtel (Mobiltel),Telecommunications,Mobile telecommunications,Sofia,1994
+256,Multigroup,Conglomerates,-,Sofia,1989[2]
+257,Navibulgar,Industrials,Marine transportation,Varna,1892
+258,LUKOIL Neftochim Burgas,Oil & gas,Exploration & production,Burgas,1961[3]
+259,NEK EAD,Utilities,Conventional electricity,Sofia,1991
+260,Neterra,Telecommunications,Fixed line telecommunications,Sofia,1996
+261,Nimero,Technology,Software,Sofia,2009
+262,Ontotext,Technology,Software,Sofia,2000
+263,Overgas,Oil & gas,Pipelines,Sofia,1991
+264,Petrol AD,Oil & gas,Pipelines,Sofia,1932
+265,Pirinsko Pivo,Consumer goods,Brewers,Blagoevgrad,1969
+266,Prista Oil,Basic materials,Specialty chemicals,Ruse,1993
+267,Prosveta Publishing House,Consumer services,Publishing,Sofia,1945
+268,Raiffeisen Bulgaria,Financials,Banks,Sofia,1994
+269,Sucreries Raffineries Bulgares,Consumer goods,Food products,Sofia,1897
+270,Technomarket,Consumer services,Consumer electronics,Sofia[4],1992
+271,Telenor Bulgaria,Telecommunications,Mobile telecommunications,Sofia,2001
+272,TEREM,Industrials,Defense,Sofia,1963[5]
+273,Texim Bank,Financials,Banks,Sofia,1992
+274,UniCredit Bulbank,Financials,Banks,Sofia,1964
+275,Unionbank,Financials,Banks,Sofia,1991
+276,United Bulgarian Bank,Financials,Banks,Sofia,1992
+277,Varna shipyard,Industrials,Shipbuilding,Varna,1907
+278,Vitta Foods,Consumer goods,Food products,Svilengrad,2006
+279,Vivacom,Telecommunications,Fixed line telecommunications,Sofia,1992
+280,VRZ Karlovo,Industrials,Commercial vehicles & trucks,Karlovo,1964
+281,3. Maj,Industrials,Commercial vehicles & trucks,Rijeka,1892
+282,3LHD,Industrials,Business support services,Zagreb,1994
+283,A1 Hrvatska,Telecommunications,Mobile telecommunications,Zagreb,1999
+284,LNG Hrvatska,Oil & gas,Exploration & production,Omi�alj,2013
+285,Adriatic Croatia International Club,Consumer services,Travel & tourism,Opatija,1983
+286,Adris Grupa,Consumer goods,Tobacco,Rovinj,2003
+287,Agrokor,Consumer goods,Food products,Zagreb,1976
+288,Aquarius Records,Consumer services,Broadcasting & entertainment,Zagreb,1995
+289,Atlantic Grupa,Consumer goods,Food products,Zagreb,1991
+290,Atlantska plovidba,Industrials,Marine transportation,Dubrovnik,1955
+291,Badel 1862,Consumer goods,Distillers & vintners,Zagreb,1862
+292,BioGnost,Health care,Pharmaceuticals,Zagreb,1990
+293,Blue Line International,Industrials,Marine transportation,Split,2003
+294,Bonbon,Telecommunications,Mobile telecommunications,Zagreb,2010
+295,Brodosplit,Industrials,Commercial vehicles & trucks,Split,1922
+296,?akove?ki mlinovi,Consumer goods,Food products,?akovec,1893
+297,Carlsberg Croatia,Consumer goods,Brewers,Koprivnica,2004
+298,Cedevita,Consumer goods,Soft drinks,Zagreb,1929
+299,Croatia Airlines,Consumer services,Airlines,Zagreb,1989
+300,Croatia Film,Consumer services,Broadcasting & entertainment,Zagreb,1946
+301,Croatia osiguranje,Financials,Full line insurance,Zagreb,1884
+302,Croatia Records,Consumer services,Broadcasting & entertainment,Zagreb,1947
+303,Croatian National Bank,Financials,Banks,Zagreb,1990
+304,Croatian Radiotelevision,Consumer services,Broadcasting & entertainment,Zagreb,1926
+305,Croatian Railways,Industrials,Railroads,Zagreb,1991
+306,Croteam,Technology,Software,Zagreb,1993
+307,Crotram,Industrials,Commercial vehicles & trucks,Zagreb,1994
+308,Dalekovod,Industrials,Electrical components & equipment,Zagreb,1949
+309,Dallas Records,Consumer services,Broadcasting & entertainment,Zagreb,1994
+310,Digitron,Industrials,Electronic equipment,Buje,1971
+311,DOK-ING,Industrials,Diversified industrials,Zagreb,1992
+312,�uro �akovi?,Industrials,Diversified industrials,Slavonski Brod,1991
+313,Ericsson Nikola Tesla,Telecommunications,Mobile telecommunications,Zagreb,1949
+314,European Coastal Airlines,Consumer services,Airlines,Split,2000
+315,Fortenova Group,Consumer goods,Food products,Zagreb,2019
+316,Franck,Consumer goods,Soft drinks,Zagreb,1892
+317,Geofoto,Technology,Software,Zagreb,1993
+318,Hanza Media,Consumer services,Publishing,Zagreb,1990
+319,Hit Records,Consumer services,Broadcasting & entertainment,Zagreb,2003
+320,H�nigsberg & Deutsch,Industrials,Business support services,Zagreb,1889
+321,Hrvatska elektroprivreda,Utilities,Conventional electricity,Zagreb,1895
+322,Hrvatska po�ta,Industrials,Delivery services,Zagreb,1999
+323,Hrvatska po�tanska banka,Financials,Banks,Zagreb,1991
+324,Hrvatske autoceste,Industrials,Transportation services,Zagreb,2001
+325,Hrvatski Telekom,Telecommunications,Fixed line telecommunications,Zagreb,1998
+326,HS Produkt,Industrials,Defense,Ozalj,1991
+327,IN2,Technology,Software,Zagreb,1992
+328,INA,Oil & gas,Exploration & production,Zagreb,1964
+329,Infobip,Technology,Software,Vodnjan,2006
+330,INGRA,Industrials,Heavy construction,Zagreb,1955
+331,Institut IGH,Industrials,Heavy construction,Zagreb,1949
+332,Iskon Internet,Technology,Internet,Zagreb,1997
+333,Jadran Film,Consumer services,Broadcasting & entertainment,Zagreb,1946
+334,Jadranski naftovod,Oil & gas,Pipelines,Zagreb,1974[1]
+335,Jadrolinija,Industrials,Marine transportation,Rijeka,1947
+336,Jamnica,Consumer goods,Soft drinks,Zagreb,1828
+337,Jugoton,Consumer services,Broadcasting & entertainment,Zagreb,1947
+338,Karlova?ka pivovara,Consumer goods,Brewers,Karlovac,1854
+339,Kandit,Consumer goods,Food products,Osijek,1920
+340,Koestlin,Consumer goods,Food products,Bjelovar,1905
+341,KON?AR Group,Industrials,Electronic equipment,Zagreb,1921
+342,Konstruktor-Split,Industrials,Heavy construction,Split,1945
+343,Konzum,Consumer services,Food retailers & wholesalers,Zagreb,1957
+344,Kraljevica Shipyard,Industrials,Commercial vehicles & trucks,Kraljevica,1729
+345,Kra�,Consumer goods,Food products,Zagreb,1950
+346,Ledo,Consumer goods,Food products,Zagreb,1958
+347,Luka Plo?e,Industrials,Transportation services,Plo?e,1952
+348,Matica hrvatska,Consumer services,Publishing,Zagreb,1842
+349,Menart Records,Consumer services,Broadcasting & entertainment,Zagreb,1994
+350,Narodni trgova?ki lanac,Consumer services,Broadline retailers,Zagreb,2008
+351,Oda�ilja?i i veze,Technology,Internet,Zagreb,2001
+352,Petrokemija,Basic materials,Commodity chemicals,Kutina,1968
+353,Pivovara Li?anka,Consumer goods,Brewers,Gospi?,1997
+354,Plinacro,Utilities,Gas distribution,Zagreb,2001
+355,Pliva,Health care,Pharmaceuticals,Zagreb,1921
+356,Plovput,Industrials,Transportation services,Split,1992
+357,Podravka,Consumer goods,Food products,Koprivnica,1934
+358,Primorska banka,Financials,Banks,Rijeka,2001
+359,Privredna banka Zagreb,Financials,Banks,Zagreb,1966
+360,Rimac Automobili,Consumer goods,Automobiles,Sveta Nedelja,2009
+361,RIZ,Industrials,Electronic equipment,Zagreb,1948
+362,�kolska knjiga,Consumer services,Publishing,Zagreb,1950
+363,Sljeme,Consumer goods,Durable household products,Zagreb,1921
+364,Splitska banka,Financials,Banks,Split,1965
+365,Suzy,Consumer services,Broadcasting & entertainment,Zagreb,1972
+366,Tehnika,Industrials,Business support services,Zagreb,1947
+367,Tomato,Telecommunications,Mobile telecommunications,Zagreb,2006
+368,TOZ Penkala,Consumer goods,Nondurable household products,Zagreb,1937
+369,Trade Air,Consumer services,Airlines,Zagreb,1994
+370,T�V Gredelj,Industrials,Commercial vehicles & trucks,Zagreb,1894
+371,Uljanik,Industrials,Commercial vehicles & trucks,Pula,1856
+372,V.B.Z.,Consumer services,Publishing,Zagreb,1991
+373,Viadukt,Industrials,Transportation services,Zagreb,1947
+374,Viktor Lenac Shipyard,Industrials,Commercial vehicles & trucks,Rijeka,1896
+375,Vindija,Consumer goods,Food products,Vara�din,1959
+376,Viro,Consumer goods,Food products,Virovitica,2002
+377,Zagreb Film,Consumer services,Broadcasting & entertainment,Zagreb,1953
+378,Zagreb Stock Exchange,Financials,Financial services,Zagreb,1991
+379,Zagreba?ka banka,Financials,Banks,Zagreb,1914
+380,Zagreba?ka pivovara,Consumer goods,Brewers,Zagreb,1892
+381,Zagreba?ki elektri?ni tramvaj,Industrials,Transportation services,Zagreb,1891
+382,AC Omonia,Consumer services,Sports,Nicosia,1948
+383,AEK Larnaca FC,Consumer services,Sports,Larnaca,1994
+384,AEL F.C.,Consumer services,Sports,Limassol,1930
+385,Allbiz,Industrials,Business support services,Nicosia[8],1999
+386,Anorthosis F.C.,Consumer services,Sports,Larnaca,1911
+387,APOEL B.C.,Consumer services,Sports,Nicosia,1947
+388,APOEL FC,Consumer services,Sports,Nicosia,1926
+389,APOEL V.C.,Consumer services,Sports,Nicosia,1928
+390,Apollon Limassol,Consumer services,Sports,Limassol,1954
+391,Armida Publications,Consumer services,Publishing,Nicosia,1997
+392,ASBIS,Technology,Computer hardware,Limassol,1990
+393,Austrian Lloyd Ship Management,Industrials,Marine transportation,Limassol,1991
+394,Bank of Cyprus,Financials,Banks,Nicosia,1899
+395,Celestyal Cruises,Consumer services,Travel & tourism,Limassol,1986
+396,Central Bank of Cyprus,Financials,Banks,Nicosia,1963
+397,Charlie Airlines,Consumer services,Travel & Leisure,Larnaca,2016
+398,Cyprus Broadcasting Corporation,Consumer services,Broadcasting,Nicosia,1953
+399,Cyprus Civil Aviation Authority,Consumer services,Air traffic management,Nicosia,1955
+400,Cyprus College,Consumer services,Education,Nicosia,1961
+401,Cyprus College of Art,Consumer services,Education,Paphos,1969
+402,Cyprus Development Bank,Financials,Banks,Nicosia,1963
+403,Cyprus Institute of Marketing,Consumer services,Education,Nicosia,1978
+404,Cyprus Int. Instit. for Environ. & Public Health,Technology,Research,Limassol,2004
+405,Cyprus Internet Exchange,Telecommunications,Fixed line telecom,Nicosia,1999
+406,Cyprus Mail,Consumer services,Publishing,Nicosia,1945
+407,Cyprus Mines Corporation,Basic materials,General mining,Nicosia,1916
+408,Cyprus Neuroscience and Technology Institute,Technology,Research,Nicosia,1991
+409,Cyprus News Agency,Consumer services,Media,Nicosia,1976
+410,Cyprus Ports Authority,Consumer services,Ship traffic management,Nicosia,1973
+411,Cyprus Postal Services,Industrials,Delivery services,Nicosia,-
+412,Cyprus State Fairs Authority,Consumer services,General retailers,Nicosia,1968
+413,Cyprus Stock Exchange,Financials,Investment services,Nicosia,1996
+414,Cyprus University of Technology,Consumer services,Education,Limassol,2004
+415,Cyprus Weekly,Consumer services,Publishing,Nicosia,1979
+416,CYTA,Telecommunications,Fixed line telecom,Nicosia,1961
+417,Doxa Katokopias FC,Consumer services,Sports,Peristerona,1954
+418,Electricity Authority of Cyprus,Utilities,Conventional electricity,Nicosia,1952
+419,Elias Neocleous & Co LLC,Consumer services,Legal,Limassol,2017
+420,EuroAfrica Interconnector,Utilities,Electricity,Nicosia,2017
+421,EuroAsia Interconnector,Utilities,Electricity,Nicosia,2010
+422,European University Cyprus,Consumer services,Education,Nicosia,1961
+423,Financial Mirror,Consumer services,Publishing,Nicosia,1993
+424,Frederick University,Consumer services,Education,Limassol,1965
+425,Joannou & Paraskevaides,Industrials,Heavy construction,Guernsey,1961
+426,Health Insurance Organisation,Financials,Full line insurance,Nicosia,-
+427,Hellenic Bank,Financials,Banks,Nicosia,1976
+428,Imperio Properties,Financials,Real estate development,Limassol,2003
+429,IronFX,Financials,Investment services,Limassol,2010
+430,KEO,Consumer goods,Soft drinks,Limassol,1927
+431,Larnaca International Airport,Consumer services,Travel & leisure,Larnaca,1975
+432,Leon Beer,Consumer goods,Brewers,Nicosia,1937
+433,Leptos Estates,Financials,Real estate development,Paphos,1960
+434,Lois Builders,Industrials,Heavy construction,Nicosia,1977
+435,Medochemie,Health care,Pharmaceuticals,Limassol,1976
+436,METRO Foods Trading,Consumer services,Food retailers & wholesalers,Nicosia,1982
+437,Moufflon Publications,Consumer services,Publishing,Nicosia,1967
+438,Neapolis University Paphos,Consumer services,Education,Paphos,2007
+439,NOVA Cyprus,Consumer services,Media,Nicosia,2004
+440,Omega TV Cyprus,Consumer services,Media,Nicosia,1992
+441,Open University of Cyprus,Consumer services,Education,Nicosia,2002
+442,Pafos FC,Consumer services,Sports,Pafos,2014
+443,Paphos General Hospital,Consumer services,Health,Paphos,1992
+444,Paphos International Airport,Consumer services,Travel & leisure,Paphos,2008
+445,Petrolina,Oil & gas,Exploration & production,Larnaca,1959
+446,Pevex Management,Financials,Investment services,Nicosia,2008
+447,Port of Limassol,Industrials,Industrial transportation,Limassol,1956
+448,PrimeTel PLC,Telecommunications,Fixed line telecom,Nicosia,2003
+449,RCB Bank,Financials,Banks,Limassol,1995
+450,Rusal,Basic materials,Industrial metals & mining,Nicosia,2007
+451,SAT-7,Consumer services,Broadcasting & entertainment,Nicosia,1995
+452,Telepassport Telecommunications,Telecommunications,Fixed line telecom,Nicosia,2002
+453,The American Heart Institute,Consumer services,Health,Strovolos,1999
+454,The Cyprus Institute,Technology,Research,Nicosia,2005
+455,The Muscular Dystropy Research Foundation,Technology,Research,Nicosia,1987
+456,The Cyprus Institute of Neurology and Genetics,Technology,Research,Nicosia,1990
+457,Tsokkos,Consumer services,Hospitality,Ayia Napa,1979
+458,Tus Airways,Consumer services,Travel & Leisure,Larnaca,2015
+459,Universal Life,Financials,Life insurance,Nicosia,1970
+460,University of Cyprus,Consumer services,Education,Nicosia,1989
+461,University of Nicosia,Consumer services,Education,Nicosia,1980
+462,Wargaming,Technology,Software,Nicosia,1998
+463,Woolworths,Consumer services,Broadline retailers,Nicosia,1950
+464,xHamster,Technology,Software,Nicosia,2007
+465,Aero Vodochody,Industrials,Aerospace,Odolena Voda,1919
+466,Ahold Czech Republic,Consumer services,Food retailers & wholesalers,Prague,1991
+467,ASIX s.r.o.,Industrials,Electronic equipment,Prague,1991
+468,Avast,Technology,Software,Prague,1988
+469,Barrandov Studios,Consumer services,Broadcasting & entertainment,Prague,1921
+470,Budweiser Bier B�rgerbr�u,Consumer goods,Brewers,?esk� Bud?jovice,1795
+471,Budweiser Budvar Brewery,Consumer goods,Brewers,?esk� Bud?jovice,1785
+472,?esk� po�ta,Industrials,Delivery services,Prague,1918
+473,?esk� spo?itelna,Financials,Banks,Prague,1825
+474,?esk� zbrojovka firearms,Industrials,Defense,Uhersk� Brod[18],1936
+475,?esk� dr�hy,Industrials,Railroads,Prague,2003
+476,?esk� Radiokomunikace,Telecommunications,Fixed line telecommunications,Prague[19],1963
+477,?eskoslovensk� obchodn� banka,Financials,Banks,Prague,1964
+478,CETIN,Telecommunications,Fixed line telecommunications,Prague,2015
+479,Cinema City Czech Republic,Consumer services,Recreational services,Prague,1999[20]
+480,?KD,Industrials,Commercial vehicles & trucks,Prague,1927
+481,CS Link,Telecommunications,Mobile telecommunications,Prague,2006
+482,Czech Airlines,Consumer services,Airlines,Prague,1923
+483,Czech National Bank,Financials,Banks,Prague,1919
+484,Dominant CZ,Consumer goods,Farming & fishing,Studenec,1989
+485,Indies Records,Consumer services,Broadcasting & entertainment,Brno,1990
+486,Jablotron,Consumer goods,Consumer electronics,Jablonec nad Nisou,1990
+487,Jan Becher,Consumer goods,Distillers & vintners,Karlovy Vary,1807
+488,Jihostroj,Industrials,Aerospace,Vele��n,1919
+489,Josef Lidl,Consumer goods,Recreational products,Brno,1892
+490,Kaden models,Consumer goods,Toys,Nov� Hr�dek,1950
+491,Kenvelo,Consumer services,Apparel retailers,Prague,1991
+492,Kofola,Consumer goods,Soft drinks,Ostrava,1960
+493,Komer?n� banka,Financials,Banks,Prague,1990
+494,LEO Express,Industrials,Railroads,Prague,2010
+495,LIAZ,Industrials,Commercial vehicles & trucks,Jablonec nad Nisou,1951
+496,Mafra,Consumer services,Publishing,Prague,1992
+497,Meopta,Industrials,Electronic equipment,P?erov,1933
+498,Metrostav,Industrials,Heavy construction,Prague[21],1971
+499,Moser,Consumer goods,Furnishings,Karlovy Vary,1857
+500,O2 Czech Republic,Telecommunications,Telecommunications,Prague,2006
+501,OKD,Basic materials,Coal,Ostrava,1952
+502,Petrof,Consumer goods,Recreational products,Hradec Kr�lov�,1864
+503,Pilsner Urquell Brewery,Consumer goods,Brewers,Plze?,1842
+504,Preciosa,Consumer goods,Furnishings,Jablonec nad Nisou,1948
+505,Racom,Consumer goods,Consumer electronics,Nov� M?sto na Morav?,1989
+506,Red Hat Czech,Technology,Software,Brno,2006
+507,Royal Brewery of Kru�ovice,Consumer goods,Brewers,Kru�ovice,1581
+508,Rudolf K�mpf,Consumer goods,Furnishings,Nov� Sedlo,1907
+509,�koda Transportation,Industrials,Commercial vehicles & trucks,Plze?,1995
+510,�koda Works,Industrials,Diversified industrials,Plze?,1859
+511,Skylink,Telecommunications,Mobile telecommunications,Prague,2007
+512,Student Agency,Consumer services,Travel & tourism,Brno,1996
+513,Supraphon,Consumer services,Broadcasting & entertainment,Prague,1932
+514,Tatra,Industrials,Commercial vehicles & trucks,Kop?ivnice,1850
+515,Telekom Austria Czech Republic,Telecommunications,Fixed line telecommunications,Prague,1995
+516,Toyota Peugeot Citro�n Automobile Czech,Consumer goods,Automobiles,Kol�n,2002
+517,Trinec Iron and Steel Works,Basic materials,Iron & steel,T?inec,1836
+518,UniCredit Bank Czech Republic and Slovakia,Financials,Banks,Prague,2006
+519,Via Chem Group,Basic materials,Specialty chemicals,?esk� Bud?jovice,2002
+520,Vodafone Czech Republic,Telecommunications,Mobile telecommunications,Prague,1982
+521,Walter Aircraft Engines,Industrials,Industrial machinery,Prague,1911
+522,Zetor,Industrials,Commercial vehicles & trucks,Brno,1946
+523,�ivnostensk� banka,Financials,Banks,Prague,1868
+524,Alectia,Industrials,Business support services,Virum,1912
+525,ALK-Abell�,Health care,Pharmaceuticals,H�rsholm,1923
+526,Aller Media,Consumer services,Publishing,Copenhagen,1873
+527,Alm. Brand,Financials,Full line insurance,Copenhagen,1792
+528,Ambu,Health care,Medical equipment,Copenhagen,1937
+529,Arkitema Architects,Industrials,Business support services,Aarhus,1969
+530,Arla Foods,Consumer goods,Food products,Viby J,2000
+531,Arp-Hansen Hotel Group,Consumer services,Hotels,Copenhagen,1959
+532,Bang & Olufsen,Consumer goods,Consumer electronics,Struer,1925
+533,Bestseller A/S,Consumer goods,Clothing & accessories,Brande,1975
+534,Bjarke Ingels Group,Industrials,Business support services,Copenhagen,2005
+535,BoConcept,Consumer services,Specialty retailers,Herning,1952
+536,Br�drene Hartmann,Industrials,Containers & packaging,Gentofte,1917
+537,C. F. M�ller Architects,Industrials,Business support services,Aarhus,1922
+538,Carlsberg Group,Consumer goods,Brewers,Copenhagen,1847
+539,Cembrit,Industrials,Building materials & fixtures,Aalborg,1927
+540,Chr. Hansen,Consumer goods,Food products,H�rsholm,1874
+541,COBE Architects,Industrials,Business support services,Copenhagen,2005
+542,Coloplast,Health care,Medical equipment,Fredensborg,1957
+543,Coop amba,Consumer services,Food retailers & wholesalers,Copenhagen,1896
+544,Copenhagen Airport,Industrials,Transportation services,Copenhagen,1925
+545,Co-Ro Food,Consumer goods,Food products,Frederikssund,1942
+546,COWEX,Technology,Software,Gentofte,1992
+547,COWI A/S,Industrials,Business support services,Kongens Lyngby,1930
+548,Daloon,Consumer goods,Food products,Nyborg,1960
+549,D/S Norden,Industrials,Marine transportation,Hellerup,1871
+550,Dampskibsselskabet Torm,Industrials,Marine transportation,Copenhagen,1889
+551,Danfoss,Industrials,Industrial machinery,Nordborg,1933
+552,Danisco,Health care,Biotechnology,Copenhagen,1989
+553,Danish Agro,Industrials,Industrial machinery,Karise,1901
+554,Danish Crown AmbA,Consumer goods,Food products,Randers,1998
+555,Dansk Supermarked,Consumer services,Broadline retailers,H�jbjerg,1964
+556,Danske Bank,Financials,Banks,Copenhagen,1871
+557,Dantherm,Industrials,Industrial machinery,Skive,1958
+558,DFDS,Industrials,Marine transportation,Copenhagen,1866
+559,Dissing+Weitling,Industrials,Business support services,Copenhagen,1971
+560,DLF,Consumer goods,Farming & fishing,Roskilde,1906
+561,DSB,Industrials,Railroads,Copenhagen,1885
+562,DSV,Industrials,Delivery services,Hedehusene,1976
+563,DT Group,Industrials,Building materials & fixtures,Copenhagen,1896
+564,ECCO,Consumer goods,Footwear,Bredebro,1963
+565,Egmont Group,Consumer services,Publishing,Copenhagen,1878
+566,Falck,Health care,Health care providers,Copenhagen,1906
+567,FLSmidth,Industrials,Industrial machinery,Copenhagen,1882
+568,Flying Tiger Copenhagen,Consumer services,Braodline retailers,Copenhagen,1995
+569,Foss A/S,Industrials,Business support services,Hiller�d,1956
+570,Global Risk Management,Industrials,Business support services,Middelfart,2004
+571,GN Store Nord,Health care,Health care providers,Ballerup,1869
+572,Grundfos,Industrials,Industrial machinery,Bjerringbro,1945
+573,Gryphon Audio Designs,Consumer goods,Consumer electronics,Ry,1985[8]
+574,Haldor Topsoe,Basic materials,Specialty chemicals,Copenhagen,1940
+575,Hempel Group,Basic materials,Specialty chemicals,Lyngby-Taarb�k,1915
+576,Henning Larsen Architects,Industrials,Business support services,Copenhagen,1959
+577,House of Amber,Consumer goods,Clothing & accessories,Copenhagen,1933
+578,Hummel,Consumer goods,Clothing & accessories,Aarhus,1923
+579,IC Group,Consumer goods,Clothing & accessories,Copenhagen,2001
+580,IO Interactive,Technology,Software,Copenhagen,1990
+581,ISS A/S,Industrials,Business support services,Copenhagen,1901
+582,Jet Time,Consumer services,Airlines,Copenhagen,2006
+583,Jorgensen Engineering,Industrials,Business support services,Odense,1933
+584,Jysk,Consumer services,Specialty retailers,Aarhus,1979
+585,Jyske Bank,Financials,Banks,Silkeborg,1967
+586,Kemp & Lauritzen,Industrials,Business support services,Copenhagen,1882
+587,Kopenhagen Fur,Consumer goods,Clothing & accessories,Copenhagen,1930
+588,LastObject,Consumer goods,Personal products,Copenhagen,2016
+589,Leo Pharma,Health care,Pharmaceuticals,Copenhagen,1908
+590,LM Glasfiber,Industrials,Industrial machinery,Lunderskov,1940
+591,Louis Poulsen,Industrials,Building materials & fixtures,Copenhagen,1874
+592,Lundbeck,Health care,Pharmaceuticals,Copenhagen,1915
+593,Lundgaard & Tranberg,Industrials,Business support services,Copenhagen,1983
+594,Maersk,Conglomerates,Ocean and inland freight transportation,Copenhagen,1904
+595,Martin Professional,Industrials,Building materials & fixtures,Aarhus,1987
+596,Matas,Consumer services,Drug retailers,Aller�d,1949
+597,Netcompany,Technology,Software,Copenhagen,1999
+598,NKT Holding,Conglomerates,-,Copenhagen,1891
+599,NNIT,Technology,Software,Gladsaxe,1994
+600,Nordic Adult Entertainment,Consumer goods,Recreational products,Copenhagen,1972
+601,Nordisk Film,Consumer services,Broadcasting & entertainment,Copenhagen,1906
+602,North Media,Consumer services,Publishing,Gladsaxe,1978
+603,North Sea Capital,Financials,Financial services,Copenhagen,2001
+604,Novo Nordisk,Health care,Pharmaceuticals,Copenhagen,1923
+605,Novozymes,Health care,Biotechnology,Copenhagen,2000
+606,Nykredit,Financials,Financial services,Copenhagen,1985
+607,�rsted,Utilities,Conventional electricity,Fredericia,2006
+608,Parken Sport & Entertainment,Consumer services,Recreational services,Copenhagen,1992
+609,Pharma Nord,Health care,Pharmaceuticals,Vejle,1981
+610,Pharmacosmos,Health care,Pharmaceuticals,Holb�k,1965
+611,Phase One,Consumer goods,Recreational products,Copenhagen,1993
+612,Plesner,Industrials,Business support services,Copenhagen,1918
+613,Post Danmark,Industrials,Delivery services,Copenhagen,1624
+614,Ramboll,Industrials,Business support services,Copenhagen,1945
+615,Roskilde Forsyning,Utilities,Conventional electricity,Roskilde,2000
+616,Royal Copenhagen,Consumer goods,Durable household products,Copenhagen,1775
+617,Royal Unibrew,Consumer goods,Brewers,Faxe,1989
+618,Sampension,Financials,Asset managers,Copenhagen,1945
+619,Santa Fe Group,Industrials,Logistics,Copenhagen,1897
+620,Saxo Bank,Financials,Banks,Copenhagen,1992
+621,Scandinavian Tobacco Group,Consumer goods,Tobacco,Copenhagen,1961
+622,Schmidt Hammer Lassen,Industrials,Business support services,Copenhagen,1986
+623,Select Sport,Consumer goods,Recreational products,Copenhagen,1947
+624,Simonsen & Weel,Health care,Medical equipment,Vallensb�k,1817
+625,STYLEPIT,Consumer services,Apparel retailers,Copenhagen,2000
+626,Stibo,Technology,Enterprise software,�rhus,1794
+627,TDC A/S,Telecommunications,Fixed line telecommunications,Copenhagen,1879
+628,Terma A/S,Industrials,Aerospace,Lystrup,1949
+629,The Lego Group,Consumer goods,Toys,Billund,1932
+630,Thorco Shipping,Industrials,Marine transportation,Copenhagen,2003
+631,Tuborg Brewery,Consumer goods,Brewers,Fredericia,1873
+632,United Shipping & Trading Company,Industrials,Marine transportation,Middelfart,1876
+633,VELUX,Industrials,Building materials & fixtures,H�rsholm,1941
+634,Vestas,Industrials,Industrial machinery,Aarhus,1945
+635,Welltec,Oil & gas,Oil equipment & services,Aller�d,1994
+636,Widex,Health care,Medical equipment,Lynge,1956
+637,William Demant,Health care,Health care providers,Led�je-Sm�rum,1904
+638,Zentropa,Consumer services,Broadcasting & entertainment,Hvidovre,1992
+639,A. Le Coq,Consumer goods,Brewers,Tartu,1807
+640,Airest,Consumer services,Airlines,Tallinn,2002
+641,Alexela,Oil & gas,Exploration & production,Tallinn,1990
+642,Aqris,Technology,Software,Tallinn,1999
+643,AS Starman,Telecommunications,Fixed line telecommunications,Tallinn,1992
+644,Avies,Consumer services,Airlines,Tallinn,1991
+645,Baltika Group,Consumer services,Apparel retailers,Tallinn,1928
+646,BLRT Grupp,Industrials,Commercial vehicles & trucks,Tallinn,1912
+647,Bolt,Technology,Transportation,Tallinn,2013
+648,Copterline,Consumer services,Airlines,Tallinn,2010
+649,Eesti Energia,Utilities,Conventional electricity,Tallinn,1939
+650,Eesti Gaas,Utilities,Gas distribution,Tallinn,1990
+651,Eesti Raudtee,Industrials,Railroads,Tallinn,1992
+652,Elering,Utilities,Conventional electricity,Tallinn,1998
+653,Elron,Consumer services,Travel & tourism,Tallinn,1998
+654,Enefit Kaevandused,Basic materials,General mining,J�hvi,1945
+655,Enefit Solutions,Industrials,Business support services,J�hvi,1959
+656,Enimex,Consumer services,Airlines,Tallinn,1994
+657,EstDomains,Technology,Internet,Tartu,?
+658,Estonia Piano Factory,Consumer goods,Recreational products,Tallinn,1950
+659,Estonian Record Productions,Consumer services,Broadcasting & entertainment,Tallinn,2001
+660,Fortumo,Financials,Financial services,Tartu,2007
+661,GoRail,Consumer services,Travel & tourism,Tallinn[10],1998[10]
+662,Kalev,Consumer goods,Food products,Lehmja,1806
+663,Liviko,Consumer goods,Distillers & vintners,Tallinn,1898
+664,Moonwalk Records,Consumer services,Broadcasting & entertainment,Tallinn,2005
+665,Narva Oil Plant,Oil & gas,Exploration & production,Auvere,1980
+666,Nortal,Technology,Software,Tallinn,2000
+667,Olerex,Consumer services,Specialty retailers,Tartu[11],1994
+668,Omniva,Logistics,Delivery services,Tallinn,1638
+669,Publishing House ERSEN,Consumer services,Publishing,Tallinn,?
+670,Quattromed,Health care,Biotechnology,Tartu,1999
+671,Rakvere Lihakombinaat,Consumer goods,Food products,Roodev�lja,1890
+672,Saaremaa Shipping Company,Industrials,Marine transportation,Kuressaare,1992
+673,Saku Brewery,Consumer goods,Brewers,Saku,1820
+674,SEB Pank,Financials,Banks,Tallinn,2008
+675,Selver,Consumer services,Food retailers & wholesalers,Tallinn,1995
+676,Sky Media Group,Consumer services,Broadcasting & entertainment,Tallinn,1995
+677,SmartPost,Industrials,Delivery services,Tallinn,2006
+678,STV,Consumer services,Broadcasting & entertainment,Tallinn,1991
+679,Tallink,Industrials,Marine transportation,Tallinn,1989
+680,Tallinna Linnatranspordi AS,Consumer services,Travel & tourism,Tallinn,1991
+681,T�nap�ev,Consumer services,Publishing,Tallinn,1999
+682,Tartu Mill,Consumer goods,Food products,Tartu,2000
+683,Telia Eesti,Telecommunications,Fixed line telecommunications,Tallinn,1993
+684,Tondi Elektroonika,Industrials,Electronic equipment,Tallinn,1959
+685,TopTen,Consumer services,Broadcasting & entertainment,Tallinn,?
+686,�lemiste Keskus,Consumer services,Broadline retailers,Tallinn,?
+687,Varrak,Consumer services,Publishing,Tallinn,1991
+688,Viru Keemia Grupp,Oil & gas,Exploration & production,Kohtla-J�rve,1924
+689,VKG Elektriv�rgud,Utilities,Conventional electricity,Narva,1993
+690,ZeroTurnaround,Technology,Software,Tartu,2007
+691,Ahlstrom,Basic materials,Basic resources,Helsinki,1851
+692,Aktia Bank,Financials,Banks,Helsinki,1991
+693,Alko,Consumer services,Specialty retailers,Helsinki,1932
+694,Alma Media,Consumer services,Publishing,Helsinki,1849
+695,Altia,Consumer goods,Distillers & vintners,Helsinki,1999
+696,Amer Sports,Consumer goods,Recreational products,Helsinki,1950
+697,Bank of �land,Financials,Banks,Mariehamn,1919
+698,Basware,Technology,Software,Espoo,1985
+699,Bittium,Consumer goods,Consumer electronics,Oulu,1985
+700,Cargotec,Industrials,Transportation services,Helsinki,2005
+701,Codenomicon,Technology,Software,Oulu,2001
+702,DNA Oyj,Telecommunications,Mobile telecommunications,Helsinki,2000
+703,Ecker� Line,Industrials,Marine transportation,Helsinki,1995
+704,EKS,Consumer goods,Consumer electronics,Espoo,1955
+705,Elisa,Telecommunications,Fixed line telecommunications,Helsinki,1882
+706,Fazer,Consumer services,Restaurants & bars,Helsinki,1891
+707,Fingrid,Utilities,Conventional electricity,Helsinki,1996
+708,Finnair,Consumer services,Airlines,Vantaa,1923
+709,Finnlines,Industrials,Marine transportation,Helsinki,1947
+710,Fiskars,Consumer goods,Durable household products,Helsinki,1649
+711,Fortum,Utilities,Alternative electricity,Espoo,1998
+712,F-Secure,Technology,Software,Helsinki,1988
+713,Hartwall,Consumer goods,Soft drinks,Helsinki,1836
+714,Hesburger,Consumer services,Retail,Turku,1966
+715,HKScan,Consumer goods,Restaurants & bars,Turku,1913
+716,Holvi,Financials,Banking,Helsinki,2011
+717,Huhtam�ki,Industrials,Containers & packaging,Espoo,1920
+718,Kemira,Basic materials,Specialty chemicals,Helsinki,1920
+719,Kemppi,Industrials,Business support services,Lahti,1949
+720,Kesko,Consumer services,Broadline retailers,Helsinki,1940
+721,Kone,Industrials,Industrial machinery,Helsinki,1910
+722,Konecranes,Industrials,Industrial machinery,Hyvink��,1994
+723,Kotipizza,Consumer services,Restaurants & bars,Helsinki,1987
+724,Lemmink�inen Group,Industrials,Heavy construction,Helsinki,1910
+725,Marimekko,Consumer goods,Clothing & accessories,Helsinki,1951
+726,Mets� Group,Basic materials,Paper,Helsinki,1947
+727,Metso,Industrials,Business support services,Helsinki,1999
+728,Neste,Oil & gas,Exploration & production,Espoo,1948
+729,Nokia,Industrials,Telecommunications equipment,Espoo,1865
+730,Nokia Networks,Technology,Telecommunications equipment,Espoo,2007
+731,Nokian Jalkineet,Consumer goods,Footwear,Helsinki,1898
+732,Nokian Tyres,Consumer goods,Automobiles,Nokia,1932
+733,Olvi,Consumer goods,Soft drinks,Helsinki,1878
+734,OP Financial Group,Financials,Financial services,Helsinki,1891
+735,Orion Corporation,Health care,Pharmaceuticals,Espoo,1917
+736,Outokumpu,Basic materials,Iron & steel,Helsinki,1932
+737,Outotec,Industrials,Business support services,Espoo,2006
+738,Patria,Industrials,Defense,Helsinki,1997
+739,Planmeca,Health care,Medical equipment,Helsinki,1971
+740,Pohjolan Voima,Utilities,Alternative electricity,Helsinki,1943
+741,Polar Electro,Consumer goods,Recreational products,Kempele,1977
+742,Ponsse Corporation,Industrials,Commercial vehicles & trucks,Vierem�,1970
+743,Posiva,Industrials,Waste & disposal services,Eurajoki,1995
+744,Posti Group,Logistics,Delivery services,Helsinki,1638
+745,P�yry,Industrials,Business support services,Vantaa,1958
+746,Process Vision,Technology,Business support services,Helsinki,1993
+747,Raisio Group,Consumer goods,Food products,Raisio,1939
+748,Rautaruukki,Industrials,Building materials & fixtures,Helsinki,1960
+749,Rovio Entertainment,Technology,Software,Espoo,2003
+750,S Group,Consumer services,Hotels,Helsinki,1904
+751,Sampo Group,Financials,Full line insurance,Helsinki,1909
+752,Sanoma,Consumer services,Publishing,Helsinki,1999
+753,Silja Line,Industrials,Marine transportation,Helsinki,1957
+754,Sisu Auto,Industrials,Commercial vehicles & trucks,Helsinki,1931
+755,Solidium,Financials,Investment services,Helsinki[7],2008
+756,SSH Communications Security,Technology,Software,Helsinki,1995
+757,St1,Oil & gas,Exploration & production,Helsinki,1995
+758,Stenfors,Industrials,Heavy construction,Oulu,1969
+759,Stockmann,Consumer services,Broadline retailers,Helsinki,1862
+760,Stonesoft Corporation,Technology,Software,Helsinki,1990
+761,Stora Enso,Basic materials,Paper,Helsinki,1998
+762,Suominen Corporation,Consumer goods,Clothing & accessories,Helsinki,1898
+763,Supercell,Technology,Software,Helsinki,2010
+764,Suunto,Consumer goods,Recreational services,Vantaa,1936
+765,Talvivaara Mining Company,Basic materials,Nonferrous metals,Espoo,2004
+766,Tieto,Technology,Software,Helsinki,1968
+767,Tikkurila,Basic materials,Commodity chemicals,Vantaa,1862
+768,UPM-Kymmene,Basic materials,Paper,Helsinki,1996
+769,Vacon,Industrials,Electrical components & equipment,Vaasa,1993
+770,Vaisala,Technology,Software,Vantaa,1936
+771,Valio,Consumer goods,Food products,Helsinki,1905
+772,Valmet Automotive,Consumer goods,Automobiles,Uusikaupunki,1968
+773,Valmet,Industrials,Industrial machinery,Espoo,2013
+774,Valtra,Industrials,Commercial vehicles & trucks,��nekoski,1951
+775,Verkkokauppa.com,Consumer services,Broadline retailers,Helsinki,1992
+776,Viking Line,Industrials,Marine transportation,Mariehamn,1963
+777,VR,Industrials,Railroads,Helsinki,1862
+778,W�rtsil�,Industrials,Electronic equipment,Helsinki,1834
+779,Woikoski,Basic materials,Basic resources,Voikoski[8],1882
+780,YIT,Industrials,Heavy construction,Helsinki,1912
+781,Accor,Consumer services,Hospitality,Paris,1967
+782,A�ropostale,Consumer services,Airlines,Toulouse,1918
+783,A�rospatiale-Matra,Industrials,Defense,Paris[7],1999
+784,Air France,Consumer services,Airlines,Tremblay-en-France,1933
+785,Air France�KLM,Consumer services,Airlines,Tremblay-en-France,2004
+786,Airbus,Industrials,Aerospace,Toulouse,1970
+787,Air Liquide,Industrial,Chemical,Paris,1902
+788,Alcatel-Lucent,Technology,Telecommunications equipment,Boulogne-Billancourt,2006
+789,Ales Groupe,Consumer goods,Personal products,Paris,1969
+790,Alstom,Industrials,Railroads,Saint-Ouen,1928
+791,Altran,Industrials,Business support services,Paris,1982
+792,Amaury Sport Organisation,Consumer services,Recreational services,Issy-les-Moulineaux,1992[8]
+793,ArianeGroup,Industrials,Aerospace & defense,Issy-les-Moulineaux,2015
+794,Arianespace,Industrials,Aerospace,Courcouronnes,1980
+795,Arkane Studios,Technology,Software,Lyon,1999
+796,Arte,Consumer services,Broadcasting & entertainment,Strasburg,1991
+797,Astrium,Industrials,Aerospace,Paris,2006
+798,AT Internet,Technology,Internet,Bordeaux,1995
+799,Atari SA,Technology,Software,Paris,1983
+800,Atisreal,Financials,Real estate services,Levallois-Perret,2003
+801,Atos,Technology,Software,Bezons,1988
+802,Auchan,Consumer services,Food retailers & wholesalers,Croix,1961
+803,Axa,Financials,Full line insurance,Paris,1817
+804,Babolat,Consumer goods,Recreational products,Lyon,1875
+805,Baccarat,Consumer goods,Durable household products,Paris,1764
+806,Banijay,Consumer services,Broadcasting & entertainment,Paris,2008
+807,Banque de l'Indochine,Financials,Banks,Paris,1875
+808,Bel Group,Consumer goods,Food products,Paris,1865
+809,BNP Paribas,Financials,Banks,Paris,1848
+810,Bollor�,Industrials,Delivery services,Puteaux,1822
+811,Bonduelle,Consumer goods,Food products,Villeneuve d'Ascq,1853
+812,Bouygues Telecom,Telecommunications,Mobile telecommunications,Paris,1994
+813,Bouygues,Conglomerates,-,Paris,1952
+814,Brittany Ferries,Industrials,Marine transportation,Roscoff,1972
+815,Bugatti Automobiles,Consumer goods,Automobiles,Molsheim,1998
+816,Canal+,Consumer services,Broadcasting & entertainment,Issy-les-Moulineaux,1984
+817,Capgemini,Industrials,Business support services,Paris,1967
+818,Carrefour,Consumer services,Food retailers & wholesalers,Boulogne-Billancourt,1958
+819,Cartier,Consumer goods,Clothing & accessories,Saint-Ouen,1847
+820,Celio,Consumer services,Apparel retailers,Paris,1978
+821,Chanel,Consumer goods,Clothing & accessories,Neuilly-sur-Seine,1909
+822,Chantelle,Consumer goods,Clothing & accessories,Cachan,1876
+823,Christian Dior SE,Consumer goods,Clothing & accessories,Paris,1946
+824,Citro�n,Consumer goods,Automobiles,Rueil-Malmaison,1919
+825,CMA CGM,Industrials,Delivery services,Marseille,1978
+826,Com One group,Technology,Telecommunications equipment,Cestas,1987
+827,Cr�dit Agricole,Financials,Banks,Montrouge,1894
+828,Cr�dit Commercial de France,Financials,Banks,Paris,1894
+829,Cr�dit Mutuel,Financials,Banks,Paris,1882
+830,Conforama,Consumer services,Retail,Saint-Priest,1967
+831,Cr�dit Foncier de France,Financials,Banks,Charenton-le-Pont,1852
+832,Cr�dit Lyonnais,Financials,Banks,Paris,1863
+833,Criteo,Technology,Internet,Paris,2005
+834,Danone,Consumer goods,Food products,Paris,1919
+835,Dassault Aviation,Industrials,Defense,Paris,1929
+836,Dassault Syst�mes,Technology,Software,V�lizy-Villacoublay,1981
+837,Debacq & Cie,Consumer goods,Clothing & accessories,Paris,1812
+838,Decathlon,Consumer goods,Clothing & accessories,Villeneuve-d'Ascq,1976
+839,Dexia,Financials,Banks,Paris,1996
+840,Diptyque,Consumer goods,Personal products,Paris,1961
+841,Edenred,Industrials,Specialized consumer services,Paris,2010
+842,�ditions Philippe Amaury,Consumer services,Publishing,Boulogne-Billancourt,1944
+843,Eisenberg Paris,Consumer goods,Personal products,Paris,2000
+844,�lectricit� de France (EDF),Utilities,Conventional electricity,Paris,1946
+845,Elf Aquitaine,Oil & gas,Exploration & production,Courbevoie[9],1967
+846,Engie,Utilities,Electricity generation,La D�fense,2008
+847,EssilorLuxottica,Health care,Health care equipment,Charenton-le-Pont,1849
+848,Eutelsat,Telecommunications,Mobile telecommunications,Paris,1977
+849,Fnac,Consumer services,Specialty retailers,Ivry-sur-Seine,1954
+850,Framatome,Nuclear industries,Nuclear engineering,Courbevoie,1958
+851,Free,Telecommunications,Fixed line telecommunications,Paris,1999
+852,Galeries Lafayette,Consumer services,Broadline retailers,Paris,1912
+853,Gameloft,Technology,Software,Paris,2000
+854,Gandi,Technology,Internet,Paris,1999
+855,Gaumont,Consumer services,Broadcasting & entertainment,Neuilly-sur-Seine,1895
+856,Genset,Health care,Biotechnology,Paris,1989
+857,Getlink,Industrials,Transportation services,Paris,1986
+858,Groupe BPCE,Financials,Banks,Paris,2009
+859,Groupe Bull,Technology,Computer hardware,Les Clayes-sous-Bois,1931
+860,Groupe Casino,Consumer services,Broadline retailer,Saint-�tienne,1898
+861,Hachette,Consumer services,Publishing,Paris,1826
+862,Hachette Filipacchi M�dias,Consumer services,Publishing,Paris,1826
+863,Havas,Consumer services,Media agencies,Paris,1968
+864,Herm�s,Consumer goods,Clothing & accessories,Paris,1837
+865,Hutchinson SA,Industrials,Diversified industrials,Paris,1853
+866,Iliad SA,Telecommunications,Fixed line telecommunications,Paris,1990
+867,JCDecaux,Industrials,Electronic equipment,Neuilly-sur-Seine,1964
+868,Keolis,Consumer services,Travel & tourism,Paris,2001
+869,Kering,Consumer goods,Clothing & accessories,Paris,1963
+870,La Poste,Industrials,Delivery services,Paris,1991
+871,Laboratoires Pierre Fabre,Health care,Pharmaceuticals,Paris,1951
+872,Lacoste,Consumer goods,Clothing & accessories,Troyes,1933
+873,Lactalis,Consumer goods,Food products,Laval,1933
+874,Lafarge,Industrials,Building materials & fixtures,Paris,1833
+875,Lafuma,Consumer goods,Recreational products,Paris,1930
+876,Lagard�re Group,Consumer services,Broadcasting & entertainment,Paris,1922
+877,Lanc�me,Consumer goods,Personal products,Paris,1935
+878,Le Coq Sportif,Consumer goods,Clothing & accessories,Entzheim,1882
+879,Le Z�bre,Consumer goods,Automobiles,Suresnes,1907
+880,L'Or�al,Consumer goods,Personal products,Clichy,1909
+881,Louis Vuitton,Consumer goods,Clothing & accessories,Paris,1854
+882,LVMH,Consumer goods,Clothing & accessories,Paris,1987
+883,Mandriva,Technology,Software,Paris,1995
+884,Manuloc,Industrials,Logistics,Metz,1964
+885,Maritima Ferries,Industrials,Marine transportation,Marseille,1969
+886,Matra Marconi Space,Industrials,Aerospace,Toulouse,1996
+887,Matra,Consumer goods,Automobiles,Romorantin-Lanthenay,1964
+888,Mavic,Consumer goods,Recreational products,Annecy,1889
+889,MC2 France,Technology,Software,Montrouge,1985
+890,Michelin,Consumer goods,Tires,Clermont-Ferrand,1889
+891,Micro�ds,Technology,Software,Montreuil,1984
+892,Montagut,Consumer goods,Clothing & accessories,Saint-Sauveur-de-Montagut,1880
+893,MoonScoop Group,Consumer services,Broadcasting & entertainment,Paris,2003
+894,Naval Group,Industrials,Defense,Paris,1631
+895,NicOx,Health care,Pharmaceuticals,Valbonne,1996
+896,Norauto,Consumer goods,Auto parts,Lesquin,1970
+897,Orange S.A.,Telecommunications,Mobile telecommunications,Paris,1988
+898,Orano,Nuclear industries,Nuclear cycle,Courbevoie,2017
+899,Oxbow,Consumer goods,Recreational products,M�rignac,1985
+900,Parrot SA,Industrials,Diversified industrials,Paris,1994
+901,Path�,Consumer services,Broadcasting & entertainment,Paris,1896
+902,Pentalog,Industrials,Business support services,Orl�ans,1993
+903,Pernod Ricard,Consumer goods,Distillers & vintners,Paris,1975
+904,Peugeot,Consumer goods,Automobiles,Rueil-Malmaison,1810
+905,PSA Group,Consumer goods,Automobiles,Rueil-Malmaison,1976
+906,Publicis,Industrials,Business support services,Paris,1926
+907,Quantic Dream,Technology,Software,Paris,1997
+908,RATP Group,Consumer services,Travel & tourism,Paris,1948
+909,Renault,Consumer goods,Automobiles,Boulogne-Billancourt,1899
+910,Rexel,Industrials,Electrical components & equipment,Paris,1967
+911,Rhodia,Basic materials,Specialty chemicals,La D�fense,1998
+912,Rh�ne-Poulenc,Basic materials,Specialty chemicals,Paris,1928
+913,Safran,Industrials,Aerospace,Paris,2005
+914,SAGEM,Technology,Telecommunications equipment,Paris,1924
+915,Saint-Gobain,Industrials,Building materials & fixtures,La D�fense,1665
+916,Salomon Group,Consumer goods,Recreational products,�pagny-Metz-Tessy,1947
+917,Sanofi,Health care,Pharmaceuticals,Paris,2004
+918,Schneider Electric,Industrials,Electrical components & equipment,Rueil-Malmaison,1836
+919,SDV International Logistics,Industrials,Delivery services,Puteaux,1885
+920,Sephora,Consumer services,Specialty retailers,Paris,1969
+921,Servier,Health care,Pharmaceuticals,Suresnes,1954
+922,SFR,Telecommunications,Fixed line telecommunications,Paris,1987
+923,Sigfox,Technology,Telecommunications equipment,Lab�ge,2009
+924,SNCF,Consumer services,Travel & tourism,Saint-Denis,1938
+925,Snecma,Industrials,Aerospace,Courcouronnes,1945
+926,Soci�t� Bic,Consumer goods,Nondurable household products,Clichy,1945
+927,Soci�t� G�n�rale,Financials,Banks,La D�fense,1864
+928,Sodexo,Industrials,Specialized consumer services,Issy-les-Moulineaux,1966
+929,Sogeti,Technology,Software,Paris,2002
+930,Sopra Steria,Technology,Software,Annecy,1968
+931,Suez,Utilities,Multiutilities,Paris,1997
+932,Technicolor SA,Consumer services,Broadcasting & entertainment,Issy-les-Moulineaux,1893
+933,Technip,Industrials,Business support services,Paris,1958
+934,TF1 Group,Consumer services,Broadcasting & entertainment,Boulogne-Billancourt,1987
+935,Thales Group,Industrials,Aerospace,La D�fense,2000
+936,Thomson-CSF,Industrials,Defense,Paris,1879
+937,TotalEnergies,Oil & gas,Integrated oil & gas,Courbevoie,1924
+938,Ubisoft,Technology,Software,Rennes,1986
+939,Veolia,Utilities,Water,Paris,1853
+940,Vinci SA,Industrials,Heavy construction,Rueil-Malmaison,1899
+941,Vivendi,Consumer services,Broadcasting & entertainment,Paris,1853
+942,Waterman,Consumer goods,Nondurable household products,Paris,1884
+943,Yoplait,Consumer goods,Food products,Boulogne-Billancourt,1965
+944,A. Lange & S�hne,Consumer goods,Clothing & accessories,Glash�tte,1845
+945,Aareal Bank,Financials,Banks,Wiesbaden,1922
+946,Adidas,Consumer goods,Clothing & accessories,Herzogenaurach,1924
+947,Aldi,Consumer services,Food retailers & wholesalers,Essen,1913
+948,Allianz,Financials,Full line insurance,Munich,1890
+949,Alpina,Consumer goods,Automobiles,Buchloe,1965
+950,Altana,Basic materials,Speciality chemicals,Wesel,1977
+951,Aral AG,Consumer services,Specialty retailers,Bochum,1898
+952,ARAG SE,Financials,Full line insurance,D�sseldorf,1935
+953,Arburg,Industrials,Industrial machinery,Lo�burg,1923
+954,Arcandor,Consumer services,Broadline retailers,Essen,1999
+955,Arcor,Telecommunications,Fixed line telecommunications,Eschborn,1996
+956,Armedangels,Consumer goods,Clothing & accessories,Cologne,2007
+957,Audi,Consumer goods,Automobiles,Ingolstadt,1910
+958,August Storck,Consumer goods,Food products,Berlin,1903
+959,Aurubis,Basic materials,Nonferrous metals,Hamburg,2008
+960,Auto Union,Consumer goods,Automobiles,Neckarsulm,1932
+961,Axel Springer AG,Consumer services,Publishing,Berlin,1946
+962,B. Braun,Health care,Pharmaceuticals,Melsungen,1839
+963,Babelsberg Studio,Consumer services,Broadcasting & entertainment,Potsdam,1912
+964,Bahlsen,Consumer goods,Food products,Hanover,1889
+965,BASF,Basic materials,Speciality chemicals,Ludwigshafen,1865
+966,Bavaria Film Studios,Consumer services,Broadcasting & entertainment,Gr�nwald,1919
+967,Bayer,Health care,Pharmaceuticals,Leverkusen,1863
+968,BayWa,Consumer goods,Farming & fishing,Munich,1923
+969,BBS Kraftfahrzeugtechnik,Consumer goods,Auto parts,Schiltach,1970
+970,Bechtle,Technology,Software,Neckarsulm,1983
+971,Beck's Brewery,Consumer goods,Brewers,Bremen,1873
+972,Behr GmbH & Co. KG,Industrials,Industrial suppliers,Stuttgart,1905
+973,Behringer,Consumer goods,Consumer electronics,Willich,1989
+974,Beiersdorf,Consumer goods,Personal products,Hamburg,1882
+975,Bellevue Investments,Technology,Software,Berlin,1993
+976,Benecke-Kaliko,Industrials,Industrial suppliers,Hanover,1718
+977,Bertelsmann,Consumer services,Broadcasting & entertainment,G�tersloh,1835
+978,Beyerdynamic,Consumer goods,Consumer electronics,Heilbronn,1924
+979,Bilfinger,Industrials,Heavy construction,Mannheim,1880
+980,Birkenstock,Consumer goods,Clothing & accessories,Neustadt,1774
+981,Bitburger Brewery,Consumer goods,Brewers,Bitburg,1817
+982,BioNTech,Healthcare,Vaccine,Mainz,2008
+983,Blohm+Voss,Industrials,Commercial vehicles & trucks,Hamburg,1877
+984,BMG Rights Management,Consumer services,Broadcasting & entertainment,Berlin,2008
+985,BMW,Consumer goods,Automobiles,Munich,1916
+986,Boehringer Ingelheim,Health care,Pharmaceuticals,Ingelheim am Rhein,1885
+987,BOMAG,Industrials,Commercial vehicles & trucks,Boppard,1957
+988,Brabus,Consumer services,Specialty retailers,Bottrop,1977
+989,Braun,Consumer goods,Personal products,Kronberg,1921
+990,Brenntag,Basic materials,Commodity chemicals,M�lheim,1874
+991,C. Bechstein,Consumer goods,Recreational products,Berlin,1853
+992,C. Illies & Co.,Industrials,Business support services,Hamburg,1859
+993,Carl Walther GmbH,Industrials,Defense,Ulm,1886
+994,Carl Zeiss AG,Health care,Medical equipment,Oberkochen,1846
+995,CureVac,Health care,Vaccine,T�bingen,2000
+996,Celesio,Health care,Pharmaceuticals,Stuttgart,1835
+997,CineStar,Consumer services,Recreational services,L�beck,1948
+998,Circus Krone,Consumer services,Broadcasting & entertainment,Munich,1905
+999,Claas,Industrials,Commercial vehicles & trucks,Harsewinkel,1913
+1000,Commerzbank,Financials,Banks,Frankfurt,1870
+1001,Condor Flugdienst,Consumer services,Airlines,Frankfurt,1955
+1002,Continental AG,Industrials,Industrial suppliers,Hanover,1871
+1003,Covestro,Basic materials,Speciality chemicals,Leverkusen,2015
+1004,Daimler AG,Consumer goods,Automobiles,Stuttgart,2007
+1005,Dba,Consumer services,Airlines,Munich,1992
+1006,Delton,Conglomerates,-,Bad Homburg vor der H�he,1989
+1007,Der Spiegel,Consumer services,Publishing,Hamburg,1947
+1008,Deutsche Bahn,Industrials,Railroads,Berlin,1994
+1009,Deutsche Bank,Financials,Banks,Frankfurt,1870
+1010,Deutsche B�rse,Financials,Investment services,Frankfurt,1992
+1011,Deutsche Grammophon,Consumer goods,Broadcasting & entertainment,Hanover,1898
+1012,Deutsche Messe,Consumer services,Recreational services,Hanover,1947
+1013,Deutsche Pfandbriefbank,Financials,Banks,Unterschlei�heim,2015
+1014,Deutsche Post,Industrials,Delivery services,Bonn,1995
+1015,Deutsche Telekom,Telecommunications,Fixed line telecommunications,Bonn,1995
+1016,Deutsche Verm�gensberatung,Financials,Asset managers,Frankfurt,1975
+1017,Deutz AG,Industrials,Industrial machinery,Cologne,1864
+1018,DHL Express,Industrials,Delivery services,Bonn,1969
+1019,Dieffenbacher,Industrials,Industrial machinery,Eppingen,1873
+1020,Diehl Aerospace,Industrials,Aerospace,�berlingen,2006
+1021,Diehl Defence,Industrials,Defense,�berlingen,2004
+1022,Diehl Metall,Industrials,Industrial machinery,R�thenbach an der Pegnitz,1938
+1023,Diezel,Consumer goods,Recreational products,Bad Steben,1994
+1024,Djshop,Consumer services,Broadcasting & entertainment,Vachendorf,1993
+1025,DKW,Consumer goods,Automobile,?,1905
+1026,Douglas Holding,Consumer services,Specialty retailers,Hagen,1949
+1027,DOVO Solingen,Consumer goods,Personal products,Solingen,1906
+1028,Dr. Oetker,Consumer goods,Food products,Bielefeld,1891
+1029,Dr�ger,Health care,Medical equipment,L�beck,1889
+1030,Dresdner Bank,Financials,Banks,Frankfurt,1872
+1031,D�rr AG,Industrials,Industrial machinery,Stuttgart,1895
+1032,DVB Bank,Financials,Banks,Frankfurt,1923
+1033,E.ON,Utilities,Electricity,Essen,2000
+1034,Eberhard Faber,Consumer goods,Nondurable household products,Neumarkt in der Oberpfalz,1922
+1035,ebm-papst,Industrials,Industrial machinery,Mulfingen,1963
+1036,edding,Consumer goods,Nondurable household products,Ahrensburg,1960
+1037,Edeka,Consumer services,Food retailers & wholesalers,Berlin,1898
+1038,ElringKlinger,Industrials,Industrial suppliers,Dettingen an der Erms,1879
+1039,EnBW,Utilities,Electricity,Karlsruhe,1997
+1040,EnOcean,Consumer goods,Consumer electronics,Oberhaching,2001
+1041,Entwicklungsring Nord,Industrials,Aerospace,Bremen,1961
+1042,Epcos,Consumer goods,Consumer electronics,Munich,1999
+1043,E-Plus,Telecommunications,Mobile telecommunications,D�sseldorf,1992
+1044,Eurowings,Consumer services,Airlines,D�sseldorf,1990
+1045,Evonik Industries,Basic materials,Speciality chemicals,Essen,2007
+1046,Faber-Castell,Consumer goods,Nondurable household products,Stein,1761
+1047,Fein,Consumer goods,Durable household products,Schw�bisch Gm�nd,1867
+1048,Ferrostaal,Industrials,Industrial machinery,Essen,1920
+1049,Festo,Industrials,Industrial machinery,Esslingen am Neckar,1925
+1050,Fischertechnik,Consumer goods,Toys,Waldachtal,1966
+1051,Fissler,Consumer goods,Durable household products,Idar-Oberstein,1845
+1052,Focke-Achgelis,Industrials,Aerospace,Hoykenkamp,1937
+1053,Focke-Wulf,Industrials,Aerospace,Bremen,1923
+1054,Fond of Bags,Consumer goods,Clothing & accessories,Cologne,2010
+1055,Ford Germany,Consumer goods,Automobiles,Cologne,1925
+1056,Ford of Europe,Consumer goods,Automobiles,Cologne,1967
+1057,Franz Haniel & Cie.,Conglomerates,-,Duisburg,1756
+1058,Fraport,Industrials,Transportation services,Frankfurt,1924
+1059,Freenet.de,Telecommunications,Fixed line telecommunications,B�delsdorf,2007
+1060,Fresenius,Health care,Health care providers,Bad Homburg vor der H�he,1912
+1061,Fresenius Medical Care,Health care,Health care providers,Bad Homburg vor der H�he,1996
+1062,Freudenberg Group,Conglomerates,-,Weinheim,1849
+1063,FRoSTA,Consumer goods,Food products,Bremerhaven,1905
+1064,Fuchs Petrolub,Basic materials,Speciality chemicals,Mannheim,1931
+1065,Gardena,Consumer goods,Durable household products,Ulm,1961
+1066,GEA Group,Industrials,Industrial machinery,D�sseldorf,1881
+1067,Gebr�der Thonet,Consumer goods,Furnishings,Frankenberg,1853
+1068,Germanwings,Consumer services,Airlines,Cologne,2002
+1069,Gerolsteiner Brunnen,Consumer goods,Beverages,Gerolstein,1888
+1070,Gerresheimer,Industrials,Containers & packaging,D�sseldorf,1864
+1071,Getrag,Industrials,Industrial suppliers,Untergruppenbach,1935
+1072,GfK AG,Industrials,Business support services,Nuremberg,1934
+1073,GPC Biotech,Health care,Biotechnology,Martinsried,1997
+1074,Grundig,Consumer goods,Consumer electronics,Nuremberg,1930
+1075,Gruner + Jahr,Consumer services,Publishing,Hamburg,1965
+1076,Hama Photo,Consumer goods,Consumer electronics,Monheim,1923
+1077,Hamburg S�d,Industrials,Marine transportation,Hamburg,1871
+1078,Hamburger Flugzeugbau,Industrials,Aerospace,Hamburg,1933
+1079,Hannover Re,Financials,Reinsurance,Hanover,1966
+1080,Hapag-Lloyd,Industrials,Marine transportation,Hamburg,1970
+1081,Haribo,Consumer goods,Food products,Bonn,1920
+1082,Heckler & Koch,Industrials,Defense,Oberndorf am Neckar,1948
+1083,HeidelbergCement,Industrials,Building materials & fixtures,Heidelberg,1874
+1084,Heidelberger Druckmaschinen,Industrials,Industrial machinery,Heidelberg,1850
+1085,Heinkel,Industrials,Aerospace,Warnem�nde,1922
+1086,Hella,Industrials,Industrial suppliers,Lippstadt,1899
+1087,Henkel,Conglomerates,-,D�sseldorf,1876
+1088,Heraeus,Industrials,Industrial machinery,Hanau,1851
+1089,Herrenknecht,Industrials,Industrial machinery,Schwanau,1975
+1090,Hochtief,Industrials,Heavy construction,Essen,1874
+1091,Hoechst,Basic materials,Specialty chemicals,Frankfurt,1863
+1092,Hoesch,Mining,,Dortmund,1871
+1093,Horch,Consumer goods,Automobiles,K�ln-Ehrenfeld Cologne,1899
+1094,Horv�th & Partners,Industrials,Business support services,Stuttgart,1981
+1095,Howaldtswerke-Deutsche Werft,Industrials,Commercial vehicles & trucks,Kiel,1838
+1096,Hubert Burda Media,Consumer services,Publishing,Offenburg,1903
+1097,Hugo Boss,Consumer goods,Clothing & accessories,Metzingen,1924
+1098,HypoVereinsbank,Financials,Financial services,Munich,1998
+1099,Hypo Real Estate,Financials,Real estate,Munich,2003
+1100,IAV,Industrials,Industrial suppliers,Berlin,1983
+1101,IG Farben,Basic materials,Commodity chemicals,Frankfurt,1925
+1102,Infineon Technologies,Technology,Semiconductors,Neubiberg,1999
+1103,Intershop,Consumer services,Specialty retailers,Berlin,1962
+1104,J. A. Henckels,Consumer goods,Durable household products,Solingen,1731
+1105,J. Schmalz,Industrials,Industrial machinery,Glatten,1910
+1106,Jack Wolfskin,Consumer goods,Recreational products,Idstein,1981
+1107,Jako,Consumer goods,Clothing & accessories,Mulfingen,1948
+1108,Jenoptik,Industrials,Industrial machinery,Jena,1991
+1109,Jil Sander,Consumer goods,Clothing & accessories,Hamburg,1968
+1110,Junghans,Consumer goods,Clothing & accessories,Schramberg,1861
+1111,Junkers,Industrials,Aerospace,Dessau,1895
+1112,K+S,Basic materials,Speciality chemicals,Kassel,1889
+1113,K�rcher,Industrials,Waste & disposal services,Winnenden,1935
+1114,Katjes International,Market,Food retailers,Emmerich am Rhein,1972
+1115,Kaufland,Consumer services,Food retailers & wholesalers,Neckarsulm,1985
+1116,Keimfarben,Basic materials,Speciality chemicals,Diedorf,1878
+1117,KfW,Financials,Banks,Frankfurt,1906
+1118,Kl�ckner & Co SE,Industrials,Industrial machinery,Duisburg,1906
+1119,Knorr,Consumer goods,Food products,Heilbronn,1838
+1120,Knorr-Bremse,Industrials,Industrial suppliers,Munich,1905
+1121,Koenig & Bauer,Industrials,Industrial machinery,W�rzburg,1817
+1122,K�rber,Industrials,Industrial machinery,Hamburg,1995
+1123,Krauss-Maffei,Industrials,Industrial machinery,Munich,1931
+1124,Krombacher Brauerei,Consumer goods,Brewers,Kreuztal,1803
+1125,Krones,Industrials,Industrial machinery,Neutraubling,1951
+1126,KSB Company,Industrials,Industrial machinery,Frankenthal,1871
+1127,KUKA,Industrials,Industrial machinery,Augsburg,1898
+1128,Lamy,Consumer goods,Nondurable household products,Heidelberg,1930
+1129,Lanxess,Basic materials,Speciality chemicals,Cologne,2004
+1130,Leica Camera,Consumer goods,Recreational products,Wetzlar,1914
+1131,Leidolf,Consumer goods,Recreational products,Wetzlar,1921
+1132,Leoni AG,Industrials,Electrical components & equipment,Nuremberg,1917
+1133,Lidl,Consumer services,Food retailers & wholesalers,Neckarsulm,1930
+1134,Lindauer Dornier,Consumer goods,Clothing & accessories,Lindau,1985
+1135,Linguatec,Technology,Software,Pasing,1996
+1136,Linhof,Consumer goods,Recreational products,Munich,1887
+1137,Loewe,Consumer goods,Consumer electronics,Kronach,1923
+1138,L�wenbr�u,Consumer goods,Brewers,Munich,1383
+1139,LSG Sky Chefs,Industrials,Transportation services,Neu-Isenburg,1942
+1140,LTU International,Consumer services,Airlines,D�sseldorf,1955
+1141,Lufthansa Group,Consumer services,Airlines,Cologne,1955
+1142,L�rssen,Industrials,Commercial vehicles & trucks,Bremen-Vegesack,1875
+1143,Magirus,Industrials,Commercial vehicles & trucks,Ulm,1866
+1144,Magix,Technology,Software,Berlin,1994
+1145,Mahle GmbH,Industrials,Industrial suppliers,Stuttgart,1920
+1146,MAN,Industrials,Commercial Vehicles & Trucks,Munich,1758
+1147,Mannesmann,Industrials,Diversified industrials,D�sseldorf,1890
+1148,Mast-J�germeister,Consumer goods,Distillers & vintners,Wolfenb�ttel,1878
+1149,Meindl,Consumer goods,Clothing & accessories,Kirchansch�ring,1683
+1150,Meinl Percussion,Consumer goods,Recreational products,Gutenstetten,1951
+1151,Meinl-Weston,Consumer goods,Recreational products,Geretsried,1810
+1152,Meissen porcelain,Consumer goods,Durable household products,Meissen,1708
+1153,Melitta,Consumer goods,Beverages,Minden,1908
+1154,Mennekes,Industrials,Electrical components & equipment,Kirchhundem,1935
+1155,Mercedes-AMG,Consumer goods,Automobiles,Affalterbach,1967
+1156,Mercedes-Benz,Consumer goods,Automobiles,Stuttgart,1883
+1157,Merck,Health care,Pharmaceuticals,Darmstadt,1668
+1158,Messerschmitt,Industrials,Aerospace,Augsburg,1938
+1159,Metro AG,Consumer services,Broadline retailers,D�sseldorf,1964
+1160,Metz,Consumer goods,Consumer electronics,Zirndorf,1938
+1161,Meyer Werft,Industrials,Commercial vehicles & trucks,Papenburg,1795
+1162,Miele,Consumer goods,Consumer electronics,G�tersloh,1899
+1163,Montblanc,Consumer goods,Nondurable household products,Hamburg,1906
+1164,Munich Re,Financials,Reinsurance,Munich,1880
+1165,M�ller,Consumer goods,Food products,Fischach,1896
+1166,Nemetschek,Technology,Software,Munich,1963
+1167,Nero AG,Technology,Software,Karlsruhe,1995
+1168,Netto Marken-Discount,Consumer services,Food retailers & wholesalers,Maxh�tte-Haidhof,1984
+1169,Nordzucker,Consumer goods,Food products,Braunschweig,1997
+1170,NSU Motorenwerke,Consumer goods,Automobiles,Neckarsulm,1873
+1171,Opel,Consumer goods,Automobiles,R�sselsheim am Main,1862
+1172,Orenstein & Koppel,Industrials,Industrial vehicles & trucks,Berlin,1876
+1173,Osram,Industrials,Building materials & fixtures,Munich,1919
+1174,Otto GmbH,Consumer services,Broadline retailers,Hamburg,1949
+1175,Otto Bock,Health care,Medical equipment,Duderstadt,1919
+1176,Paulaner Brewery,Consumer goods,Brewers,Munich,1634
+1177,PCC SE,Basic materials,Speciality chemicals,Duisburg,1993
+1178,Penny,Consumer services,Food retailers & wholesalers,Cologne,1973
+1179,Philipp Holzmann,Industrials,Heavy construction,Frankfurt,1849
+1180,Phoenix Contact,Industrials,Industrial machinery,Blomberg,1923
+1181,Plus,Consumer services,Food retailers & wholesalers,M�lheim,1972
+1182,Porsche,Consumer goods,Automobiles,Stuttgart,1931
+1183,ProSiebenSat.1,Consumer services,Broadcasting & entertainment,Unterf�hring,2000
+1184,PTV AG,Technology,Software,Karlsruhe,1979
+1185,PUMA,Consumer goods,Clothing & accessories,Herzogenaurach,1948
+1186,Putzmeister,Industrials,Industrial machinery,Aichtal,1958
+1187,Radeberger Brewery,Consumer goods,Brewers,Radeberg,1872
+1188,Recaro,Industrials,Industrial suppliers,Stuttgart,1906
+1189,Reemtsma,Consumer goods,Tobacco,Hamburg,1910
+1190,Rehau Group,Industrials,Industrial suppliers,Rehau,1948
+1191,REWE Group,Consumer services,Food retailers & wholesalers,Cologne,1927
+1192,Rheinmetall,Industrials,Defense,D�sseldorf,1889
+1193,Rheinmetall Automotive,Industrials,Industrial suppliers,Neckarsulm,1997
+1194,Rimowa,Consumer goods,Luggage,Cologne,1898
+1195,Ritter Sport,Consumer goods,Food products,Waldenbuch,1912
+1196,Robert Bosch GmbH,Conglomerate,-,Waldenbuch,1886
+1197,Rohde & Schwarz,Industrials,Electronic equipment,Munich,1933
+1198,ROSE Bikes,Consumer goods,Recreational products,Bocholt,1907
+1199,Rossmann,Consumer services,Drug retailers,Burgwedel,1972
+1200,RRI Rhein Ruhr International,Industrials,Industrial machinery,Essen,1942
+1201,RUF Automobile,Consumer goods,Automobiles,Pfaffenhausen,1939
+1202,RWE,Utilities,Electricity,Essen,1898
+1203,SABA,Consumer goods,Consumer electronics,Triberg im Schwarzwald,1923
+1204,Salzgitter AG,Basic materials,Iron & steel,Salzgitter,1937
+1205,SAP SE,Technology,Software,Walldorf,1972
+1206,Str�er,mass media,billboard,Cologne,1990
+1207,Sauer Flugmotorenbau,Industrials,Aerospace,Ober-Olm,?
+1208,Schaeffler Group,Industrials,Industrial suppliers,Herzogenaurach,1883
+1209,Schaller Guitarenparts,Consumer goods,Recreational products,Postbauer-Heng,1945
+1210,Schering,Health care,Pharmaceuticals,Berlin,1851
+1211,Schmitz Cargobull,Industrials,Commercial Vehicles & Trucks,Horstmar,1892
+1212,Schott AG,Basic materials,Speciality chemicals,Mainz,1884
+1213,Schwan-Stabilo,Consumer goods,Nondurable household products,Heroldsberg,1855
+1214,Schwarz Gruppe,Consumer services,Food retailers & wholesalers,Neckarsulm,1973
+1215,Schwind eye-tech-solutions,Health care,Medical equipment,Kleinostheim,1958
+1216,Sebamed,Consumer goods,Personal products,Boppard,1957
+1217,Seca,Health care,Medical equipment,Hamburg,1840
+1218,Sennheiser,Consumer goods,Consumer electronics,Wedemark,1945
+1219,Severin Elektro,Consumer goods,Consumer electronics,Sundern,1892
+1220,SEW Eurodrive,Industrials,General industrials,Bruchsal,1931
+1221,SGL Carbon,Basic materials,Chemicals,Wiesbaden,1992
+1222,Siemens,Conglomerates,-,Berlin,1847
+1223,SIG Sauer,Industrials,Defense,Eckernf�rde,1976
+1224,SimScale,Technology,Software,Munich[4],2012
+1225,SkySails,Industrials,Industrial machinery,Hamburg,2001
+1226,Smart,Consumer goods,Automobiles,B�blingen,1994
+1227,Software AG,Technology,Software,Darmstadt,1969
+1228,SolarWorld,Industrials,Industrial machinery,Bonn,1988
+1229,Sonor,Consumer goods,Recreational products,Berlin,1875
+1230,Sortimo,Industrials,Industrial suppliers,Zusmarshausen,1973
+1231,Staedtler,Consumer goods,Nondurable household products,Nuremberg,1835
+1232,Steinway & Sons,Consumer goods,Recreational products,Hamburg,1853
+1233,Stihl,Basic materials,Forestry,Waiblingen,1926
+1234,S�dzucker,Consumer goods,Food products,Mannheim,1926
+1235,Symrise,Personal products,"Flavours, gustatory and cosmetic substances",Holzminden,2003
+1236,Talanx,Financials,Full line insurance,Hanover,1996
+1237,Tchibo,Consumer services,Broadline retailers,Hamburg,1949
+1238,Telefunken,Consumer goods,Consumer electronics,Berlin,1903
+1239,Tengelmann Group,Consumer services,Broadline retailers,M�lheim,1867
+1240,Tente International,Industrials,General industrials,Cologne,1923
+1241,Tetra,Consumer services,Specialty retailers,Melle,1951
+1242,The Linde Group,Basic materials,Speciality chemicals,Munich,1879
+1243,ThyssenKrupp,Conglomerates,-,Duisburg,1999
+1244,trivago,Technology,Internet,D�sseldorf,2005
+1245,Trumpf,Industrials,Industrial machinery,Ditzingen,1923
+1246,T-Systems,Technology,Software,Frankfurt,2000
+1247,TUI Group,Consumer services,Travel & leisure,Hanover,1923
+1248,Uhlsport,Consumer goods,Clothing & accessories,Balingen,1948
+1249,Ulla Popken,Consumer goods,Clothing & accessories,Rastede,1880
+1250,Ultrasone,Consumer goods,Consumer electronics,Tutzing,1991
+1251,Underberg,Consumer goods,Brewers,Rheinberg,1846
+1252,United Internet,Telecommunications,Fixed line telecommunications,Montabaur,1988
+1253,Vaude,Consumer goods,Recreational products,Tettnang,1974
+1254,Vector Informatik,Technology,Software,Stuttgart,1988
+1255,Veltins,Consumer goods,Brewers,Meschede,1824
+1256,Vereinigte Flugtechnische Werke,Industrials,Aerospace,Bremen,1964
+1257,Viessmann,Industrials,General industrials,Allendorf (Eder),1917
+1258,Villeroy & Boch,Consumer goods,Durable household products,Mettlach,1748
+1259,Voith,Industrials,Industrial engineering,Heidenheim an der Brenz,1867
+1260,Volkswagen Group,Consumer goods,Automobiles,Wolfsburg,1937
+1261,Volkswagen,Consumer goods,Automobiles,Wolfsburg,1937
+1262,Vonovia,Financials,Real estate,Bochum,2001
+1263,Vossloh,Industrials,Industrial transportation,Werdohl,1888
+1264,Wacker Chemie,Basic materials,Chemicals,Munich,1914
+1265,Wacker Neuson,Industrials,Construction & materials,Munich,1848
+1266,WAGO Kontakttechnik,Industrials,Electrical components & equipment,Minden,1951
+1267,Warsteiner,Consumer goods,Brewers,Warstein,1753
+1268,Wella,Consumer goods,Personal products,Darmstadt,1880
+1269,Wera Werk Hermann Werner,Consumer goods,Durable household products,Wuppertal,1936
+1270,Weser Flugzeugbau,Industrials,Aerospace,Bremen,1934
+1271,Wilkhahn,Consumer goods,Furnishings,Bad M�nder,1907
+1272,Wintershall,Oil & gas,Exploration & production,Kassel,1894
+1273,Wirecard,Financials,Financial services,Aschheim,1999
+1274,Wittenstein,Industrials,Industrial engineering,Igersheim,1949
+1275,Wolff & M�ller,Industrials,Heavy construction,Stuttgart,1936
+1276,Wortmann,Technology,Computer hardware,H�llhorst,1986
+1277,W�rth,Industrials,General industrials,K�nzelsau,1945
+1278,W�sthof,Consumer goods,Durable household products,Solingen,1814
+1279,ZF Friedrichshafen,Industrials,Industrial suppliers,Friedrichshafen,1915
+1280,Ziehl-Abegg SE,Industrials,Electrical components & equipment,K�nzelsau,1910
+1281,4E TV,Consumer services,Media,Thessaloniki,1994
+1282,Abea,Consumer goods,Food products,Chania,1889
+1283,Achaia Clauss,Consumer Goods,Beverages,Patras,1861
+1284,ADMIE,Utilities,Electricity,Athens,2012
+1285,Aegean Airlines,Consumer services,Travel & Leisure,Athens,1987
+1286,Aegean Motorway S.A.,Industrials,Transportation services,Athens,2007
+1287,Aegean Speed Lines,Industrials,Marine transportation,Glyfada,2005
+1288,Aegek SA,Industrials,Heavy construction,Marousi,1949
+1289,Aeolian Investment Fund S.A.,Financials,Financial services,Athens,1992
+1290,Air Mediterranean,Consumer services,Airlines,Athens,2017
+1291,Alfa-Beta Vassilopoulos,Consumer services,Food retailers,Athens,1939
+1292,Allatini,Consumer goods,Food products,Thessaloniki,1858
+1293,Alpha Bank,Financials,Banks,Athens,1879
+1294,Alpha Records,Consumer services,Media,Athens,1987
+1295,Alpha TV,Consumer services,Media,Athens,1996
+1296,ALUMIL Aluminium Industry S.A,Basic materials,Industrial metals & mining,Kilkis,1988
+1297,Aluminium of Greece,Basic materials,Industrial metals & mining,Marousi,1960
+1298,Amjet Executive,Consumer services,Travel & Leisure,Athens,2009
+1299,ANEK Lines,Industrials,Industrial Transportation,Chania,1967
+1300,ANT1 Group,Consumer services,Media,Athens,1989
+1301,ANT1,Consumer services,Media,Athens,1989
+1302,Arapian,Consumer goods,Food products,Athens,1935
+1303,Arcadia Shipmanagement,Industrials,Marine transportation,Athens,1998
+1304,Archirodon,Industrials,Heavy construction,Dordrecht,1959
+1305,Atcom,Technology,Software & computer,Athens,1997
+1306,Athens Exchange,Financials,Equity investment,Athens,1876
+1307,Athens International Airport S.A.,Consumer services,Travel & leisure,Athens,1996
+1308,Athens-Macedonian News Agency,Consumer services,Media,Athens,2008
+1309,Athens Mass Transit System,Consumer services,Travel & tourism,Athens,1993
+1310,Athens Metro,Consumer services,Travel & leisure,Athens,1869
+1311,Atlas Maritime,Industrials,Marine transportation,Athens,2004
+1312,Attica Bank,Financials,Banks,Athens,1925
+1313,Attica Group,Industrials,Marine transportation,Athens,1918
+1314,Attiki Odos consortium,Industrials,Transportation services,Athens,1996
+1315,Aventurine SA,Technology,Video game industry,Athens,2003
+1316,Avin International,Industrials,Marine transportation,Maroussi,1977
+1317,Bank of Greece,Financials,Banks,Athens,1928
+1318,Barbastathis,Consumer services,Food & Beverages,Thessaloniki,1969
+1319,Bazaar,Consumer services,Food retailers,Athens,-
+1320,Beat,Consumer services,Transportation networking,Athens,2011
+1321,Berios,Industrials,Heavy construction,Athens,1984
+1322,Bioman,Consumer goods,Industrial parts,Tavros,1976
+1323,Black Lotus Records,Consumer services,Media,Athens,1998
+1324,Bluebird Airways,Consumer services,Airlines,Heraklion,2008
+1325,Blue Star Ferries,Industrials,Marine transportation,Athens,2000
+1326,Centric Multimedia,Consumer services,Multimedia,Athens,1995
+1327,Ceres Hellenic Shipping Enterprises,Industrials,Marine transportation,Pireus,1949
+1328,CERETETH,Technology,Research,Volos,2006
+1329,Chalkis Shipyards (Aulida),Industrials,Heavy construction,Chalkis,1971
+1330,Chipita,Food & Beveradges,Food & Beveradges,Athens,1973
+1331,Coca-Cola Hellenic Bottling Company,Consumer services,Food & Beverages,Zug,1969
+1332,Coffee Island,Consumer services,Restaurants & bars,Patras,1999
+1333,Compupress,Consumer services,Publishing,Athens,1982
+1334,Consolidated Contractors Company,Industrials,Heavy construction,Athens,1952
+1335,Cosmote,Telecommunications,Mobile telecommunications,Athens,1998
+1336,Costamare,Industrials,Marine transportation,Monaco,1975
+1337,DEPA,Oil & gas,Exploration & production,Athens,1988
+1338,DESFA,Oil & gas,Exploration & production,Chalandri,2007
+1339,Diana,Consumer goods,Automobiles & parts,Tavros,1976
+1340,Digea,Broadcast,Digital Provider,Athens,2009
+1341,Digital Union,Consumer services,Media,Athens,2008
+1342,Dodekanisos Seaways,Industrials,Marine transportation,Rhodes,1990
+1343,DryShips Inc,Industrials,Marine transportation,Athens,2004
+1344,EAS,Industrials,Defense,Athens,2004
+1345,Egnatia Odos S.A.,Industrials,Transportation services,Athens,1997
+1346,ELCO,Consumer goods,Household goods,Lykovrysi,1960
+1347,Epsa,Consumer goods,Soft drinks,Pilio,1924
+1348,Elefsis Shipyards,Industrials,Heavy construction,Eleusis,1962
+1349,ELFE,Basic materials,Speciality chemicals,Athens,1961
+1350,Ellaktor,Industrials,Heavy construction,Kifissia,1977
+1351,Ellinair,Consumer services,Airlines,Thessaloniki,2013
+1352,Energean Oil & Gas,Oil & gas,Exploration & production,Maroussi,2007
+1353,Open TV,Consumer services,Broadcasting & entertainment,Koropi,1990
+1354,Eskimo (Feidakis Group),Consumer goods,Household goods,Athens,1958
+1355,Estia Newspaper S.A.,Consumer services,Media,Athens,1876
+1356,ETEM,Basic materials,Aluminium,Athens,1971
+1357,Eurobank Ergasias,Financials,Banks,Athens,1990
+1358,European Reliance,Financials,Full line insurance,Athens,1977
+1359,European Seaways,Industrials,Marine transportation,Athens,1990
+1360,Euroseas,Industrials,Marine transportation,Maroussi,1917
+1361,Evga S.A.,Consumer goods,Food products,Athens,1934
+1362,EYDAP,Utilities,Water,Galatsi,1980
+1363,Fage,Consumer services,Food & Beverages,Strassen,1926
+1364,Fast Ferries,Industrials,Marine transportation,Piraeus,1998
+1365,Flocaf�,Consumer services,Restaurants & bars,Athens,1994
+1366,Finos Film,Consumer services,Film production,Athens,1943
+1367,Fix Brewery,Consumer goods,Brewers,Athens,1864
+1368,Folli Follie,Consumer goods,Clothing & accessories,Athens,1982
+1369,Forthnet,Telecommunications,Fixed line telecom.,Athens,1995
+1370,Frigoglass,Industrial,Commercial Refrigeration,Kifissia,1993
+1371,GainJet Aviation,Consumer services,Airlines,Athens,2006
+1372,Galaxias,Consumer services,Food retailers,Athens,1982
+1373,GEK Terna,Industrials,Heavy construction,Athens,1969
+1374,Germanos Group,Industrials,Electrical components,Athens,1980
+1375,Golden Star Ferries,Industrials,Marine transportation,Andros,2011
+1376,Goody's Burger House,Consumer services,Travel & leisure,Athens,1975
+1377,Grecotel,Consumer services,Hospitality,Rethymno,-
+1378,Greek Internet Exchange,Technology,Internet,Athens,2009
+1379,Greek Reporter,Consumer services,Media,-,2008
+1380,Greek Wine Cellars,Consumer goods,Beverages,Markopoulo,-
+1381,Green Cola Company,Consumer services,Food & Beverages,Orestiada,1959
+1382,Green Cookie Records,Consumer services,Media,Thessaloniki,-
+1383,Haitoglou Bros,Consumer goods,Food products,Athens,1924
+1384,Halyvourgiki Steel,Basic materials,Iron & steel,Athens,1937
+1385,Heaven Music,Consumer services,Media,Athens,2001
+1386,Hellas Sat,Telecommunications,Space telecommunications,Nicosia,2003
+1387,Hellenic Aerospace Industry,Industrials,Aerospace,Tanagra,1975
+1388,Hellenic Broadcasting Corporation,Consumer services,Broadcasting,Athens,1938
+1389,Hellenic Civil Aviation Authority,Consumer services,Ait traffic management,Glyfada,1931
+1390,Hellenic Duty Free Shops,Consumer services,Broadline retailers,Agios Stefanos,1979
+1391,Hellenic Electricity Distribution Network Operator,Utilities,Electricity,Athens,2009
+1392,Hellenic Petroleum,Oil & gas,Exploration & production,Athens,1958
+1393,Hellenic Post,Industrials,Delivery services,Athens,1828
+1394,Hellenic Railways Organisation,Infrastructure,Railway,Athens,1971
+1395,Asset Development Fund,Financials,Real estate holding,Athens,2011
+1396,Hellenic Seaplanes,Consumer services,Travel & Leisure,Athens,2013
+1397,Hellenic Seaways,Industrials,Marine transportation,Athens,2005
+1398,Hellenic Shipyards Co.,Industrials,Industrial transportation,Skaramagas,1957
+1399,Hellenic Space Organization,Technology,Space,Kallithea,2018
+1400,Hellenic Sugar Industry,Consumer goods,Food producers,Thessaloniki,1960
+1401,Hellenic Vehicle Industry,Industrials,Commercial vehicles,Thessaloniki,1972
+1402,Heracles General Cement,Industrials,Building materials & fixtures,Athens,1911
+1403,Heron S.A.,Utilities,Conventional electricity,Athens,2000
+1404,Hondos Center,Consumer services,Specialty retailers,Athens,1967
+1405,Hotel Grande Bretagne,Consumer services,Hotels,Athens,1874
+1406,IANOS,Consumer services,Publishing,Thessaloniki,1984
+1407,I Avgi,Consumer services,Media,Athens,1952
+1408,Ideal Bikes,Consumer goods,Recreational products,Patras,1977
+1409,IMC Technologies,Technology,Software,Athens,2004
+1410,Interbalkan Medical Center,Consumer services,Health,Thessaloniki,2000
+1411,InternetQ,Technology,Software & computer,London,2000
+1412,Intracom,Technology,Software,Athens,1977
+1413,Intrakat,Industrials,Heavy construction,Paiania,1987
+1414,Intralot,Consumer services,Gambling,Athens,1992
+1415,Levante Ferries,Consumer goods,Food products,Zante,2015
+1416,Izola (Dimitriou Group),Consumer goods,Household goods,Athens,1930
+1417,Kefalonian Lines,Industrials,Marine transportation,Cephalonia,2013
+1418,IQsoft,Technology,Software,Ioannina,-
+1419,Jumbo S.A.,Consumer goods,Toys,Athens,1986
+1420,Karelia Fine Tobaccos,Consumer goods,Tobacco,Kalamata,1888
+1421,Kathimerini Publishing S.A,Consumer services,Media,Neo Phaliro,1919
+1422,Kioleides,Industrials,Commercial vehicles & trucks,Athens,1968
+1423,Korres,Health care,Cosmetics,Athens,1996
+1424,Kostoulas,Consumer services,Waste Management,Athens,1986
+1425,Kotsovolos,Consumer services,Electronics,Athens,1950
+1426,Kyknos,Consumer goods,Food products,Ilia,1911
+1427,LAGIE,Financials,Energy Investment,Athens,2011
+1428,Lambrakis Press Group,Consumer services,Publishing,Athens,1922
+1429,Larco,Basic materials,Industrial metals & mining,Marousi,1963
+1430,Lavipharm,Health care,Pharmaceuticals,Athens,1911
+1431,Levante Ferries,Industrials,Marine transportation,Athens,2014
+1432,Libra Group,Conglomerates,�,New York City,2003
+1433,Lobby Music,Consumer services,Media,Athens,2010
+1434,Loux,Consumer goods,Soft drinks,Patras,1950
+1435,Majestic International Cruises,Industrials,Marine transportation,Athens,1980
+1436,Makedonia TV,Consumer services,Broadcasting,Thessaloniki,1991
+1437,Malamatina,Consumer goods,Beverages,Alexandroupoli,1895
+1438,Marfin Investment Group,Conglomerates,�,Nea Erythraia,1998
+1439,MarineTraffic,Technology,Software,Athens,2007
+1440,Masoutis,Consumer services,Food retailers,Thessaloniki,1976
+1441,Melissa S.A.,Consumer goods,Food products,Athens,1947
+1442,Metaxa,Consumer goods,Distillers & vintners,Athens,1888
+1443,Metka,Industrials,Heavy construction,Athens,1962
+1444,Metro S.A.,Consumer services,Wholesalers,Metamorfosi,1976
+1445,Mevgal,Consumer goods,Food products,Koufalia,1950
+1446,Mikel Coffee Company,Consumer services,Restaurants & bars,Larissa,2008
+1447,Minoan Lines,Industrials,Marine transportation,Heraclion,1972
+1448,Minos Wines,Consumer goods,Beverages,Crete,1932
+1449,Misko,Consumer goods,Food products,Athens,1927
+1450,Mythos Brewery,Consumer goods,Beverages,Sindos,1968
+1451,Minos EMI,Consumer services,Media,Athens,1931
+1452,MLS Innovation S.A.,Technology,Software,Thessaloniki,1989
+1453,Moreas Motorway S.A.,Industrials,Transportation services,Athens,2006
+1454,Motomarine,Industrials,Commercial vehicles,Koropi,1962
+1455,Motor Oil Hellas,Oil & gas,Exploration & production,Athens,1970
+1456,Mytilineos Holdings,Conglomerates,�,Maroussi,1990
+1457,Naftemporiki,Consumer services,Media,Athens,1924
+1458,Namco,Consumer goods,Automobiles & parts,Thessaloniki,1972
+1459,Natech,Technology,Software,Ioannina,1983
+1460,National Bank of Greece,Financials,Banks,Athens,1841
+1461,Navios Maritime Holdings,Industrials,Marine transportation,Pireus,1992
+1462,Neorion,Industrials,Commercial vehicles,Ermoupolis,1820
+1463,Mega Channel,Consumer services,Media,Athens,1989
+1464,Nipponia,Consumer goods,Automobiles & parts,Athens,1992
+1465,National Hellenic Research Foundation,Technology,Research,Athens,1958
+1466,Nick Silver Pickups,Industrials,Mechanical equipment,Athens,-
+1467,Ocean Rig,Oil & gas,Exploration & production,Athens,1996
+1468,Optima bank,Financials,Banks,Athens,2000
+1469,Olympia Odos consortium,Industrials,Transportation services,Athens,2008
+1470,Olympic Air,Consumer services,Airlines,Spata,2009
+1471,Olympos,Consumer services,Food & Beverages,Larissa,1965
+1472,Olympus Airways,Consumer services,Airlines,Athens,2014
+1473,OPAP,Consumer services,Gambling,Athens,1958
+1474,Optima bank,Financials,Banks,Athens,2014
+1475,Orient Bikes,Consumer goods,Recreational products,Larissa,1987
+1476,OTE,Telecommunications,Fixed line telecom.,Maroussi,1949
+1477,OTEGlobe,Telecommunications,Broadband and Internet,Athens,2000
+1478,Ouzo Plomari,Consumer goods,Beverages,Plomari,1894
+1479,Papadopoulos,Consumer goods,Food products,Athens,1930
+1480,Papastratos,Consumer goods,Tobacco,Aspropyrgos,1830
+1481,Parachute Type foundry,Technology,Type foundry,Athens,2001
+1482,PAS Giannina F.C.,Consumer services,Sports,Ioannina,1966
+1483,Peiraiki,Consumer goods,Beverages,Drapetsona,-
+1484,Petropoulos A.E.B.E.,Consumer goods,Automobiles & parts,Thessaloniki,1922
+1485,Piraeus Bank,Financials,Banks,Athens,1916
+1486,Porto Carras,Consumer services,Hospitality,Sithonia,1973
+1487,Pouliadis Associates Corporation,Technology,Software & computer,Athens,1980-2006
+1488,Prapopoulos Bros s.a.,Industrials,Mechanical equipment,Patras,1886
+1489,Profile Systems and Software,Technology,Software & computer,Athens,1990
+1490,Prometheus Gas,Oil & gas,"Oil Equip., serv. & distr.",Athens,1991
+1491,Psichogios Publications,Consumer services,Publishing,Athens,1979
+1492,Public Power Corporation,Oil & gas,Alternative energy,Athens,1950
+1493,Pyramis,Consumer goods,Household goods,Thessaloniki,1959
+1494,RCH,Consumer goods,Automobiles & parts,Katerini,2007
+1495,Research Acad. Computer Tech. Institute,Technology,Research,Patras,1985
+1496,Brink's,Consumer goods,Beverages,Rethymno,2001
+1497,ROAR! Rock of Angels Records,Consumer services,Media,Angelochori,2012
+1498,Rokas Constructions S.A.,Industrials,Heavy construction,Athens,1958
+1499,Santorini Brewing Company,Consumer goods,Beverages,Santorini,2011
+1500,Saracakis,Consumer goods,Automobiles & parts,Athens,1922
+1501,Seajets,Industrials,Marine transportation,Piraeus,1989
+1502,SEKA,Oil & gas,"Oil Equip., serv. & distr.",Kaloi Limenes,1961
+1503,Sergal,Consumer services,Food & Beverages,Serres,1964
+1504,Sfakianakis,Consumer goods,Automobiles & parts,Athens,1957
+1505,Skai Group,Consumer services,Media,Piraeus,1992
+1506,Sky Express,Consumer services,Airlines,Athens,2005
+1507,Sleaszy Rider Records,Consumer services,Media,Athens,1999
+1508,Social Insurance Institute,Financials,Full line insurance,Athens,1934
+1509,Softex,Consumer goods,Nondurable products,Athens,1936
+1510,Space Internetworking Center,Technology,Research,Xanthi,2010
+1511,Spinalonga Records,Consumer services,Media,Athens,2004
+1512,Star Channel,Consumer services,Media,Athens,1993
+1513,State Aircraft Factory,Industrials,Aerospace & defense,Athens,1917
+1514,Superfast Ferries,Industrials,Industrial transportation,Athens,1993
+1515,Temax,Industrials,Industrial engineering,Athens,1925
+1516,Terkenlis,Consumer goods,Food products,Thessaloniki,1948
+1517,Terna Energy,Oil & Gas,Alternative energy,Athens,1997
+1518,The Spicy Effect,Consumer services,Media,Athens,2009
+1519,Thessaloniki Metro,Consumer services,Travel & leisure,Thessaloniki,2020
+1520,Thessaloniki Waterbus,Consumer goods,Food products,Thessaloniki,-
+1521,Theon Sensors,Industrials,Defense,Athens,2004
+1522,Titan Cement,Industrials,Construction & materials,Brussels,1902
+1523,TrainOSE,Consumer services,Travel & leisure,Athens,2005
+1524,Tropical,Consumer goods,Automobiles & parts,Athens,1976
+1525,Tsantali,Consumer goods,Beverages,Agios Pavlos,1938
+1526,Variety Cruises,Industrials,Marine transportation,Athens,2006
+1527,Ventouris Ferries,Industrials,Marine transportation,Piraeus,1978
+1528,Vegas Oil and Gas,Oil & gas,Exploration & production,Athens,2003
+1529,Vianex S.A.,Health care,Biotechnology,Athens,1971
+1530,Viohalco,Basic materials,Industrial metals & mining,Brussels,1937
+1531,Viva Services,Consumer services,Technology,Athens,1998
+1532,Vivartia,Consumer goods,Food producers,Athens,1968
+1533,Vodafone Greece,Telecommunications,Mobile telecommunications,Chalandri,1992
+1534,Watt+Volt,Utilities,Conventional electricity,Athens,2011
+1535,WIND Hellas,Telecommunications,Fixed line telecom.,Athens,1992
+1536,Zante Ferries,Industrials,Marine transportation,Piraeus,1991
+1537,ASL Airlines Hungary,Consumer services,Airlines,Budapest,1990
+1538,Association of Hungarian Record Companies,Consumer services,Broadcasting & entertainment,Budapest,1992
+1539,Balabit,Technology,Computer services,Budapest,2000
+1540,BKV Zrt.,Consumer services,Travel & tourism,Budapest,1968
+1541,Borsod Brewery,Consumer goods,Brewers,B?cs,1969
+1542,BorsodChem,Basic materials,Specialty chemicals,Budapest,1949
+1543,Budapest Aircraft Service,Consumer services,Airlines,Budapest,1991
+1544,CBA,Consumer services,Food retailers & wholesalers,Als�n�medi,1992
+1545,AMC Networks International Central Europe,Consumer services,Broadcasting & entertainment,Budapest,2014
+1546,CIB Bank,Financials,Banks,Budapest,1979
+1547,Cinema City Hungary,Consumer services,Recreational services,Budapest,1997[3]
+1548,CityLine Hungary,Consumer services,Airlines,Vecs�s,2003
+1549,CLS Music,Consumer services,Broadcasting & entertainment,Budapest,2002
+1550,Corvin Film,Consumer services,Broadcasting & entertainment,Budapest,1914
+1551,Corvus Hungary,Industrials,Aerospace,Ball�sz�g,2011
+1552,Csepel,Consumer goods,Automobiles,Szigetszentmikl�s,1944
+1553,Danubius Hotels Group,Consumer services,Hotels,Budapest,1972
+1554,Digital Reality,Technology,Software,Budapest,1991
+1555,Dreher Brewery,Consumer goods,Brewers,Budapest,1854
+1556,Fegyver- �s G�pgy�r,Industrials,Building materials & fixtures,Budapest,1891
+1557,FHB Mortgage Bank,Financials,Banks,Budapest,1997
+1558,Ganz Works,Consumer goods,Automobiles,Budapest,1844
+1559,Richter Gedeon Co.,Health care,Pharmaceuticals,Budapest,1901
+1560,Gramy Records,Consumer services,Broadcasting & entertainment,Budapest,1999
+1561,Graphisoft,Technology,Software,Budapest,1982
+1562,Gundel,Consumer services,Restaurants & bars,Budapest,1910
+1563,Gy?ri Keksz,Consumer goods,Food products,Gy?r,1880
+1564,H�l�zat TV,Consumer services,Broadcasting & entertainment,Budapest,2002
+1565,Hell Energy,Consumer goods,Food & beverage,Miskolc,2006
+1566,Herend Porcelain Manufactory,Consumer goods,Durable household products,Herend,1826
+1567,Hungarian National Bank,Financials,Banks,Budapest,1924
+1568,Hungarian State Railways,Industrials,Railroads,Budapest,1869
+1569,Hungaroton,Consumer services,Broadcasting & entertainment,Budapest,1951
+1570,Hunnia Film Studio,Consumer services,Broadcasting & entertainment,Budapest,?
+1571,Ikarus Bus,Industrials,Commercial vehicles & trucks,Budapest,1895
+1572,International Training Center for Bankers,Financials,Banks,Budapest,1988
+1573,Invictus Games,Technology,Software,Debrecen,2000
+1574,IP Systems,Technology,Software,Budapest,2008
+1575,iWiW,Technology,Internet,Budapest,2002
+1576,K&H Bank,Financials,Banks,Budapest,1987
+1577,Lehel,Consumer goods,Durable household products,J�szber�ny,1945
+1578,Magyar Posta,Industrials,Delivery services,Budapest,1867
+1579,Magyar Telekom,Telecommunications,Fixed line telecommunications,Budapest,1991
+1580,MAL Hungarian Aluminium,Basic materials,Aluminum,Ajka,1995
+1581,Mal�v,Consumer services,Airlines,Budapest,1956
+1582,Match,Consumer services,Food retailers & wholesalers,Budapest,1952
+1583,MKB Bank,Financials,Banks,Budapest,1950
+1584,MOL Group,Oil & gas,Exploration & production,Budapest,1957
+1585,MTVA,Consumer services,Broadcasting & entertainment,Budapest,2011
+1586,MVK Zrt.,Consumer services,Travel & tourism,Miskolc,1954
+1587,MVM Group,Utilities,Conventional electricity,Budapest,1948
+1588,NeocoreGames,Technology,Software,Budapest,2005
+1589,Oncotherm,Health care,Medical equipment,Budapest,1988
+1590,Organica Technologies,Utilities,Water,Budapest,1998
+1591,Orion Electronics,Industrials,Electronic equipment,Budapest,1913
+1592,OTP Bank,Financials,Banks,Budapest,1949
+1593,Pannon,Telecommunications,Mobile telecommunications,T�r�kb�lint,1994
+1594,Pannonia Film Studio,Consumer services,Broadcasting & entertainment,Budapest,1956
+1595,Panrusg�z,Oil & gas,Exploration & production,Budapest,1994
+1596,P�cs Brewery,Consumer goods,Brewers,P�cs,1848
+1597,Pick Szeged,Consumer goods,Food products,Szeged,1869
+1598,Prezi,Technology,Software,Budapest,2009
+1599,Puli Space Technologies,Industrials,Aerospace,Budapest,2010
+1600,R�ba,Consumer goods,Automobiles,Gy?r,1896
+1601,Scarab Research,Technology,Software,Budapest,2009
+1602,State Printing Company,Consumer services,Publishing,Budapest,1851
+1603,Szerencsej�t�k Zrt.,Consumer services,Gambling,Budapest,1991
+1604,Takar�kbank,Financials,Banks,Budapest,1989
+1605,ThalesNano,Industrials,Electronic equipment,Budapest,2002
+1606,Tisza Cip?,Consumer goods,Clothing & accessories,Martf?,1942
+1607,T�rley,Consumer goods,Distillers & vintners,Budapest,1882
+1608,Travel Service,Consumer services,Airlines,Budapest,2001
+1609,TriGr�nit,Financials,Real estate holding & development,Budapest,1997
+1610,Tungsram,Industrials,Electrical components & equipment,�jpest,1896
+1611,Turner Broadcasting System Hungary,Consumer services,Broadcasting & entertainment,Budapest,?
+1612,UPC Magyarorsz�g,Telecommunications,Fixed line telecommunications,Budapest,1998
+1613,Videoton,Consumer goods,Consumer electronics,Sz�kesfeh�rv�r,1938
+1614,VirusBuster,Technology,Computer services,Budapest,1997
+1615,Vodafone Hungary,Telecommunications,Mobile telecommunications,Budapest,1999
+1616,Wizz Air,Consumer services,Airlines,Budapest,2003
+1617,Zen Studios,Technology,Software,Budapest,2003
+1618,Zsolnay,Consumer goods,Durable household products,P�cs,1853
+1619,Zwack,Consumer goods,Distillers & vintners,Budapest,1790
+1620,Abrakebabra,Consumer services,Food Retailers & Wholesalers,Dublin,1982
+1621,Abrakebabra Investments,Consumer services,Food Retailers & Wholesalers,Dublin,1982
+1622,Accenture,Industrials,Business support services,Dublin,1989
+1623,Aer Lingus,Consumer services,Airlines,Dublin,1936
+1624,Aer Lingus Regional,Consumer services,Airlines,Dublin,2010
+1625,AerCap,Industrials,Transport,Dublin,2006
+1626,Aircoach,Consumer services,Travel & tourism,Dublin,1999
+1627,Airtricity,Utilities,Alternative electricity,Dublin,1997
+1628,Allied Irish Banks (AIB),Financials,Banks,Dublin,1966
+1629,An Post,Industrials,Delivery services,Dublin,1984
+1630,Apache Pizza,Consumer services,Food Retailers & Wholesalers,Dublin,2006
+1631,Aptiv,Industrials,Automotive,Dublin,1994
+1632,Arnotts,Consumer services,Broadline retailers,Dublin,1843
+1633,Baltimore Technologies,Technology,Internet,Dublin,1976
+1634,Bank of Ireland,Financials,Banks,Dublin,1783
+1635,Barry's Tea,Consumer goods,Beverages,Cork,1901
+1636,Bewley's,Consumer services,Food Retailers & Wholesalers,Dublin,1840
+1637,Bord na M�na,Utilities,Multiutilities,Newbridge,1946
+1638,Boylesports,Consumer services,Gambling,Dundalk,1989
+1639,BT Ireland,Telecommunications,Fixed line telecommunications,Dublin[2],1990
+1640,Bus �ireann,Consumer services,Travel & tourism,Dublin,1987
+1641,Butlers Chocolates,Consumer goods,Food products,Dublin,1932
+1642,BWG Foods,Consumer services,Food retailers & wholesalers,Dublin,1963[3]
+1643,C&C Group,Consumer goods,Brewers,Dublin,1852
+1644,Central Bank of Ireland,Financials,Banks,Dublin,1943
+1645,CI�,Consumer services,Travel & tourism,Dublin,1945
+1646,CityJet,Consumer services,Airlines,Dublin,1992
+1647,Communicorp,Consumer services,Broadcasting & Entertainment,Dublin,1989
+1648,Covidien,Health care,Medical equipment,Dublin,2007
+1649,CRH plc,Industrials,Building materials & fixtures,Dublin,1936
+1650,C�ram Software,Technology,Software,Dublin,1990
+1651,DAA,Consumer services,Transportation services,Dublin,1937
+1652,DCC Plc,Industrials,Business support services,Dublin,1976
+1653,Dealz,Consumer services,Broadline retailers,Dublin,2011
+1654,Digiweb,Telecommunications,Fixed line telecommunications,Dundalk,1997
+1655,Doolittles,Consumer services,Food Retailers & Wholesalers,Laghey,2001
+1656,Dublin Bus,Consumer services,Travel & tourism,Dublin,1987
+1657,Dunnes Stores,Consumer services,Broadline retailers,Dublin,1944
+1658,Eaton Corporation,Conglomerate,-,Dublin,1911
+1659,Eason & Son,Consumer services,Specialty retailers,Dublin,1819
+1660,EBS,Financials,Banks,Dublin,1935
+1661,Eddie Rocket's,Consumer services,Food Retailers & Wholesalers,Dublin,1989
+1662,EDUN,Consumer goods,Clothing & accessories,Dublin,2005
+1663,Eir,Telecommunications,Fixed line telecommunications,Dublin,1999
+1664,Eir Sport,Consumer services,Broadcasting & Entertainment,Dublin,1990
+1665,Energia Group,Utilities,Conventional electricity,Belfast,1998
+1666,EQTEC,Utilities,Alternative electricity,Cork,2005
+1667,Ervia,Utilities,Gas distribution,Cork,1976
+1668,ESB Group,Utilities,Conventional electricity,Dublin,1927
+1669,Experian,Financials,Business services,Dublin,1996
+1670,FBD Holdings,Financials,Full line insurance,Dublin,1969
+1671,FINEOS,Technology,Software,Dublin,1993
+1672,First Trust Bank,Financials,Banks,Belfast,1991
+1673,Four Star Pizza,Consumer services,Food Retailers & Wholesalers,Dublin,1986
+1674,Fyffes,Consumer goods,Food products,Dublin,1888
+1675,Glanbia,Consumer goods,Food products,Kilkenny,1997
+1676,GlenDimplex,Consumer goods,Consumer electronics,Dublin,1973
+1677,GoCar,Consumer services,Specialized consumer services,Dublin,2008
+1678,Greencore,Consumer goods,Food products,Dublin,1991
+1679,Guineys,Consumer services,Apparel retailers,Dublin,1971
+1680,Guinness,Consumer goods,Brewers,Dublin,1759
+1681,Havok,Technology,Software,Dublin,1998
+1682,Heatons,Consumer services,Broadline retailers,Dublin,1946
+1683,Horizon Therapeutics,Consumer services,Biopharmaceutical,Dublin,2005
+1684,Iarnr�d �ireann,Consumer services,Travel & tourism,Dublin,1987
+1685,Independent News & Media,Consumer services,Publishing,Dublin,1904
+1686,Insomnia Coffee Company,Consumer services,Food Retailers & Wholesalers,Dublin,1997
+1687,Intel Ireland,Technology,Semiconductors,Leixlip,1989
+1688,IONA Technologies,Technology,Software,Dublin,1991
+1689,Irish Citylink,Consumer services,Travel & tourism,Dublin,1994
+1690,Irish Continental Group,Industrials,Industrial transportation,Dublin,1972
+1691,Irish Ferries,Industrials,Industrial transportation,Dublin,1992
+1692,Johnson Controls,Industrials,Electrical components & equipment,Cork,1885
+1693,KBC Bank Ireland,Financials,Banks,Dublin,1973
+1694,Kerry Group,Consumer goods,Food products,Tralee,1972
+1695,Kingspan Group,Industrials,Building materials,Dublin,1966
+1696,Laya Healthcare,Financials,Life insurance,Little Island,1997
+1697,Magnet Networks,Telecommunications,Fixed line telecommunications,Dublin,2004
+1698,Mannok,Industrials,Building materials & fixtures,Derrylin,1973
+1699,Medtronic,Health care,Medical equipment,Dublin,1949
+1700,Meteor,Telecommunications,Mobile telecommunications,Dublin,1998
+1701,Metro,Consumer services,Travel & tourism,Belfast,1973
+1702,Musgrave Group,Consumer services,Food retailers & wholesalers,Cork,1876
+1703,National Lottery,Consumer services,Gambling,Dublin,1987
+1704,NI Railways,Consumer services,Travel & tourism,Belfast[4],1967
+1705,Norkom,Technology,Software,Dublin,1998
+1706,Northern Ireland Electricity,Utilities,Conventional electricity,Belfast,1991
+1707,Northern Ireland Transport Holding Company,Consumer services,Travel & tourism,Belfast[5],1967
+1708,NTR plc,Utilities,Alternative electricity,Dublin,1978
+1709,Oatfield,Consumer goods,Food products,Letterkenny,1927
+1710,O'Briens Irish Sandwich Bars,Consumer services,Food Retailers & Wholesalers,Dublin,1988
+1711,Openet,Technology,Software,Dublin,1999
+1712,Paddy Power,Consumer services,Gambling,Dublin,1988
+1713,Pat the Baker,Consumer goods,Baked goods,Granard,1953[6]
+1714,Permanent TSB,Financials,Life insurance,Dublin,1884
+1715,Penneys,Consumer services,Apparel retailers,Dublin,1962
+1716,Rabobank Ireland,Financials,Banks,Dublin,1994
+1717,Raidi� Teilif�s �ireann (RT�),Consumer services,Broadcasting & Entertainment,Dublin,1960
+1718,Ryanair,Consumer services,Airlines,Dublin,1985
+1719,Shire,Health care,Pharmaceuticals,Dublin,1986
+1720,Smart Telecom,Telecommunications,Mobile telecommunications,Dublin,1989
+1721,Smurfit Kappa,Consumer goods,Paper,Dublin,1934
+1722,Smyths,Consumer services,Specialty retailers,Galway,1986
+1723,Stobart Air,Consumer services,Airlines,Dublin,2014
+1724,Supermac's,Consumer services,Food Retailers & Wholesalers,Ballybrit[7],1978
+1725,SuperValu,Consumer services,Food retailers & wholesalers,Cork,1968
+1726,Teilif�s na Gaeilge,Consumer services,Broadcasting & Entertainment,Baile na hAbhann,2007
+1727,Tesco Ireland,Consumer services,Food retailers & wholesalers,Dublin,1997
+1728,The Airporter,Consumer services,Travel & tourism,Derry,1990
+1729,The Irish Times,Consumer services,Publishing,Dublin,1859
+1730,Thomas Crosbie Holdings,Consumer services,Publishing,Cork,1841
+1731,Three Ireland,Telecommunications,Fixed line telecommunications,Dublin,2005
+1732,Tipperary Natural Mineral Water,Consumer goods,Beverages,Borrisoleigh,1986
+1733,Today FM,Consumer services,Broadcasting & Entertainment,Dublin,1997
+1734,Trane Technologies,Conglomerate,-,Swords,1871
+1735,Transport Infrastructure Ireland,Industrials,Heavy construction,Dublin,2015
+1736,Virgin Media Television,Consumer services,Broadcasting & Entertainment,Dublin,1998
+1737,UDG Healthcare,Health care,Pharmaceuticals,Dublin,1948
+1738,Ulster Bank,Financials,Banks,Dublin,1836
+1739,Ulsterbus Foyle,Consumer services,Travel & tourism,Derry,2006
+1740,Ulsterbus,Consumer services,Travel & tourism,Belfast,1967
+1741,Vhi Healthcare,Financials,Life insurance,Purcellsinch,1957
+1742,Virgin Media Ireland,Telecommunications,Fixed line telecommunications,Dublin,2005
+1743,Vizor,Technology,Software,Dublin,2000
+1744,Vodafone Ireland,Telecommunications,Mobile telecommunications,Dublin,1984
+1745,Wireless Group,Consumer services,Broadcasting & Entertainment,Belfast,2007
+1746,Wrightbus,Industrials,Commercial vehicles & trucks,Ballymena,1946
+1747,A&G Management Consulting,Industrials,Business support services,Turin,1988
+1748,A2A,Utilities,Multiutilities,Brescia,2008
+1749,Abarth,Consumer goods,Automobiles,Turin,1949
+1750,Abon Plastic,Industrials,Containers & packaging,Gornate-Olona,1973
+1751,Aermacchi,Industrials,Aerospace,Varese,1912
+1752,Agip,Oil & gas,Oil & gas refining & marketing,Rome,1926
+1753,AgustaWestland,Industrials,Aerospace & defense,Rome,2000
+1754,AGV,Consumer goods,Auto parts,Alessandria,1946
+1755,Air Dolomiti,Consumer services,Airlines,Villafranca di Verona,1991
+1756,Air One,Consumer services,Airlines,Fiumicino,1983
+1757,ALAN,Consumer goods,Recreational products,Veggiano,1972
+1758,Alenia Aermacchi,Industrials,Aerospace,Venegono Superiore,2012
+1759,Alenia Aeronautica,Industrials,Aerospace,Rome,1990
+1760,Alessi,Consumer goods,Durable household products,Omegna,1921
+1761,Alfa Romeo,Consumer goods,Automobiles,Turin,1910
+1762,Alitalia,Consumer services,Airlines,Fiumicino,1999
+1763,Alleanza Assicurazioni,Financials,Life insurance,Milan,1898
+1764,Alpinestars,Consumer goods,Clothing & accessories,Asolo,1963
+1765,Andrea Moda,Consumer goods,Clothing & accessories,Morrovalle,1985
+1766,Angelini,Health care,Pharmaceuticals,Rome,1919
+1767,Anonima Petroli Italiana,Oil & gas,Petroleum products,Rome,1933
+1768,Ansaldo Energia,Utilities,Conventional electricity,Genoa,1853
+1769,Ansaldo STS,Industrials,Railroads,Genoa,2006
+1770,Aprilia,Consumer goods,Automobiles,Noale,1945
+1771,Arflex,Consumer goods,Furnishings,Milan,1947
+1772,Armani,Consumer goods,Clothing & accessories,Milan,1975
+1773,Arnoldo Mondadori Editore,Consumer services,Publishing,Segrate,1907
+1774,Artemide,Consumer goods,Furnishings,Pregnana Milanese,1960
+1775,Assicurazioni Generali,Financials,Full line insurance,Trieste,1831
+1776,Atala,Consumer goods,Recreational products,Monza,1921
+1777,Autobianchi,Consumer goods,Automobiles,Milan,1995
+1778,Autogrill,Consumer services,Food retailers & wholesalers,Rozzano,1947
+1779,Avio,Industrials,Aerospace & defense,Rome,1908
+1780,Azimut Yachts,Industrials,Shipbuilding,Turin,1969
+1781,B Engineering,Consumer goods,Automobiles,Campogalliano,2000
+1782,B&B Italia,Consumer goods,Furnishings,Novedrate,1966
+1783,Baldinini,Consumer goods,Footwear,San Mauro Pascoli,1910
+1784,Banca Carige,Financials,Banks,Genoa,1483
+1785,Banca Monte dei Paschi di Siena,Financials,Banks,Siena,1472
+1786,Banca Nazionale del Lavoro,Financials,Banks,Rome,1913
+1787,Banca Popolare di Milano,Financials,Banks,Milan,1865
+1788,Banco Popolare,Financials,Banks,Verona,2007
+1789,Bandini Automobili,Consumer goods,Automobiles,Forl�,1946
+1790,Barilla Group,Consumer goods,Food products,Parma,1877
+1791,Basso Bikes,Consumer goods,Recreational products,San Zenone degli Ezzelini,1977
+1792,Benelli Armi SpA,Industrials,Defense,Urbino,1967
+1793,Benelli,Consumer goods,Automobiles,Pesaro,1911
+1794,Benetti,Industrials,Shipbuilding,Viareggio,1873
+1795,Benetton Group,Consumer goods,Clothing & accessories,Ponzano Veneto,1965
+1796,Bennet,Consumer services,Food retailers & wholesalers,Montano Lucino,1964
+1797,Beretta,Industrials,Defense,Brescia,1526
+1798,Bertolli,Consumer goods,Food products,Lucca,1865
+1799,Beta,Consumer goods,Automobiles,Rignano sull'Arno,1904
+1800,Bettanin & Venturi,Consumer goods,Footwear,Vigasio,1994
+1801,Bianchi,Consumer goods,Recreational products,Milan,1885
+1802,Bimota,Consumer goods,Automobiles,Rimini,1973
+1803,Birel,Consumer goods,Automobiles,Lissone,1958
+1804,Birra Amarcord,Consumer goods,Brewers,Rimini,1997
+1805,Birra Ichnusa,Consumer goods,Brewers,Assemini,1912
+1806,Birra Menabrea,Consumer goods,Brewers,Biella,1846
+1807,Birra Moretti,Consumer goods,Brewers,Udine,1859
+1808,Birrificio Angelo Poretti,Consumer goods,Brewers,Induno Olona,1877
+1809,Bizzarrini,Consumer goods,Automobiles,Livorno,1964
+1810,Blue Panorama Airlines,Consumer services,Airlines,Fiumicino,1998
+1811,Blufin,Consumer goods,Clothing & accessories,Carpi,1977
+1812,Bompiani,Consumer services,Publishing,Milan,1929
+1813,Bontempi,Consumer goods,Recreational products,Potenza Picena,1937
+1814,Bontoni,Consumer goods,Footwear,Montegranaro,2004[6]
+1815,Borrani,Consumer goods,Tires,Milan,1922
+1816,Borsalino,Consumer goods,Clothing & accessories,Alessandria,1857
+1817,Bottecchia,Consumer goods,Recreational products,Cavarzere,1924
+1818,Bottega Veneta,Consumer goods,Clothing & accessories,Vicenza,1966
+1819,B-P Battioni e Pagani S.p.A.,Industrials,Commercial vehicles & trucks,Parma,1959
+1820,Braccialini,Consumer goods,Clothing & accessories,Florence,1954
+1821,Bracco Group,Health care,Pharmaceuticals,Milan,1927
+1822,Breda,Industrials,Industrial engineering,Brescia,1886
+1823,Brembo,Consumer goods,Auto parts,Stezzano,1961
+1824,Brioni,Consumer goods,Clothing & accessories,Rome,1945
+1825,Brionvega,Consumer goods,Consumer electronics,Pordenone,1945
+1826,Brondi,Consumer goods,Consumer electronics,Turin,1935
+1827,Brunello Cucinelli,Consumer goods,Clothing & accessories,Perugia,1978
+1828,Bruno Magli,Consumer goods,Footwear,Bologna,1936
+1829,Buitoni,Consumer goods,Food products,Sansepolcro,1827
+1830,Bulgari,Consumer goods,Clothing & accessories,Rome,1884
+1831,Buzzi Unicem,Industrials,Building materials & fixtures,Casale Monferrato,1999
+1832,C.A.I. Second,Consumer services,Airlines,Fiumicino,2006
+1833,Cagiva,Consumer goods,Automobiles,Varese,1978
+1834,Caltagirone Editore,Consumer services,Publishing,Rome,1999
+1835,Calzaturificio fratelli soldini,Consumer goods,Footwear,Capolona,1945
+1836,Cambiocasa,Financials,Real estate holding & development,Milan,1995
+1837,Campagnolo,Consumer goods,Recreational products,Vicenza,1933
+1838,Campari Group,Consumer goods,Beverages,Milan,1860
+1839,Canali,Consumer goods,Clothing & accessories,Sovico,1934
+1840,Candy,Consumer goods,Durable household products,Brugherio,1945
+1841,Caraceni,Consumer goods,Clothing & accessories,Rome,1913
+1842,Carpigiani,Consumer goods,Durable household products,Bologna,1944
+1843,Carrera Sunglasses,Consumer goods,Clothing & accessories,Padua,1956
+1844,Carrozzeria Boneschi,Industrials,Commercial vehicles & trucks,Milan,1919
+1845,Carrozzeria Castagna,Industrials,Commercial vehicles & trucks,Milan,1849
+1846,Carrozzeria Ghia,Industrials,Commercial vehicles & trucks,Turin,1916
+1847,Carrozzeria Marazzi,Industrials,Commercial vehicles & trucks,Milan,1967
+1848,Carrozzeria Scaglietti,Industrials,Commercial vehicles & trucks,Modena,1951
+1849,Carrozzeria Touring,Industrials,Commercial vehicles & trucks,Milan,1926
+1850,Casa Ricordi,Consumer services,Publishing,Milan,1808
+1851,Cassina S.p.A.,Consumer goods,Furnishings,Meda,1927
+1852,Castagnari,Consumer goods,Recreational products,Recanati,1914
+1853,Chicco,Consumer goods,Toys,Como,1958
+1854,Chiesi Farmaceutici S.p.A.,Health care,Pharmaceuticals,Parma,1935
+1855,Cinelli,Consumer goods,Recreational products,Milan,1948
+1856,Cinzano,Consumer goods,Distillers & vintners,Turin,1757
+1857,Cirio,Consumer goods,Food products,San Lazzaro di Savena,1856
+1858,Class Editori,Consumer services,Publishing,Milan,1986
+1859,Colnago,Consumer goods,Recreational products,Cambiago,1952
+1860,Colotti Trasmissioni,Consumer goods,Auto parts,Modena,1958
+1861,Columbus,Consumer goods,Recreational products,Settala,1919
+1862,Comau,Industrials,Industrial machinery,Turin,1973
+1863,Comus S.p.A.,Consumer goods,Recreational products,Ancona,?
+1864,COMVERT S.r.l.,Consumer goods,Clothing & accessories,Milan,1994
+1865,Conad,Consumer services,Food retailers & wholesalers,Bologna,1962
+1866,Coop,Consumer services,Food retailers & wholesalers,Casalecchio di Reno,1967
+1867,Coppola Industria Alimentare,Consumer goods,Food products,Mercato San Severino,1952
+1868,Corneliani,Consumer goods,Clothing & accessories,Mantua,1958
+1869,Costa Crociere,Consumer services,Travel & tourism,Genoa,1854
+1870,Crumar,Consumer goods,Recreational products,Castelfidardo,1971
+1871,Dainese,Consumer goods,Auto parts,Molvena,1972
+1872,Dallara,Consumer goods,Automobiles,Varano de' Melegari,1972
+1873,Damiani,Consumer goods,Clothing & accessories,Valenza,1924
+1874,Danieli,Industrials,Industrial machinery,Buttrio,1914
+1875,Dario Pegoretti,Consumer goods,Recreational products,Caldonazzo,1956
+1876,De Agostini,Consumer services,Publishing,Novara,1901
+1877,De Cecco,Consumer goods,Food products,Fara San Martino,1886
+1878,De Rosa,Consumer goods,Recreational products,Milan,1953
+1879,De Tomaso,Consumer goods,Automobiles,Modena,1959
+1880,Dell'Orto,Consumer goods,Auto parts,Cabiate,1933
+1881,DeLonghi,Consumer goods,Durable household products,Treviso,1902
+1882,Design42Day,Consumer services,Publishing,Milan,2007
+1883,Di Blasi Industriale,Consumer goods,Recreational products,Francofonte,1952
+1884,Diadora,Consumer goods,Footwear,Caerano di San Marco,1948
+1885,Diesel,Consumer goods,Clothing & accessories,Breganze,1978
+1886,Dolce & Gabbana,Consumer goods,Clothing & accessories,Milan,1985
+1887,DR Motor Company,Consumer goods,Automobiles,Macchia d'Isernia,2006
+1888,Ducati,Consumer goods,Automobiles,Bologna,1926
+1889,Ducati Energia,Industrials,Electronic & electrical equipment,Bologna,1926
+1890,Durst,Technology,Electronic & electrical equipment,Brixen,1936
+1891,Edison,Utilities,Multiutilities,Milan,1884
+1892,Edoardo Raffinerie Garrone (ERG),Utilities,Alternative electricity,Genoa,1938
+1893,Eko guitars,Consumer goods,Recreational products,Recanati,1959
+1894,Ellesse,Consumer goods,Clothing & accessories,Perugia,1959
+1895,E. Marinella,Consumer goods,Clothing & accessories,Naples,1914
+1896,Enel,Utilities,Multiutilities,Rome,1962
+1897,Energica Motor Company,Consumer goods,Automobiles,Modena,2010
+1898,Eni,Oil & gas,Integrated oil & gas,Rome,1953
+1899,Ermenegildo Zegna,Consumer goods,Clothing & accessories,Milan,1910
+1900,Erre�,Consumer goods,Clothing & accessories,Torrile,1988
+1901,Esselunga,Consumer services,Food retailers & wholesalers,Milan,1957
+1902,Etro,Consumer goods,Clothing & accessories,Milan,1968
+1903,Eurofly,Consumer services,Airlines,Milan,1989
+1904,Fabbrica Ligure Automobili Genova,Consumer goods,Automobiles,Genoa,1905
+1905,Fratelli Fabbri Editori,Consumer services,Publishing,Milan,1947
+1906,Fabbri Group,Consumer goods,Recreational products,Calto,1950
+1907,Facchini Group,Consumer goods,Food products,Cormano,1959
+1908,Faema,Consumer goods,Durable household products,Milan,1945
+1909,Falck Group,Basic materials,Iron & steel,Sesto San Giovanni,1906
+1910,FAMARS,Industrials,Defense,Gardone Val Trompia,1967
+1911,Fantic Motor,Consumer goods,Automobiles,Barzago,1968
+1912,Farfisa,Consumer goods,Recreational products,Osimo,1946
+1913,Fazioli,Consumer goods,Recreational products,Sacile,1981
+1914,Fedrigoni,Basic materials,Paper,Verona,1888
+1915,Feltrinelli,Consumer services,Publishing,Milan,1954
+1916,Fendi,Consumer goods,Clothing & accessories,Rome,1925
+1917,Ferrari,Consumer goods,Automobiles,Maranello,1939
+1918,Ferrero SpA,Consumer goods,Food products,Alba,1946
+1919,Ferretti Group,Industrials,Shipbuilding,Forl�,1968
+1920,Ferrovie dello Stato Italiane,Consumer services,Travel & tourism,Rome,1905
+1921,Fiat,Consumer goods,Automobiles,Turin,1899
+1922,Fincantieri,Industrials,Shipbuilding,Trieste,1959
+1923,Fiocchi Munizioni,Industrials,Defense,Lecco,1876
+1924,Fioravanti,Consumer goods,Automobiles,Turin,1987
+1925,Fondiaria-Sai,Financials,Property & casualty insurance,Turin,2002
+1926,Fondmetal,Consumer goods,Tires,Bergamo,1972
+1927,Fornasari,Consumer goods,Automobiles,Vicenza,1999
+1928,Forst,Consumer goods,Brewers,Algund,1857
+1929,Franchi,Industrials,Defense,Brescia,1987
+1930,Frera,Consumer goods,Automobiles,Milan,1905
+1931,Frette,Consumer goods,Clothing & accessories,Monza,1860
+1932,Fulcrum Wheels,Consumer goods,Recreational products,Arcugnano,2004
+1933,Fulgor,Consumer goods,Durable household products,Gallarate,1949
+1934,Furla,Consumer goods,Clothing & accessories,Bologna,1927
+1935,Gaggia,Consumer goods,Durable household products,Milan,1947
+1936,Gancia,Consumer goods,Distillers & vintners,Canelli,1850
+1937,Gardaland,Consumer services,Recreational services,Castelnuovo del Garda,1975
+1938,Garelli Motorcycles,Consumer goods,Automobiles,Milan,1919
+1939,Garlando,Consumer goods,Recreational products,Novi Ligure,1954
+1940,GDE Bertoni,Consumer goods,Recreational products,Milan,1938
+1941,GEDI Gruppo Editoriale,Consumer services,Publishing,Rome,1955
+1942,Geox,Consumer goods,Clothing & accessories,Montebelluna,1995
+1943,Ghezzi & Brian,Consumer goods,Automobiles,Missaglia,1995
+1944,Gilera,Consumer goods,Automobiles,Pontedera,1909
+1945,Gio. Ansaldo & C.,Industrials,Aerospace,Genoa,1853
+1946,Givova,Consumer goods,Clothing & accessories,Scafati,2008
+1947,Golden Goose,Consumer goods,Clothing & accessories,Venice,2000
+1948,Graziano Trasmissioni,Consumer goods,Auto parts,Turin,1951
+1949,Grimaldi Group,Transport & tourism,Consumer services,Palermo,1947
+1950,Grivel,Consumer goods,Recreational products,Courmayeur,1818
+1951,Gruppo Bertone,Consumer goods,Automobiles,Milan,1912
+1952,Gruppo Riva,Basic materials,Iron & steel,Milan,1954
+1953,Gruppo TIM,Telecommunications,Mobile Telecommunications,Rome,1994
+1954,Gucci,Consumer goods,Clothing & accessories,Florence,1921
+1955,Guerciotti,Consumer goods,Recreational products,Milan,1964
+1956,Gufram,Consumer goods,Furnishings,Cuneo,1966
+1957,Hera Group,Utilities,Multiutilities,Bologna,2002
+1958,Hitachi Rail Italy,Industrials,Commercial rail vehicles,Naples,2001
+1959,I.DE.A Institute,Consumer goods,Automobiles,Turin,1978
+1960,Illy,Consumer goods,Beverages,Trieste,1933
+1961,Impresa Pizzarotti,Industrials,Heavy construction,Parma,1910
+1962,Indesit Company,Consumer goods,Durable household products,Fabriano,1975
+1963,Innocenti,Consumer goods,Automobiles,Milan,1947
+1964,Intermarine,Industrials,Shipbuilding,Sarzana,1970
+1965,Intesa Sanpaolo,Financials,Banks,Turin,2007
+1966,Iride Bicycles,Consumer goods,Recreational products,Venice,1919
+1967,Iso,Consumer goods,Automobiles,Bresso,1953
+1968,Isotta Fraschini,Consumer goods,Automobiles,Milan,1900
+1969,ITA Airways,Consumer services,Airlines,Rome,2020
+1970,Italcementi,Industrials,Building materials & fixtures,Bergamo,1864
+1971,Italdesign Giugiaro,Consumer goods,Automobiles,Moncalieri,1968
+1972,Italjet,Consumer goods,Automobiles,Castel San Pietro Terme,1959
+1973,Iveco,Industrials,Commercial vehicles & trucks,Turin,1975
+1974,Kappa,Consumer goods,Clothing & accessories,Turin,1916
+1975,Kiton,Consumer goods,Clothing & accessories,Naples,1956
+1976,Krizia,Consumer goods,Clothing & accessories,Milan,1954
+1977,Kuota,Consumer goods,Recreational products,Albiate,2001
+1978,La Perla,Consumer goods,Clothing & accessories,Bologna,1954
+1979,La Rinascente,Consumer services,Broadline retailers,Milan,1865
+1980,La Sportiva,Consumer goods,Footwear,Ziano di Fiemme,1928
+1981,Lagostina,Consumer goods,Durable household products,Omegna,1901
+1982,Lamborghini,Consumer goods,Automobiles,Sant'Agata Bolognese,1963
+1983,Lambretta,Consumer goods,Automobiles,Milan,1947
+1984,Lancia,Consumer goods,Automobiles,Turin,1906
+1985,Landi Renzo,Consumer goods,Auto parts,Cavriago,1954
+1986,Lavazza,Consumer goods,Beverages,Turin,1895
+1987,Laverda,Consumer goods,Automobiles,Breganze,1873
+1988,Legea,Consumer goods,Clothing & accessories,Pompei,1993
+1989,Leonardo S.p.A.,Industrials,Aerospace & defense,Rome,1948
+1990,Livingston Energy Flight,Consumer services,Airlines,Milan,1992
+1991,Loacker,Consumer goods,Food products,Ritten[7],1925
+1992,Loro Piana,Consumer goods,Clothing & accessories,Quarona,1924
+1993,Lotto Sport Italia,Consumer goods,Clothing & accessories,Treviso,1973
+1994,Luigi Borrelli,Consumer goods,Clothing & accessories,Naples,1957
+1995,Luxottica,Consumer goods,Clothing & accessories,Milan,1961
+1996,Macron,Consumer goods,Clothing & accessories,Crespellano,1971
+1997,Magneti Marelli,Consumer goods,Auto parts,Corbetta,1919
+1998,Magni,Consumer goods,Automobiles,Samarate,1977
+1999,Malaguti,Consumer goods,Automobiles,San Lazzaro di Savena,1930
+2000,Mandarina Duck,Consumer goods,Clothing & accessories,Bologna,1977
+2001,Manfrotto,Consumer goods,Recreational products,Cassola,1972
+2002,Mapei,Industrials,Building materials & fixtures,Milan,1937
+2003,Marni,Consumer goods,Clothing & accessories,Milan,1994
+2004,Martini & Rossi,Consumer goods,Distillers & vintners,Turin,1863
+2005,Marzocchi,Consumer goods,Recreational products,Bologna,1949
+2006,Marzotto,Consumer goods,Clothing & accessories,Valdagno,1836
+2007,Maserati,Consumer goods,Automobiles,Modena,1914
+2008,Massimo Zanetti Beverage Group,Consumer goods,Beverages,Bologna,1973
+2009,Max Mara,Consumer goods,Clothing & accessories,Reggio Emilia,1951
+2010,MD Discount,Consumer services,Food retailers & wholesalers,Gricignano di Aversa,1994
+2011,Mediobanca,Financials,Banks,Milan,1946
+2012,Memphis Group,Industrials,Business support services,Milan,1982
+2013,Menarini,Health care,Pharmaceuticals,Florence,1886
+2014,Meridiana,Consumer services,Airlines,Olbia,1964
+2015,Miche,Consumer goods,Recreational products,San Vendemiano,1919
+2016,Milano Assicurazioni,Financials,Property & casualty insurance,Milan,1825
+2017,Minarelli,Consumer goods,Auto parts,Calderara di Reno,1951
+2018,Minardi,Consumer goods,Automobiles,Faenza,1979
+2019,Missoni,Consumer goods,Clothing & accessories,Varese,1953
+2020,Miu Miu,Consumer goods,Clothing & accessories,Milan,1993
+2021,Mivar,Consumer goods,Consumer electronics,Abbiategrasso,1945
+2022,Moby Lines,Industrials,Marine transportation,Milan,1959
+2023,Momo,Consumer goods,Auto parts,Milan,1964
+2024,Mondial,Consumer goods,Automobiles,Manerbio,1929
+2025,Moon Boot,Consumer goods,Footwear,Giavera del Montello,1969
+2026,Morbidelli,Consumer goods,Automobiles,Pesaro,1960
+2027,Moretti Motor Company,Consumer goods,Automobiles,Turin,1925
+2028,Moschino,Consumer goods,Clothing & accessories,Milan,1983
+2029,Moser Cicli,Consumer goods,Recreational products,Trento,1979
+2030,Moto Guzzi,Consumer goods,Automobiles,Mandello del Lario,1921
+2031,Moto Morini,Consumer goods,Automobiles,Bologna,1937
+2032,Moto Rumi,Consumer goods,Automobiles,Bergamo,?
+2033,Motobi,Consumer goods,Automobiles,Pesaro,1949
+2034,Mutti,Consumer goods,Food products,Montechiarugolo,1899
+2035,MV Agusta,Consumer goods,Automobiles,Varese,1945
+2036,Nardi,Consumer goods,Automobiles,Turin,1932
+2037,Natuzzi,Consumer goods,Furnishings,Santeramo in Colle,1959
+2038,Neos,Consumer services,Airlines,Somma Lombardo,2001
+2039,New Holland Construction,Industrials,Commercial vehicles & trucks,Turin,1895
+2040,Nolan,Consumer goods,Auto parts,Bergamo,1972
+2041,Nordica,Consumer goods,Clothing & accessories,Giavera del Montello,1939
+2042,Novarossi,Consumer goods,Recreational products,Monticelli Brusati,1984
+2043,Nuova Cometra,Industrials,Commercial rail vehicles,Pace del Mela,1999
+2044,Nuovo Banco Ambrosiano,Financials,Banks,Milan,1982
+2045,OSCA,Consumer goods,Automobiles,San Lazzaro di Savena,1947
+2046,Officine Meccaniche,Industrials,Commercial vehicles & trucks,Milan,1918
+2047,Olidata,Technology,Software,Cesena,1982
+2048,Olivetti,Consumer goods,Consumer electronics,Ivrea,1908
+2049,OMAS,Consumer goods,Nondurable household products,Bologna,1925
+2050,OMP Racing,Consumer goods,Auto parts,Ronco Scrivia,1973
+2051,Onda Mobile Communication,Technology,Telecommunications equipment,Roveredo in Piano,2003[8]
+2052,Osella,Consumer goods,Automobiles,Verolengo,1965
+2053,Ostoni,Consumer goods,Durable household products,Cormano,1958
+2054,OTO Melara,Industrials,Defense,Rome,1905
+2055,OZ Group,Consumer goods,Tires,San Martino di Lupari,1971
+2056,Pagani,Consumer goods,Automobiles,San Cesario sul Panaro,1992
+2057,Pal Zileri,Consumer goods,Clothing & accessories,Vicenza,1980
+2058,Panerai,Consumer goods,Clothing & accessories,Milan,1860
+2059,Panini Comics,Consumer services,Publishing,Modena,1994
+2060,Parmalat,Consumer goods,Food products,Collecchio,1961
+2061,Partenavia,Industrials,Aerospace,Arzano,1957
+2062,Paton,Consumer goods,Automobiles,Settimo Milanese,1958
+2063,Peg Perego,Consumer goods,Toys,Arcore,1949
+2064,Perazzi,Industrials,Defense,Brescia,1957
+2065,Perfetti Van Melle,Consumer goods,Food products,Lainate/Breda,2001
+2066,Perini Navi,Industrials,Shipbuilding,Viareggio,1983
+2067,Permasteelisa,Industrials,Heavy construction,Vittorio Veneto,1973
+2068,Peroni S.p.A.,Consumer goods,Recreational products,Gallarate,1792
+2069,Persol,Consumer goods,Clothing & accessories,Agordo,1917
+2070,Perugina,Consumer goods,Food products,Perugia,1907
+2071,Piaggio Aerospace,Industrials,Aerospace & defense,Genoa,1884
+2072,Piaggio,Consumer goods,Automobiles,Pontedera,1884
+2073,Pinarello,Consumer goods,Recreational products,Treviso,1952
+2074,Pininfarina,Consumer goods,Automobiles,Cambiano,1930
+2075,Pirelli,Consumer goods,Tires,Milan,1872
+2076,Pogliaghi,Consumer goods,Recreational products,Milan,1947
+2077,Police,Consumer goods,Clothing & accessories,Venice,1983
+2078,Poste Air Cargo,Consumer services,Airlines,Rome,1981
+2079,Poste italiane,Industrials,Delivery services,Rome,1862
+2080,Prada,Consumer goods,Clothing & accessories,Milan,1913
+2081,Prinetti & Stucchi,Consumer goods,Recreational products,Milan,1901
+2082,Prysmian Group,Industrials,Electrical components & equipment,Milan,2011
+2083,RAI,Consumer services,Broadcasting & entertainment,Rome,1924
+2084,Rancilio,Consumer goods,Durable household products,Parabiago,1927
+2085,Ray-Ban,Consumer goods,Clothing & accessories,Milan,1936
+2086,RCS MediaGroup,Consumer services,Publishing,Milan,1927
+2087,Rifle,Consumer goods,Clothing & accessories,Prato,1958
+2088,Rizzani de Eccher,Industrials,Heavy construction,Pozzuolo del Friuli,1831
+2089,Sabelt,Consumer goods,Auto parts,Turin,1972
+2090,Saeco,Consumer goods,Durable household products,Bologna,1981
+2091,Safilo,Consumer goods,Clothing & accessories,Padua,1934
+2092,Salini Impregilo,Industrials,Heavy construction,Milan,2014
+2093,Salvatore Ferragamo S.p.A.,Consumer goods,Clothing & accessories,Florence,1928
+2094,San Pellegrino,Consumer goods,Beverages,San Pellegrino Terme,1899
+2095,Saras S.p.A.,Oil & gas,Oil & gas exploration & production,Sarroch,1962
+2096,Seleco,Consumer goods,Consumer electronics,Milan,1965
+2097,Selex ES,Industrials,Aerospace,Rome,2013
+2098,Sergio Rossi,Consumer goods,Footwear,Milan,1966
+2099,Shy,Consumer goods,Clothing & accessories,Venice,2001
+2100,Siae Microelettronica,Technology,Telecommunications equipment,Cologno Monzese,1952
+2101,SIAI-Marchetti,Industrials,Aerospace,Sesto Calende,1915
+2102,Sicom test,Technology,Telecommunications equipment,Trieste,2003
+2103,Sigma-Tau,Health care,Pharmaceuticals,Pomezia,1957
+2104,Simmel Difesa,Industrials,Defense,Colleferro,1948
+2105,Smeg,Consumer goods,Durable household products,Guastalla,1948
+2106,Snam,Utilities,Gas distribution,San Donato Milanese,1941
+2107,SNAV,Industrials,Marine transportation,Naples,1958
+2108,Societ� Generale Immobiliare,Financials,Real estate holding & development,Rome,1862
+2109,Societ� Torinese Automobili Rapid,Consumer goods,Automobiles,Turin,1904
+2110,Soilmec,Industrials,Commercial vehicles & trucks,Cesena,1969
+2111,Somec,Consumer goods,Recreational products,Lugo,1973
+2112,Sparco,Consumer goods,Auto parts,Volpiano,1977
+2113,SPEA,Technology,Semiconductors,Volpiano,1976
+2114,Suomy,Consumer goods,Auto parts,Inverigo,1997
+2115,Superga,Consumer goods,Footwear,Turin,1911
+2116,Tanfoglio,Industrials,Defense,Gardone Val Trompia,1948
+2117,Techint,Conglomerates,-,Milan,1945
+2118,Technogym,Consumer goods,Recreational products,Cesena,1983
+2119,Terra Modena,Consumer goods,Automobiles,Modena,2015
+2120,Tirrenia,Industrials,Marine transportation,Naples,1936
+2121,Tod's,Consumer goods,Clothing & accessories,Sant'Elpidio a Mare,1920
+2122,Trussardi,Consumer goods,Clothing & accessories,Milan,1911
+2123,Tuaca,Consumer goods,Distillers & vintners,Livorno,1938
+2124,UBI Banca,Financials,Banks,Bergamo,2003
+2125,UniCredit,Financials,Banks,Porta Nuova,1998
+2126,Unipol,Financials,Banks,Bologna,1963
+2127,UnoAErre,Consumer goods,Clothing & accessories,Arezzo,1926
+2128,Valentino SpA,Consumer goods,Clothing & accessories,Milan,1960
+2129,Versace,Consumer goods,Clothing & accessories,Milan,1978
+2130,Vespa,Consumer goods,Automobiles,Pontedera,1946
+2131,VF Venieri,Industrials,Commercial vehicles & trucks,Lugo,1948
+2132,Viberti,Consumer goods,Automobiles,Pescara,1922
+2133,Vibram,Consumer goods,Footwear,Albizzate,1937
+2134,Vignale,Industrials,Commercial vehicles & trucks,Turin,1948
+2135,Viscount,Consumer goods,Recreational products,Mondaino,1969
+2136,VM Motori,Consumer goods,Auto parts,Cento,1947
+2137,Voiello,Consumer goods,Food products,Torre Annunziata,1879
+2138,Vyrus,Consumer goods,Automobiles,Coriano,2001
+2139,Webuild,Industrials,Heavy construction,Milan,1959
+2140,Wilier Triestina,Consumer goods,Recreational products,Rossano Veneto,1906
+2141,YOOX Net-a-Porter Group,Consumer services,Clothing & accessories,Milan,2015
+2142,Zagato,Industrials,Commercial vehicles & trucks,Rho,1919
+2143,Zambon,Health care,Pharmaceuticals,Bresso,1906
+2144,Zamperla,Consumer goods,Recreational products,Vicenza,1966
+2145,Zanussi,Consumer goods,Durable household products,Pordenone,1916
+2146,ABLV Bank,Financials,Banks,Riga,1993
+2147,Aerodium Latvia,Industrials,Industrial machinery,Sigulda,2004[5]
+2148,AirBaltic,Consumer services,Airlines,Riga,1995
+2149,Ave Line,Industrials,Marine transportation,Riga,2000
+2150,Baltic Coal Terminal,Industrials,Transportation services,Ventspils,2005
+2151,Banka Baltija,Financials,Banks,Riga,1993
+2152,Bank of Latvia,Financials,Banks,Riga,1992
+2153,Bellaccord Electro,Consumer services,Broadcasting & entertainment,Riga,1931
+2154,C?su Alus,Consumer goods,Brewers,C?sis,1590
+2155,Citadele Banka,Financials,Banks,Riga,2010
+2156,Dartz,Consumer goods,Automobiles,Riga,2008
+2157,Diena,Consumer services,Publishing,Riga,1990
+2158,Double Coffee,Consumer services,Restaurants & bars,Riga,2002
+2159,Elko Grupa,Consumer goods,Consumer electronics,Riga,1993
+2160,Ford-Vairogs,Consumer goods,Automobiles,Riga,1936
+2161,Forticom,Technology,Software,Riga,1999
+2162,Grindeks,Health care,Pharmaceuticals,Riga,1991
+2163,Inversija,Industrials,Delivery services,Riga,1991
+2164,Just5,Telecommunications,Telecommunications equipment,Riga,2008
+2165,Laima,Consumer goods,Food products,Riga,1870
+2166,Lattelecom,Telecommunications,Fixed line telecommunications,Riga,1992
+2167,Latvenergo,Utilities,Conventional electricity,Riga,1958
+2168,Latvian Mobile Telephone,Telecommunications,Mobile telecommunications,Riga,1992
+2169,Latvian Shipping Company,Industrials,Marine transportation,Riga,1940
+2170,Latvijas Balzams,Consumer goods,Soft drinks,Riga,1997
+2171,Latvijas G?ze,Oil & gas,Exploration & production,Riga,1991
+2172,Latvijas Kr?jbanka,Financials,Banks,Riga,1924
+2173,Latvijas Pasts,Logistics,Delivery services,Riga,1992
+2174,Microphone Records,Consumer services,Broadcasting & entertainment,Riga,1993
+2175,Norvik Banka,Financials,Banks,Riga,1992
+2176,Olainfarm,Health care,Pharmaceuticals,Olaine,1972
+2177,Parex Bank,Financials,Banks,Riga,1992
+2178,PrivatBank Latvia,Financials,Banks,Riga,2007
+2179,RAF-Avia,Consumer services,Airlines,Riga,1990
+2180,Rietumu Banka,Financials,Banks,Riga,1992
+2181,Riga Autobus Factory,Consumer goods,Automobiles,Riga,1949
+2182,Rimi Baltic,Consumer services,Food retailers & wholesalers,Riga,2004
+2183,Russo-Balt,Consumer goods,Automobiles,Riga,1874
+2184,SAF Tehnika,Technology,Telecommunications equipment,Riga,1999
+2185,SEB Unibanka,Financials,Banks,Riga,1993[6]
+2186,Sereal,Consumer goods,Recreational products,Riga,2011
+2187,SmartLynx Airlines,Consumer services,Airlines,M?rupe,1993
+2188,VEF,Consumer goods,Consumer electronics,Riga,1919
+2189,Achema,Basic materials,Specialty chemicals,Jonava,1962
+2190,Alita,Consumer goods,Brewers,Alytus,1963
+2191,Apranga,Consumer services,Apparel retailers,Vilnius,1993
+2192,Aurela,Consumer services,Airlines,Vilnius,1996
+2193,Avia Solutions Group,Industrials,Transportation services,Vilnius,2010
+2194,AviaAM Leasing,Industrials,Transportation services,Vilnius,2007
+2195,Aviavilsa,Industrials,Delivery services,Vilnius,1999
+2196,Avion Express,Consumer services,Airlines,Vilnius,2005
+2197,Baltija Shipbuilding Yard,Industrials,Commercial vehicles & trucks,Klaip?da,1952
+2198,Baltik vairas,Consumer goods,Recreational products,�iauliai,1993
+2199,?ili,Consumer services,Restaurants & bars,Vilnius,1997
+2200,DOT LT,Consumer services,Airlines,Karm?lava,2003
+2201,Dvar?ioni? keramika,Industrials,Building materials & fixtures,Vilnius,1888
+2202,Ekspla,Industrials,Electronic equipment,Vilnius,1983
+2203,Gubernija,Consumer goods,Brewers,�iauliai,1665
+2204,Kalnapilis,Consumer goods,Brewers,Panev?�ys,1902
+2205,Lietuvos Dujos,Utilities,Gas distribution,Vilnius,1961
+2206,Lietuvos Energija,Utilities,Conventional electricity,Vilnius,1997
+2207,Lietuvos pa�tas,Consumer services,Delivery services,Vilnius,1918
+2208,Maxima Group,Consumer services,Broadline retailers,Vilnius,1992
+2209,Small Planet Airlines,Consumer services,Airlines,Vilnius,2007
+2210,Stumbras,Consumer goods,Distillers & vintners,Kaunas,1906
+2211,Tauras,Consumer goods,Brewers,Vilnius,1860
+2212,Teo LT,Telecommunications,Fixed line telecommunications,Vilnius,1992
+2213,?kio bankas,Financials,Banks,Kaunas,1989
+2214,Vilniaus prekyba,Consumer services,Broadline retailers,Vilnius,1992
+2215,Volfas Engelman,Consumer goods,Brewers,Kaunas,1853
+2216,�IA valda,Financials,Investment services,Vilnius,1997
+2217,Advanzia Bank,Financials,Banks,Munsbach,2005
+2218,Arcelor,Basic materials,Iron & steel,Luxembourg City,2002
+2219,ArcelorMittal,Basic materials,Iron & steel,Luxembourg City,2006
+2220,Artec 3D,Technology,Technology Hardware & Equipment,Luxembourg City,2007
+2221,Banque de Luxembourg,Financials,Banks,Luxembourg City,1920
+2222,Banque et Caisse d'�pargne de l'�tat,Financials,Banks,Luxembourg City,1856
+2223,Banque Raiffeisen,Financials,Banks,Leudelange,1926
+2224,BGL BNP Paribas,Financials,Banks,Luxembourg City,1919
+2225,BIP Investment Partners,Financials,Investment services,Luxembourg City,2000
+2226,Brasserie Nationale,Consumer goods,Brewers,Bascharage,1975
+2227,Cactus,Consumer services,Food retailers & wholesalers,Bereldange,1900
+2228,Cargolux,Industrials,Delivery services,Sandweiler,1970
+2229,Creos Luxembourg,Utilities,Multiutilities,Strassen,2009
+2230,Central Bank of Luxembourg,Financials,Banks,Luxembourg City,1998
+2231,Centre Hospitalier de Luxembourg,Health care,Health care providers,Luxembourg City,1975
+2232,Ceratizit,Industrials,Diversified industrials,Mamer,2002
+2233,Cipriani S.A.,Consumer services,Restaurants & bars,Luxembourg City,1931
+2234,CVC Capital Partners,Financials,Asset managers,Luxembourg City,1981
+2235,Editpress,Consumer services,Publishing,Luxembourg City,1913
+2236,Foyer S.A.,Financials,Full line insurance,Luxembourg City,1922
+2237,General Mediterranean Holding,Conglomerates,-,Luxembourg City,1979
+2238,Genii Capital,Financials,Specialty finance,Howald,2008
+2239,Gold & Wood,Consumer goods,Personal products,Luxembourg City,1995
+2240,KBL European Private Bankers,Financials,Banks,Luxembourg City,1949
+2241,Kulczyk Investments,Financials,Investment services,Luxembourg City,2007
+2242,L�tzebuerger Journal,Consumer services,Publishing,Luxembourg City,1948
+2243,Lionair,Consumer services,Airlines,Luxembourg City,1988
+2244,Luvanis,Consumer goods,Clothing & accessories,Luxembourg City,2009
+2245,Luxair,Consumer services,Airlines,Sandweiler,1962
+2246,LuxAnimation,Consumer services,Broadcasting & entertainment,Doncols,2002
+2247,Luxembourg Stock Exchange,Financials,Investment services,Luxembourg City,1928
+2248,Luxempart,Financials,Investment services,Leudelange,1988
+2249,Melusine,Consumer services,Broadcasting & entertainment,Howald,1997
+2250,Mousel,Consumer goods,Brewers,Luxembourg City,1511
+2251,ORCO,Financials,Real estate holding & development,Capellen,1991
+2252,P&TLuxembourg,Telecommunications,Fixed line telecommunications,Luxembourg City,1992
+2253,Radio Luxembourg,Consumer services,Broadcasting & entertainment,Luxembourg City,1933
+2254,Regus,Industrials,Business support services,Luxembourg City,1989
+2255,Reinet Investments,Financials,Investment services,Luxembourg City,2008
+2256,Rotarex,Industrials,Industrial machinery,Lintgen,1922
+2257,RTL Group,Consumer services,Broadcasting & entertainment,Kirchberg,1920
+2258,Saint-Paul Luxembourg,Consumer services,Publishing,Luxembourg City,1848
+2259,SES S.A.,Telecommunications,Mobile telecommunications,Betzdorf,1985
+2260,Soci�t� Nationale de Cr�dit et d'Investissement,Financials,Banks,Luxembourg City,1978
+2261,Soci�t� Nationale des Chemins de Fer Luxembourgeois,Industrials,Railroads,Luxembourg City,1946
+2262,Strategic Airlines Luxembourg,Consumer services,Airlines,Luxembourg City,2010
+2263,Streamworks International,Consumer services,Broadcasting & entertainment,Luxembourg City,2006
+2264,Techniques d'Avant Garde,Consumer services,Airlines,Luxembourg City,1977
+2265,Utopia Group,Consumer services,Recreational services,Luxembourg City,2002
+2266,West Air Luxembourg,Industrials,Delivery services,Bertrange,2002
+2267,Air Malta,Consumer services,Airlines,Luqa,1973
+2268,APS Bank,Financials,Banks,Swatar,1910
+2269,Bank of Valletta,Financials,Banks,Santa Venera,1974
+2270,Central Bank of Malta,Financials,Banks,Valletta,1968
+2271,Emmanuel Delicata,Consumer goods,Distillers & vintners,Valletta,1907
+2272,GO,Telecommunications,Fixed line telecommunications,Marsa,1997
+2273,HSBC Bank Malta,Financials,Banks,Valletta,1882
+2274,Lombard Bank,Financials,Banks,Valletta,1969
+2275,MaltaPost,Industrials,Delivery services,Marsa,1998
+2276,Medavia,Consumer services,Airlines,Luqa,1978
+2277,Media.link Communications,Consumer services,Publishing,Piet�,UNKNOWN
+2278,Melita,Telecommunications,Fixed line telecommunications,Birkirkara[1],1992
+2279,Multilotto,Consumer services,Gambling,St Julian's,2012
+2280,One Productions,Consumer services,Broadcasting & entertainment,Marsa,1994
+2281,Sag?tar,Consumer services,Publishing,Valletta,1971
+2282,Simonds Farsons Cisk,Consumer goods,Brewers,Birkirkara,1928
+2283,Unibet,Consumer services,Gambling,G?ira,1997
+2284,Epic,Telecommunications,Mobile telecommunications,Luqa,1989
+2285,Aalberts,Industrials,Electrical components & equipment,Utrecht,1981
+2286,Abellio,Transport,"Bus, ferry and train services",Utrecht,2001
+2287,ABN AMRO,Financials,Banks,Amsterdam,1991
+2288,Adyen,Financials,Payments industry,Amsterdam,2006
+2289,Accell Group,Consumer goods,Recreational products,Heerenveen,1998
+2290,Aegon N.V.,Financials,Life insurance,The Hague,1983
+2291,Ahold Delhaize,Consumer services,Food retailers & wholesalers,Zaandam,2016
+2292,AkzoNobel,Basic materials,Specialty chemicals,Amsterdam,1994
+2293,Amstel Brewery,Consumer goods,Brewers,Zoeterwoude,1870
+2294,APM Terminals,Industrials,Transportation services,The Hague,2001
+2295,Apollo Vredestein B.V.,Consumer goods,Automobiles parts,Amsterdam,1909
+2296,Arcadis,Industrials,Engineering,Amsterdam,1888
+2297,ASML Holding,Industrials,Industrial machinery,Veldhoven,1984
+2298,ASN Bank,Financials,Banks,The Hague,1960
+2299,Atradius,Financials,Non-life insurance,Amsterdam,1925
+2300,Australian Homemade,Consumer services,Restaurants & bars,Veenendaal,1979
+2301,AVEBE,Consumer goods,Food products,Veendam,1919
+2302,Bavaria Brewery,Consumer goods,Brewers,Lieshout,1680
+2303,Beter Bed,Consumer services,Specialty retailers,Uden,1981
+2304,Blendle,Technology,Internet,Utrecht,2013
+2305,Booking.com,Consumer services,Travel & tourism,Amsterdam,1996
+2306,Catawiki,Technology,Internet,Amsterdam,2008
+2307,Chipshol,Real Estate,Real Estate Investment and Services,Amsterdam,1986
+2308,CNH Global,Industrials,Commercial vehicles & trucks,Amsterdam,1999
+2309,Corendon Dutch Airlines,Consumer services,Airlines,Lijnden,2010
+2310,DAF Trucks,Consumer goods,Automobiles,Eindhoven,1993
+2311,Damen Group,Industrials,Industrial transportation & Defense,Gorinchem,1927
+2312,Dockwise,Industrials,Marine transportation,Breda,1993
+2313,Donkervoort,Consumer goods,Automobiles,Lelystad,1978
+2314,Douwe Egberts,Consumer goods,Soft drinks,Utrecht,1753
+2315,DSM,Health care,Pharmaceuticals,Heerlen,1902
+2316,eBuddy,Technology,Internet,Amsterdam,2003
+2317,Elsevier,Consumer services,Publishing,Amsterdam,1880
+2318,Endemol,Consumer services,Broadcasting & entertainment,Amsterdam,1994
+2319,Exact Software,Technology,Software,Delft,1984
+2320,Exor,Financials,Investment services,Amsterdam,1927
+2321,Feadship,Consumer goods,Recreational products,Haarlem,1949
+2322,FRABA,Industrials,Industrial Automation,Heerlen,1918
+2323,FrieslandCampina,Consumer goods,Food products,Amersfoort,2008
+2324,Fugro,Oil & gas,Exploration & production,Leidschendam,1962
+2325,General Logistics Systems,Industrials,Delivery services,Amsterdam,1999
+2326,Grolsch Brewery,Consumer goods,Brewers,Enschede,1615
+2327,Guerrilla Games,Technology,Software,Amsterdam,2000
+2328,G-Star Raw,Consumer goods,Apparel retailers,Amsterdam,1989
+2329,Heerema Marine Contractors,Oil & gas,Oil equipment & services,Leiden,1948
+2330,Heineken International,Consumer goods,Brewers,Amsterdam,1864
+2331,HEMA,Consumer goods,Variety,Amsterdam,1926
+2332,High-Logic,Technology,Software,De Bilt,1997
+2333,Hotels.nl,Consumer services,Travel & tourism,Groningen,2001
+2334,Hunkem�ller,Consumer services,Apparel retailers,Hilversum,1886
+2335,Hunter Douglas,Industrials,Building,Rotterdam,1919
+2336,IKEA,Consumer services,Home improvement retailers,Leiden,1942
+2337,ING Group,Financials,Banks,Amsterdam,1991
+2338,Interxion,Technology,Datacentres,Schiphol-Rijk,1998
+2339,IPTP Networks,Telecommunications,Fixed line telecommunications,Amsterdam,1996
+2340,Jumbo,Consumer goods,Food retailers & wholesalers,Veghel,1921
+2341,Just Eat Takeaway,Technology,Consumer digital services,Amsterdam,2000
+2342,KLM,Consumer services,Airlines,Amstelveen,1919
+2343,KPMG,Industrials,Business support services,Amstelveen,1987
+2344,KPN,Telecommunications,Fixed line telecommunications,The Hague,1852
+2345,LandFighter,Consumer goods,Automobiles,Best,2011
+2346,LeasePlan,Consumer services,Rental and leasing services,Amsterdam,1963
+2347,Liander,Utilities,Conventional electricity,Arnhem,2008
+2348,Lucas Bols,Consumer goods,Distillers & vintners,Amsterdam,1575
+2349,Martinair,Consumer services,Airlines,Schiphol-Oost,1958
+2350,Nederlandse Spoorwegen,Industrials,Railroads,Utrecht,1938
+2351,Nipparts,Consumer goods,Auto parts,Amsterdam,1981
+2352,Nutricia,Consumer goods,Food products,Amsterdam,1896
+2353,Nuon Energy,Utilities,Multiutilities,Amsterdam,1995
+2354,NXP Semiconductors,Technology,Semiconductors,Eindhoven,1953
+2355,Oc�,Technology,Electronic office equipment,Venlo,1877
+2356,Perfetti Van Melle,Consumer goods,Food products,Lainate/Breda,2001
+2357,Philips,Consumer goods,Consumer electronics,Eindhoven,1891
+2358,PostNL,Industrials,Delivery services,The Hague,1998
+2359,Prosus,Technology,Consumer digital services,Amsterdam,2019
+2360,Q-Park,Consumer services,Parking,Maastricht,1998
+2361,Rabobank,Financials,Banks,Utrecht,1972
+2362,Randstad Holding,Industrials,Business support services,Diemen,1960
+2363,Royal BAM Group,Industrials,Heavy construction,Bunnik,1869
+2364,Royal Boskalis Westminster,Industrials,Heavy construction,Papendrecht,1910
+2365,Royal Imtech N.V.,Industrials,Electrical components & equipment,Gouda,1860
+2366,Royal Schiphol Group,Industrials,Transportation services,Schiphol,1916
+2367,Royal Van Oord,Industrials,Heavy construction,Rotterdam,1868
+2368,SBM Offshore,Oil & gas,Oil equipment & services,Schiedam,1965
+2369,Serpent Model Racing Cars,Consumer goods,Recreational products,Heemstede,1980
+2370,SHV Holdings,Industrials,Diversified industrials,Utrecht,1896
+2371,SPAR,Consumer goods,Food retailers & wholesalers,Amsterdam,1932
+2372,Spyker Cars,Consumer goods,Automobiles,Zeewolde,1999
+2373,Stork B.V.,Industrials,Aerospace,Naarden,1868
+2374,Talpa Network,Consumer services,Broadcasting & entertainment,Hilversum,2004
+2375,Tele2 Netherlands,Telecommunications,Fixed line telecommunications,Amsterdam,1993
+2376,Telfort,Telecommunications,Mobile telecommunications,Alphen aan den Rijn,1997
+2377,Thales Nederland,Industrials,Defence & Electronics,Hengelo,1922
+2378,TMF Group,Industrials,Financial administration,Amsterdam,1988
+2379,TNT Express,Industrials,Delivery services,Hoofddorp,2011
+2380,TomTom,Technology,Software,Amsterdam,1991
+2381,Tony's Chocolonely,Consumer goods,Food products,Amsterdam,2005
+2382,Transavia,Consumer services,Airlines,Schiphol-Oost,1965
+2383,Triodos Bank,Financials,Banks,Zeist,1980
+2384,Trust,Technology,Computer hardware,Dordrecht,1981
+2385,TUI fly Netherlands,Consumer services,Airlines,Schiphol-Rijk,2005
+2386,Vanguard Dutch Marine,Consumer goods,Recreational products,Heerenveen,2008
+2387,VDL Bus & Coach,Industrials,Commercial vehicles & trucks,Valkenswaard,1993
+2388,VDL NedCar,Consumer goods,Automobile,Born,1967
+2389,Vedior,Industrials,Business training & employment agencies,Amsterdam,1998
+2390,VEON,Telecommunications,Mobile telecommunications,Amsterdam,2009
+2391,Verenigde Nederlandse Uitgeverijen,Consumer services,Publishing,Haarlem,1964
+2392,Vitol,Energy,"Oil, gas & coal",Rotterdam,1966
+2393,Vodafone Netherlands,Telecommunications,Mobile telecommunications,Maastricht,1995
+2394,VolkerWessels,Industrials,Heavy construction,Amersfoort,1854
+2395,Wavin,Industrials,Building materials & fixtures,Zwolle,1955
+2396,WE,Consumer goods,Apparel retailers,Utrecht,1917
+2397,Wercker,Technology,Software,Amsterdam,2011
+2398,Wolters Kluwer,Industrials,Business support services,Alphen aan den Rijn,1836
+2399,Zeeman,Consumer goods,Apparel retailers,Alphen aan den Rijn,1967
+2400,11 bit studios,Technology,Software,Warsaw,2010
+2401,4F,Consumer goods,Textile,Wieliczka,2007
+2402,Adam�w Coal Mine,Basic materials,Coal,Turek,1979
+2403,Agora,Consumer goods and services,Mass media,Warsaw,1989
+2404,Allegro,Consumer services,E-commerce,Pozna?,1999
+2405,Alior Bank,Financials,Banks,Warsaw,2008
+2406,Amica,Consumer goods,Durable household products,Wronki,1945
+2407,Asseco,Technology,Software,Rzesz�w,1991
+2408,Bank Millennium,Financials,Banks,Warsaw,1989
+2409,Bank Pekao,Financials,Banks,Warsaw,1929
+2410,Belvedere Vodka,Consumer goods,Brewers,?yrard�w,1993
+2411,Be?chat�w Coal Mine,Basic materials,Coal,Be?chat�w,1955
+2412,Biedronka,Consumer services,Food retailers & wholesalers,Kostrzyn,1995
+2413,Black Red White,Consumer goods,Household goods,Bi?goraj,1991
+2414,Bochnia Salt Mine,Basic materials,General mining,Bochnia,1248
+2415,Bogdanka Coal Mine,Basic materials,Coal,Lublin Voivodeship,1975
+2416,Boryszew,Automotive industry,Automotive trade,Boryszew,1911
+2417,Brainly,Technology,Software,Krak�w,2009
+2418,Browar ?om?a,Consumer goods,Brewers,?om?a,1968
+2419,Carlsberg Polska,Consumer goods,Brewers,Warsaw,2004
+2420,CD Projekt,Technology,Software,Warsaw,1994
+2421,CIECH,Chemical industry,Specialty chemicals,?�d?,1945
+2422,Comarch,Technology,Software,Krak�w,1993
+2423,Dino,Consumer services,Food retailers & wholesalers,Krotoszyn,1999
+2424,E. Wedel,Consumer products,Confectionary,Warsaw,1851
+2425,Elbrewery,Consumer goods,Brewers,Elbl?g,1998
+2426,Elektrim,Industrials,Diversified industrials,Warsaw,1992
+2427,Enea SA,Utilities,Conventional Electricity,Pozna?,2003
+2428,Ericpol,Technology,Software,?�d?,1991
+2429,Eurocash,Consumer services,Food retailers & wholesalers,Komorniki,1993
+2430,Fablok,Industrials,Commercial vehicles & trucks,Chrzan�w,1919
+2431,Fabryka Samochod�w Ma?olitra?owych,Consumer goods,Automobiles,Bielsko-Bia?a,1948
+2432,Fabryka Samochod�w Osobowych,Consumer goods,Automobiles,Warsaw,1948
+2433,F?T-Kra?nik,Industrials,Diversified industrials,Kra?nik,1938
+2434,FASING S.A.,Industrials,Diversified industrials,Katowice,1913
+2435,Gaworzyce mine,Basic materials,Nonferrous metals,Gaworzyce,2004
+2436,Gaz-System,Utilities,Gas distribution,Warsaw,2004
+2437,G?og�w G??boki-Przemys?owy mine,Basic materials,Nonferrous metals,Polkowice,2004
+2438,Grupa Azoty,Chemical industry,Specialty chemicals,Tarn�w,1927
+2439,Grupa Lotos,Oil & gas,Exploration & production,Gda?sk,2003
+2440,Gubin Coal Mine,Basic materials,Coal,Gubin,1955
+2441,Halemba Coal Mine,Basic materials,Coal,Ruda ?l?ska,1897
+2442,Hortex,Consumer goods,Food products,Warsaw,1958
+2443,ING Bank ?l?ski,Financials,Banks,Katowice,1988
+2444,Inglot,Consumer goods,Cosmetics,Przemy?l,1983
+2445,InPost,Consumer services,Logistics,Krak�w,2006
+2446,ITI Group,Consumer services,Broadcasting & entertainment,Warsaw,1984
+2447,Jab?kowski Brothers,Consumer services,Retail,Warsaw,1884
+2448,JSW,Basic materials,Coal,Jastrz?bie-Zdr�j,1993
+2449,K. Rudzki i S-ka,Industrials,Engineering and machinery,Warsaw,1858
+2450,KGHM Polska Mied?,Basic materials,Nonferrous metals,Lubin,1961
+2451,Kino Polska,Consumer services,Broadcasting & entertainment,Warsaw,2003
+2452,K?odawa Salt Mine,Basic materials,General mining,K?odawa,1950
+2453,Kompania Piwowarska,Consumer goods,Brewers,Pozna?,1999
+2454,Kompania W?glowa,Basic materials,Coal,Katowice,2003
+2455,Lech Browary Wielkopolski,Consumer goods,Brewers,Pozna?,1975
+2456,"Lilpop, Rau i Loewenstein",Industrials,Engineering company,Warsaw,1818
+2457,Livechat Software,Technology,Software,Wroc?aw,2002
+2458,LOT Polish Airlines,Consumer services,Airlines,Warsaw,1929
+2459,LPP,Consumer services,Apparel retailers,Gda?sk,1991
+2460,Maspex,Food,Food concern,Wadowice,1990
+2461,Multikino,Consumer services,Recreational services,Warsaw,1998
+2462,Netia,Telecommunications,Fixed line telecommunications,Warsaw,1990[2]
+2463,Okocim Brewery,Consumer goods,Brewers,Brzesko,1845
+2464,Optimus S.A.,Technology,Computer hardware,Warsaw,1988
+2465,Orange Polska,Telecommunications,Mobile telecommunications,Warsaw,1991
+2466,Pesa SA,Industrials,Commercial vehicles & trucks,Bydgoszcz,1851
+2467,PGNiG,Oil & gas,Exploration & production,Warsaw,1976
+2468,PKN Orlen,Oil & gas,Exploration & production,P?ock,1999
+2469,Play,Telecommunications,Mobile telecommunications,Warsaw,2007
+2470,Plus,Telecommunications,Mobile telecommunications,Warsaw,1995
+2471,Poczta Polska,Consumer services,Delivery services,Warsaw,1558
+2472,Polcast Television,Consumer services,Broadcasting & entertainment,Warsaw,2006
+2473,Polish State Railways,Industrials,Railroads,Warsaw,1926
+2474,Polsat,Consumer services,Broadcasting & entertainment,Warsaw,1992
+2475,Polska Grupa Energetyczna,Utilities,Conventional electricity,Warsaw,1990
+2476,Polsteam,Industrials,Delivery services,Szczecin,1951
+2477,PKO BP,Financials,Banks,Warsaw,1948
+2478,PZU,Financials,Full line insurance,Warsaw,1803
+2479,Pronar,Consumer goods,Machinery,Narew,1988
+2480,PKS,Consumer services,Travel & tourism,Bia?ystok,1945
+2481,Przewozy Regionalne,Consumer services,Travel & tourism,Warsaw,2001
+2482,PSE (Polskie Sieci Elektroenergetyczne),Utilities,Conventional electricity,Konstancin-Jeziorna,2004[4]
+2483,Pudliszki,Food Products,Fruit and vegetable processing,Pudliszki,1847
+2484,Qumak,Technology,Software,Warsaw,1985
+2485,Smyk Department Store,Consumer services,General retailers,Warsaw,2000
+2486,Solaris Bus & Coach,Industrials,Commercial vehicles & trucks,Bolechowo,2001
+2487,Techland,Technology,Software,Wroc?aw,1991
+2488,Tele-Fonika Kable,Industrials,Diversified industrials,Bydgoszcz,1920
+2489,Telewizja Polska,Consumer services,Broadcasting & entertainment,Warsaw,1952
+2490,T-Mobile Polska,Telecommunications,Mobile telecommunications,Warsaw,1996
+2491,TVN24,Consumer services,Broadcasting & entertainment,Warsaw,2001
+2492,TVN 7,Consumer services,Broadcasting & entertainment,Warsaw,2002
+2493,TVN Group,Consumer services,Broadcasting & entertainment,Warsaw,1995
+2494,Tymbark,Consumer goods,Soft drinks,Tymbark,1936
+2495,Ursus SA,Automotive inductry,Agricultural machinery,Lublin,1893
+2496,Van Pur,Consumer goods,Brewers,Rakszawa[5],1989
+2497,Wieliczka Salt Mine,Consumer services,Recreational services,Wieliczka,1252
+2498,Wielton,Automotive industry,Utility vehicles,Wielu?,1996
+2499,?abka,Consumer services,Food retailers & wholesalers,Pozna?,1998
+2500,ZMT SA,Industrials,Defense,Tarn�w,1917
+2501,?ubr�wka,Consumer goods,Brewers,Bia?ystok,�
+2502,?ywiec Brewery,Consumer goods,Brewers,?ywiec,1856
+2503,Altri,Basic materials,Paper,Porto,2005
+2504,Ambar � Ideas on Paper S.A.,Industrials,Industrial suppliers,Porto,1939
+2505,Banco Comercial Portugu�s,Financials,Banks,Porto,1985
+2506,Bial,Health care,Pharmaceuticals,Trofa,1924
+2507,Caixa Geral de Dep�sitos,Financials,Banks,Lisbon,1876
+2508,Carris,Consumer services,Travel & tourism,Lisbon,1872
+2509,Central de Cervejas,Consumer goods,Brewers,Vila Franca de Xira,1934
+2510,Chipidea,Technology,Semiconductors,Oeiras,1997
+2511,Churchill's Port,Wine making,Port wine,Porto,1981
+2512,Ciberbit,Technology,Software,Coimbra,1995
+2513,Cimpor,Industrials,Building materials & fixtures,Lisbon,1976
+2514,CMS-Helmets,Consumer goods,Clothing & accessories,Anadia,1976
+2515,Cofina,Consumer services,Publishing,Porto,1856
+2516,Comboios de Portugal,Consumer services,Travel & tourism,Lisbon,1856
+2517,Conservas Ramirez,Consumer goods,Food products,Matosinhos,1853
+2518,Continente,Consumer services,Food retailers & wholesalers,Matosinhos,1985
+2519,Corticeira Amorim,Basic materials,Industrial suppliers,Santa Maria da Feira[11],1870
+2520,Critical Software,Technology,Software,Coimbra,1998
+2521,"CTT Correios de Portugal, S.A. (CTT)",Industrials,Delivery services,Lisbon,1520
+2522,Delta Caf�s,Consumer goods,Food products,Campo Maior,1961
+2523,EFACEC,Industrials,Electronic equipment,Matosinhos,1948
+2524,Energias de Portugal (EDP),Utilities,Conventional electricity,Lisbon,1976
+2525,F�brica Nacional de Muni��es de Armas Ligeiras,Industrials,Defense,Lisbon,1947
+2526,Galp Energia,Utilities,Gas distribution,Lisbon,1999
+2527,Glintt,Technology,Software,Lisbon,2008
+2528,Grupo Jos� de Mello,Conglomerates,-,Lisbon,1986[12]
+2529,Iberomoldes,Industrials,General industries,Marinha Grande,1975
+2530,Impresa,Consumer services,Media,Oeiras,1972
+2531,Jer�nimo Martins,Consumer services,Retail,Lisbon,1792
+2532,Lactogal,Consumer goods,Food & beverage,Porto,1996
+2533,Logoplaste,Industrials,Diversified industrials,Cascais,1976
+2534,Martifer,Industrials,Heavy construction,Oliveira de Frades,1990
+2535,Media Capital,Consumer services,Broadcasting & entertainment,Oeiras,1988
+2536,Medinfar,Health care,Pharmaceuticals,Lisbon,1970
+2537,MEO,Telecommunications,Mobile telecommunications,Lisbon,1991
+2538,Montepio,Financials,Banks,Lisbon,1840
+2539,Mota-Engil,Industrials,General industries,Porto,1946
+2540,Move Interactive,Technology,Software,Cascais,2008
+2541,NOS,Telecommunications,Fixed line telecommunications,Lisbon,1994
+2542,Novabase,Technology,Software,Lisbon,1989
+2543,Novo Banco,Financials,Banks,Lisbon,2014
+2544,Pingo Doce,Consumer services,Food retailers & wholesalers,Lisbon,1980
+2545,Porto Editora,Consumer services,Publishing,Porto,1944
+2546,Portugal Telecom,Telecommunications,Fixed line telecommunications,Lisbon,1994
+2547,Quidgest,Technology,Software,Lisbon,1988
+2548,R�dio e Televis�o de Portugal,Consumer services,Broadcasting & entertainment,Lisbon,1935
+2549,Redes Energ�ticas Nacionais (REN),Utilities,Conventional electricity,Lisbon,1994
+2550,Renova,Basic materials,Paper,Torres Novas,1939
+2551,SAPO,Telecommunications,Fixed line telecommunications,Lisbon,1995
+2552,Semapa,Industrials,Building materials & fixtures,Lisbon,1991
+2553,Simoldes,Industrials,Diversified industrials,Oliveira de Azem�is,1959
+2554,Soares da Costa,Industrials,Heavy construction,Porto,1918
+2555,SIC,Consumer services,Broadcasting & entertainment,Lisbon,1992
+2556,Sonae Ind�stria,Industrials,Diversified industrials,Maia,1959
+2557,Sonae,Conglomerates,-,Maia,1959
+2558,Sovena Group,Consumer goods,Farming & fishing,Oeiras,1956
+2559,Sumol + Compal,Consumer goods,Food products,Oeiras,2008
+2560,Tabaqueira,Consumer goods,Tobacco,Lisbon,1927
+2561,TAP Air Portugal,Consumer services,Airlines,Lisbon,1945
+2562,Televis�o Independente,Consumer services,Broadcasting & entertainment,Oeiras,1993
+2563,The Navigator Company,Basic materials,Paper,Set�bal,2001
+2564,Tranquilidade,Financials,Full line insurance,Lisbon,1871
+2565,Tupam editores,Consumer services,Publishing,Lisbon,1977
+2566,UMM,Industrials,Diversified industrials,Lisbon,1977
+2567,Unicer Brewery,Consumer goods,Brewers,Matosinhos,1890
+2568,Uniplaces,Technology,Internet,Lisbon,2012
+2569,Visabeira,Conglomerates,-,Viseu,1980
+2570,Vista Alegre,Consumer goods,Durable household products,�lhavo,1824
+2571,Adev?rul Holding,Consumer services,Publishing,Bucharest,2008
+2572,Angst,Consumer services,Food retailers & wholesalers,Buftea,1990
+2573,Antibiotice Ia?i,Health care,Pharmaceuticals,Ia?i,1955
+2574,Apulum,Consumer goods,Durable household products,Alba Iulia,1970
+2575,Arctic S.A.,Consumer goods,Durable household products,G?e?ti,1968
+2576,Automobile Dacia,Consumer goods,Automobiles,Mioveni,1966
+2577,Banca Comercial? Rom�n? (BCR),Financials,Banks,Bucharest,1990
+2578,Banca Transilvania,Financials,Banks,Cluj-Napoca,1993
+2579,Blue Air,Consumer services,Airlines,Bucharest,2004
+2580,BRD � Groupe Soci�t� G�n�rale,Financials,Banks,Bucharest,1923
+2581,C?ile Ferate Rom�ne,Industrials,Railroads,Bucharest,1880
+2582,Continental Hotels,Consumer services,Hotels,Bucharest,1991
+2583,Dedeman,Consumer services,Retail services,Bac?u,1992
+2584,European Drinks & Foods,Consumer goods,Food products,?tei,1993
+2585,Farmec,Consumer goods,Personal products,Cluj-Napoca,1993
+2586,Ford Romania,Consumer goods,Automobiles,Craiova,1976
+2587,GeCAD Software,Technology,Software,Bucharest,1992
+2588,Grup Feroviar Rom�n,Industrials,Railroads,Bucharest,2001
+2589,Intact Media Group,Consumer services,Media agencies,Bucharest,1991
+2590,Jolidon,Consumer goods,Clothing & accessories,Cluj-Napoca,1993
+2591,Mangalia shipyard,Industrials,Commercial vehicles & trucks,Mangalia,1997
+2592,Mega Image,Consumer services,Food retailers & wholesalers,Bucharest,1995
+2593,Metrorex,Consumer services,Travel & tourism,Bucharest,1976
+2594,Mobexpert,Consumer services,Specialty retailers,Bucharest,1993
+2595,Napolact,Consumer goods,Food products,Cluj-Napoca,1905
+2596,Orange Romania,Telecommunications,Mobile telecommunications,Bucharest,1997
+2597,Petrom,Oil & gas,Integrated oil & gas,Bucharest,1991
+2598,Petromidia Refinery,Oil & gas,Exploration & production,N?vodari,1974
+2599,Po?ta Rom�n?,Industrials,Delivery services,Bucharest,1862
+2600,Raiffeisen Romania,Financials,Banks,Bucharest,1998
+2601,RCS & RDS,Telecommunications,Fixed line telecommunications,Bucharest,1993
+2602,Realitatea-Ca?avencu,Consumer services,Media agencies,Bucharest,2006
+2603,Regiotrans,Consumer services,Travel & tourism,Bra?ov,2005
+2604,Roman,Industrials,Commercial vehicles & trucks,Bra?ov,1921
+2605,Rompetrol,Oil & gas,Exploration & production,Bucharest,1974
+2606,Romstal,Industrials,Industrial suppliers,Bucharest,1994
+2607,Romtelecom,Telecommunications,Fixed line telecommunications,Bucharest,1989
+2608,SIVECO Romania,Technology,Software,Bucharest,1992
+2609,Softpedia,Technology,Software,Bucharest,2001
+2610,Softwin,Technology,Software,Bucharest,1990
+2611,TAROM,Consumer services,Airlines,Otopeni,1954
+2612,Tehnoton,Consumer goods,Consumer electronics,Ia?i,1972
+2613,Telekom Romania,Telecommunications,Fixed line telecommunications & mobile telecommunications,Bucharest,1991
+2614,Terapia Ranbaxy,Health care,Pharmaceuticals,Cluj-Napoca,1920
+2615,?iriac Holdings,Conglomerates,-,Bucharest,1990
+2616,Transferoviar Grup,Industrials,Railroads,Cluj-Napoca,2003
+2617,Trilulilu,Technology,Internet,Cluj-Napoca,2007
+2618,Ubisoft Bucharest,Technology,Software,Bucharest,1992
+2619,UPC Romania,Telecommunications,Fixed line telecommunications,Bucharest,1992
+2620,Ursus Breweries,Consumer goods,Brewers,Bucharest,1878
+2621,UTI Holdings,Conglomerates,-,Bucharest,1990
+2622,Vodafone Romania,Telecommunications,Mobile telecommunications,Bucharest,1997
+2623,Zentiva,Health care,Pharmaceuticals,Bucharest,1962
+2624,Air Slovakia,Consumer services,Airlines,Bratislava,1993
+2625,Cestn� a Stavebn� Mechanizmy Tisovec,Industrials,Defense,Detva,1955
+2626,Doprastav,Industrials,Heavy construction,Bratislava[11],1953
+2627,Elnec,Industrials,Electronic equipment,Pre�ov,1991
+2628,ESET,Technology,Computer services,Bratislava,1992
+2629,Glass LPS,Consumer goods,Durable household products,Medzilaborce,1999
+2651,Tatra banka,Financials,Banks,Bratislava,1990
+2652,O2 Slovakia,Telecommunications,Mobile telecommunications,Bratislava,2006
+2653,Topvar,Consumer goods,Brewers,Ve?k� �ari�,1957
+2654,Transpetrol AS,Oil & gas,Pipelines,Bratislava,1954
+2655,U.S. Steel Ko�ice,Basic materials,Iron & steel,Ko�ice,2000
+2656,Vag�nka,Industrials,Commercial vehicles & trucks,Trebi�ov,1922
+2657,�elezni?n� spolo?nos? Slovensko,Industrials,Railroads,Bratislava,2004
+2658,Zlat� Ba�ant,Consumer goods,Brewers,Hurbanovo,1969
+2659,Academa,Technology,Software,Ljubljana,1992
+2660,Adria Airways,Consumer services,Airlines,Zgornji Brnik,1961
+2661,Adria Mobil,Consumer goods,Automobiles,Novo Mesto,1965
+2662,Akrapovi?,Consumer goods,Automobiles,Ivan?na Gorica,1990
+2663,Alpina �iri,Consumer goods,Footwear,�iri,1948
+2664,Amebis,Technology,Software,Kamnik,2012
+2665,AMIS,Telecommunications,Fixed line telecommunications,Maribor,1995
+2666,BTC,Consumer services,Broadline retailers,Ljubljana,1954
+2667,Elan,Consumer goods,Recreational products,Begunje na Gorenjskem,1945
+2668,Goodyear Dunlop Sava Tires,Consumer goods,Automobiles,Kranj,1998
+2669,Gorenje,Consumer goods,Durable household products,Velenje,1950
+2670,Iskra (company),Industrials,Diversified industrials,Kranj,1946
+2671,Istrabenz,Conglomerates,-,Koper,1948
+2672,Krka,Health care,Pharmaceuticals,Novo Mesto,1954
+2673,Litostroj,Industrials,Industrial machinery,Ljubljana,1946
+2674,Ljubljana Jo�e Pu?nik Airport,Industrials,Transportation services,Ljubljana,1963
+2675,Mercator,Consumer services,Food retailers & wholesalers,Ljubljana,1949
+2676,Mobitel,Telecommunications,Mobile telecommunications,Ljubljana,1991
+2677,Petrol Group,Consumer services,Specialty retailers,Ljubljana,1947
+2678,Port of Koper,Industrials,Transportation services,Koper,1957
+2679,Post of Slovenia,Industrials,Delivery services,Maribor,1995
+2680,Slovenian Railways,Industrials,Railroads,Ljubljana,1991
+2681,Slovenija ceste Tehnika,Industrials,Construction & materials,Ljubljana,1943
+2682,Solinair,Consumer services,Airlines,Ljubljana,1991
+2683,Tomos,Consumer goods,Automobiles,Koper,1954
+2684,XLAB d.o.o,Technology,Software,Ljubljana,2001
+2685,ZootFly,Technology,Software,Ljubljana,2002
+2686,3scale,Technology,Software,Barcelona[3],2007
+2687,Abengoa,Conglomerates,-,Seville,1941
+2688,Abertis,Conglomerates,-,Barcelona,2003
+2689,Acciona,Industrials,Heavy construction,Alcobendas,1997
+2690,Acerinox,Basic materials,Iron & steel,Madrid,1970
+2691,ACS Group,Industrials,Heavy construction,Madrid,1997
+2692,Afinsa,Consumer services,Specialty retailers,Madrid,1980
+2693,Akamon Entertainment,Technology,Software,Barcelona,2011
+2694,Almirall,Health care,Pharmaceuticals,Barcelona,1943
+2695,Amadeus IT Group,Technology,Software,Madrid,1987
+2696,Astilleros y Talleres del Noroeste,Industrials,Shipbuilding,Fene,1944
+2697,Atresmedia,Consumer services,Broadcasting & entertainment,San Sebasti�n de los Reyes,1988
+2698,Balay,Consumer goods,Durable household products,Zaragoza,1947
+2699,Banco Bilbao Vizcaya Argentaria (BBVA),Financials,Banks,Bilbao,1857
+2700,Banco Popular Espa�ol,Financials,Banks,Madrid,1926
+2701,Banco Sabadell,Financials,Banks,Sabadell,1881
+2702,Banco Santander,Financials,Banks,Santander,1857
+2703,Banesto,Financials,Banks,Madrid,1902
+2704,Bankinter,Financials,Banks,Madrid,1965
+2705,Bassols 1790,Consumer goods,Textiles,Vic,1790
+2706,Bolsas y Mercados Espa�oles (BME),Financials,Banks,Madrid,1831
+2707,BRB Internacional,Consumer services,Broadcasting & entertainment,Alcobendas,1972
+2708,Budgetplaces,Consumer services,Travel & tourism,Barcelona,2003
+2709,Calidad Pascual,Consumer goods,Food & beverage,Madrid,1969
+2710,CATUAV,Industrials,Aerospace,Moi�,2007
+2711,Chupa Chups,Consumer goods,Food products,Barcelona,1958
+2712,CIE Automotive,Consumer goods,Auto parts,Bilbao,2002
+2713,Cintra,Industrials,Heavy construction,Madrid,1998
+2714,Cepsa,Oil & gas,Exploration & production,Madrid,1929
+2715,Compa��a Log�stica de Hidrocarburos (CLH),Utilities,Oil & gas distribution,Madrid,1927
+2716,Construcciones Aeron�uticas SA (CASA),Industrials,Aerospace,Madrid,1923
+2717,Construcciones y Auxiliar de Ferrocarriles (CAF),Industrials,Commercial vehicles & trucks,Beasain,1917
+2718,Copisa,Industrials,Heavy construction,Barcelona,1959
+2719,Correos,Industrials,Delivery services,Madrid,1716
+2720,Cortefiel,Consumer services,Apparel retailers,Madrid,1880
+2721,Cupra,Consumer goods,Automobiles,Martorell,2018
+2722,Curaxys,Health care,Biotechnology,C�diz,2009
+2723,Deoleo,Consumer goods,Food products,C�rdoba,1955
+2724,DIA,Consumer services,Food retailers & wholesalers,Las Rozas,1979
+2725,Ebro Foods,Consumer goods,Food products,Madrid,1998
+2726,Ebro trucks,Consumer goods,Automobiles,Barcelona,1954
+2727,El Corte Ingl�s,Consumer services,Food retailers & wholesalers,Madrid,1940
+2728,Enag�s,Utilities,Oil & gas distribution,Madrid,1972
+2729,Endesa,Utilities,Conventional electricity,Madrid,1944
+2730,Eroski,Consumer services,Food retailers & wholesalers,Elorrio,1969
+2731,Euskaltel,Telecommunications,Fixed line telecommunications,Derio,1995
+2732,Fagor,Consumer goods,Durable household products,Mondrag�n,1956
+2733,Ferrovial,Industrials,Heavy construction,Madrid,1952
+2734,Festina,Consumer goods,Clothing & accessories,Barcelona,1902
+2735,Fierro Group,Conglomerates,-,Madrid[5],1961
+2736,Fomento de Construcciones y Contratas,Industrials,Heavy construction,Barcelona,1900
+2737,Gamesa,Oil & gas,Renewable energy equipment,Zamudio,1976
+2738,Naturgy,Utilities,Oil & gas distribution,Madrid,1991
+2739,GMV Innovating Solutions,Conglomerates,-,Tres Cantos,1984
+2740,Grundig mobile,Technology,Telecommunications equipment,M�laga,2005
+2741,Grupo Agbar,Utilities,Water,Barcelona,1867
+2742,Grupo Antolin,Consumer goods,Auto parts,Burgos,1950
+2743,Grupo Calvo,Consumer goods,Food products,Carballo,1940
+2744,Grupo Gea Perona,Utilities,Oil & gas distribution,Murcia,1927
+2745,Grupo Lo Monaco,Consumer goods,Furnishings,Granada,1996
+2746,Grupo Puma,Industrials,Building materials & fixtures,Madrid,1985
+2747,Hijos de Rivera,Consumer goods,Brewers,A Coru�a,1906
+2748,Hipercor,Consumer services,Food retailers & wholesalers,Madrid,1979
+2749,Iberdrola,Utilities,Conventional electricity,Bilbao,1992
+2750,Iberia,Consumer services,Airlines,Madrid,1927
+2751,IDAPT,Technology,Telecommunications equipment,Barcelona,2006
+2752,Idilia Foods,Consumer goods,Food products,Barcelona,1940
+2753,Inditex,Consumer services,Apparel retailers,Arteixo,1985
+2754,Indra Sistemas,Industrials,Aerospace,Madrid,1993
+2755,Inmobiliaria Colonial,Financials,Real estate holding & development,Madrid,1946
+2756,Irizar,Industrials,Commercial vehicles & trucks,Ormaiztegi,1889
+2757,Joma,Consumer goods,Clothing & accessories,Portillo de Toledo,1965
+2758,Kelme,Consumer services,Apparel retailers,Elche,1977
+2759,La Caixa,Financials,Banks,Valencia,1990
+2760,La Casera,Consumer services,Food retailers & wholesalers,Madrid,1949
+2761,Lacasa,Consumer goods,Food products,Zaragoza,1852
+2762,Lladr�,Consumer goods,Recreational products,Tavernes Blanques,1953
+2763,Llaollao,Consumer goods,Food products,Murcia,2009
+2764,Mahou San Miguel,Consumer goods,Brewers,Madrid,1890
+2765,Majorica,Consumer goods,Clothing & accessories,Palma,1890
+2766,Mango,Consumer services,Apparel retailers,Palau-solit� i Plegamans,1984
+2767,Mapfre,Financials,Full line insurance,Majadahonda,1933
+2768,Marfeel,Technology,Software,Barcelona,2011
+2769,Mediaset Espa�a Comunicaci�n,Consumer services,Broadcasting & entertainment,Madrid,1989
+2770,Meli� Hotels International,Consumer services,Hotels,Palma,1956
+2771,Mercadona,Consumer services,Food retailers & wholesalers,Tavernes Blanques,1977
+2772,Mondragon Corporation,Conglomerates,-,Mondrag�n,1956
+2773,Mutua Madrile�a,Financials,Full line insurance,Madrid,1930
+2774,Naipes Heraclio Fournier,Industrials,Recreational products,Vitoria-Gasteiz,1868
+2775,Natra,Conglomerates,-,Valencia,1943
+2776,Navantia,Industrials,Shipbuilding,Madrid,2005
+2777,NH Hotel Group,Consumer services,Hotels,Madrid,1978
+2778,Nodosa Shipyard,Industrials,Shipbuilding,Bueu,1982
+2779,Obrasc�n Huarte Lain,Industrials,Heavy construction,Madrid,1999
+2780,Orbea,Consumer goods,Recreational products,Mallabia,1931
+2781,Pacha Group,Consumer services,Travel & tourism,Ibiza,1967
+2782,Pescanova,Consumer goods,Food products,Redondela,1960
+2783,Planeta Group,Consumer services,Publishing,Barcelona,1949
+2784,Porcelanosa,Industrials,Building materials & fixtures,Villarreal,1973
+2785,PRISA TV,Consumer services,Broadcasting & entertainment,Tres Cantos,1989
+2786,Private Media Group,Consumer services,Broadcasting & entertainment,Barcelona,1965
+2787,Prosegur,Industrials,Business support services,Madrid,1976
+2788,Pyro Studios,Technology,Software,Alcobendas,1996
+2789,Red El�ctrica de Espa�a,Utilities,Conventional electricity,Alcobendas,1985
+2790,Renfe,Consumer services,Travel & tourism,Madrid,2005
+2791,Repsol,Oil & gas,Integrated oil & gas,Madrid,1987
+2792,RTVE,Consumer services,Broadcasting & entertainment,Madrid,2007
+2793,RIU Hotels,Consumer services,Hotels,Majorca,1953
+2794,Sacyr,Industrials,Heavy construction,Madrid,1999
+2795,Santana Motor,Consumer goods,Automobiles,Linares,1956
+2796,SEAT,Consumer goods,Automobiles,Martorell,1950
+2797,SENER,Industrials,Heavy construction,Getxo,1956
+2798,Sener Aeron�utica,Industrials,Aerospace,Getxo,1956
+2799,Talgo,Industrials,Commercial vehicles & trucks,Las Rozas de Madrid,1942
+2800,T�cnicas Reunidas,Oil & gas,Oil equipment & services,Madrid,1959
+2801,Telef�nica,Telecommunications,Fixed line telecommunications,Madrid,1924
+2802,Telepizza,Consumer services,Restaurants & bars,Madrid,1987
+2803,Terra,Technology,Internet,Madrid,1999
+2804,Uralita Group,Industrials,Building materials & fixtures,Madrid,1907
+2805,Vidal,Consumer goods,Food products,Molina de Segura,1963
+2806,Vitelcom,Consumer goods,Consumer electronics,M�laga,2001
+2807,Vodafone Spain,Telecommunications,Mobile telecommunications,Madrid,2000
+2808,Vueling,Consumer services,Airlines,Barcelona,2004
+2809,Zara,Consumer services,Apparel retailers,Arteixo,1974
+2810,Zinkia Entertainment,Consumer services,Broadcasting & entertainment,Madrid,2001
+2811,3H Biomedical,Health care,Biotechnology,Uppsala,2004
+2812,AarhusKarlshamn,Consumer goods,Food products,Malm�,2005
+2813,Abba Seafood,Consumer goods,Food products,Gothenburg,1883
+2814,ABU Garcia,Consumer goods,Recreational products,Sv�ngsta[5],1921
+2815,Acando,Technology,Software,Stockholm,2001
+2816,Acast,Technology,Software,Stockholm,2014
+2817,Acne Studios,Consumer goods,Clothing & accessories,Stockholm,1997
+2818,�F,Industrials,Business support services,Stockholm,1895
+2819,AGA,Oil & gas,Exploration & production,Lule�,1904
+2820,�hl�ns,Consumer services,Broadline retailers,Stockholm,1899
+2821,Alfa Laval,Industrials,Industrial machinery,Lund,1883
+2822,Alfdex,Industrials,Industrial machinery,Landskrona,2002
+2823,AP&T,Industrials,Industrial machinery,Ulricehamn,1989
+2824,Apoteket,Health care,Pharmaceuticals,Stockholm,1970
+2825,Aptilo Networks,Telecommunications,Mobile telecommunications,Stockholm,2001
+2826,Arcam,Industrials,Industrial suppliers,M�lndal,1997
+2827,ASEA,Industrials,Diversified industrials,V�ster�s,1883
+2828,ABB,Industrials,Industrial machinery,V�ster�s/Z�rich,1988
+2829,Assa Abloy,Industrials,Industrial suppliers,Stockholm,1994
+2830,Astra AB,Health care,Pharmaceuticals,S�dert�lje,1913
+2831,Atlas Copco,Industrials,Diversified industrials,Nacka,1873
+2832,Atlet,Industrials,Commercial vehicles & trucks,M�lnlycke,1958
+2833,Autoliv,Industrials,Business support services,Stockholm,1997
+2834,Avalanche Studios,Technology,Software,Stockholm,2003
+2835,Avanza,Financials,Investment services,Stockholm,1999
+2836,Axel Johnson,Conglomerates,-,Stockholm,1873[6]
+2837,Axel Johnson Group,Conglomerates,-,Stockholm,1873
+2838,Axfood,Consumer services,Food retailers & wholesalers,Stockholm,1964
+2839,Axis Communications,Technology,Computer hardware,Lund,1984
+2840,BAE Systems,Industrials,Defense,�rnsk�ldsvik,2006[7]
+2841,Bahco,Industrials,Diversified industrials,Enk�ping,1886
+2842,Bahnhof,Telecommunications,Fixed line telecommunications,Stockholm,1994
+2843,Ballograf,Consumer goods,Nondurable household products,Gothenburg,1945
+2844,Berg Propulsion,Industrials,Industrial machinery,Gothenburg,1912
+2845,Betsson,Consumer services,Gambling,Stockholm,1963
+2846,Biacore,Health care,Biotechnology,Uppsala,1984
+2847,BillerudKorsn�s,Basic materials,Paper,Solna,2012
+2848,Bindomatic,Industrials,Industrial suppliers,Stockholm,1974
+2849,BioGaia,Health care,Pharmaceuticals,Stockholm,1990
+2850,Bj�rn Borg,Consumer goods,Clothing & accessories,Stockholm,2004
+2851,Bofors,Industrials,Defense,Karlskoga,1873
+2852,Boghammar Marin AB,Industrials,Commercial vehicles & trucks,Liding�,1906
+2853,Boliden,Basic materials,General mining,Stockholm,1931
+2854,Bolinder-Munktell,Industrials,Commercial vehicles & trucks,Eskilstuna,1932
+2855,Bona AB,Industrials,Building materials & fixtures,Malm�,1919
+2856,Bonnier Group,Consumer services,Broadcasting & entertainment,Stockholm,1804
+2857,Braathens Regional Aviation,Consumer services,Airlines,Malm�,1981
+2858,Bredbandsbolaget,Telecommunications,Fixed line telecommunications,Stockholm[8],1998
+2859,Brio,Consumer goods,Toys,Malm�,1884
+2860,Bure Equity,Financials,Investment services,Stockholm,1992
+2861,Camfil,Industrials,Industrial machinery,Stockholm,1963
+2862,Carnegie Investment Bank,Financials,Investment services,Stockholm,1803
+2863,Casino Cosmopol,Consumer services,Gambling,Stockholm,1999
+2864,Cederroth,Health care,Health care providers,Upplands V�sby,1895
+2865,Cheap Monday,Consumer goods,Clothing & accessories,Stockholm,2000
+2866,Clas Ohlson,Consumer services,Home improvement retailers,Insj�n,1918
+2867,Clavia,Consumer goods,Recreational products,Stockholm,1983
+2868,Cloetta,Consumer goods,Food products,Stockholm,1862
+2869,Columbitech,Technology,Software,Stockholm,2000
+2870,Com Hem,Telecommunications,Fixed line telecommunications,Stockholm,1983
+2871,Comviq,Telecommunications,Fixed line telecommunications,Stockholm,1981
+2872,Coop Norden,Consumer services,Food retailers & wholesalers,Stockholm,2001
+2873,Danir AB,Financials,Investment services,Malm�,1986
+2874,Dataphone,Telecommunications,mobile telecommunications,Stockholm,2001
+2875,Datasaab,Industrials,Business support services,Link�ping,1954
+2876,DeLaval,Industrials,Commercial vehicles & trucks,Tumba,1883
+2877,Destination Gotland,Consumer services,Travel & tourism,Visby,1998
+2878,Diamyd Medical,Health care,Biotechnology,Stockholm,1994[9]
+2879,Dockstavarvet,Industrials,Commercial vehicles & trucks,Docksta,1905
+2880,Domnarvet,Basic materials,Iron & steel,Borl�nge,1872
+2881,Doro,Technology,Telecommunications equipment,Malm�,1974[10]
+2882,Draim,Technology,Software,Nacka,2003
+2883,EA DICE,Technology,Software,Stockholm,1992
+2884,Elanders,Industrials,Business support services,M�lnlycke,1908
+2885,Electrolux,Consumer goods,Durable household products,Stockholm,1919
+2886,Elekta,Health care,Health care providers,Stockholm,1972
+2887,Elektron,Consumer goods,Recreational products,Gothenburg,1998
+2888,Elfa International,Consumer goods,Furnishings,Malm�,1948
+2889,Ellos,Consumer services,Broadline retailers,Bor�s,1947
+2890,ENEA AB,Technology,Software,Kista,1968
+2891,Eniro,Technology,Internet,Stockholm,2000
+2892,Epidemic Sound,Technology,Internet,Stockholm,2009
+2893,Ericsson,Technology,Telecommunications equipment,Stockholm,1876
+2894,ESAB,Industrials,Business support services,Gothenburg,1904
+2895,Eskilstuna Energy and Environment,Utilities,Conventional electricity,Eskilstuna,1993
+2896,Esselte,Industrials,Industrial suppliers,Stockholm,1913
+2897,European Spallation Source,Industrials,Business support services,Lund,2013
+2898,Fagerhult Group,Industrials,Building materials & fixtures,Habo,1945[11]
+2899,Fatshark,Technology,Software,Stockholm,2008
+2900,Filippa K,Consumer goods,Clothing & accessories,Stockholm,1993
+2901,Fj�llr�ven,Consumer goods,Clothing & accessories,�rnsk�ldsvik,1960
+2902,FKAB,Industrials,Business support services,Uddevalla,1961
+2903,F�reningsbanken,Financials,Banks,Stockholm,1992
+2904,Forex Bank,Financials,Investment services,Stockholm,1927
+2905,Frictional Games,Technology,Software,Helsingborg,2007
+2906,Galvin Green,Consumer goods,Clothing & accessories,V�xj�,1990
+2907,GB Glace,Consumer goods,Food products,Stockholm,1942
+2908,Gek�s,Consumer services,Broadline retailers,Falkenberg,1963
+2909,Getinge Group,Health care,Medical equipment,Gothenburg,1904
+2910,G�inge Mekaniska,Industrials,Heavy construction,H�ssleholm,1946
+2911,Green Cargo,Industrials,Delivery services,Solna,2001
+2912,Grimaldi Industri,Conglomerates,-,Stockholm,1970
+2913,Gunnebo Group,Industrials,Business support services,Gothenburg,1889
+2914,H&M,Consumer services,Apparel retailers,Stockholm,1947
+2915,Hagl�fs,Consumer goods,Recreational products,Tors�ng,1914
+2916,Hagstr�m,Consumer goods,Recreational products,�lvdalen,1925
+2917,Haldex,Consumer goods,Auto parts,Landskrona,1887
+2918,Hallberg-Rassy,Consumer goods,Recreational products,Ell�s,1943
+2919,Handelsbanken,Financials,Banks,Stockholm,1871
+2920,Hasselblad,Consumer goods,Recreational products,Gothenburg,1841
+2921,H�stens,Consumer services,Specialty retailers,K�ping,1852
+2922,Hestra,Consumer goods,Clothing & accessories,Hestra,1936
+2923,Hexagon AB,Industrials,Business support services,Stockholm,1992
+2924,HMS Industrial Networks,Telecommunications,Fixed line telecommunications,Halmstad,1988
+2925,H�gan�s AB,Basic materials,Iron & steel,H�gan�s,1797
+2926,Holmen,Basic materials,Paper,Stockholm,1875
+2927,Husaberg,Consumer goods,Automobiles,Mattighofen,1988
+2928,Husqvarna Group,Industrials,Industrial suppliers,Stockholm,1689
+2929,Hydrauliska Industri AB,Industrials,Commercial vehicles & trucks,Hudiksvall,1944
+2930,IAR Systems,Technology,Software,Uppsala,1983
+2931,ICA Gruppen,Consumer services,Broadline retailers,Stockholm,1938
+2932,IFS AB,Technology,Software,Link�ping,1983
+2933,Ikano Bank,Financials,Banks,Malm�,1995
+2934,IMINT Image Intelligence AB,Technology,Software,Uppsala,2007
+2935,Infranord,Industrials,Railroads,Solna,2010
+2936,Ingate Systems,Technology,Software,Stockholm,2001
+2937,Intertex,Technology,Computer hardware,Stockholm,2001
+2938,Investment AB Latour,Financials,Investment services,Gothenburg,1984
+2939,Investment AB �resund,Financials,Investment services,Stockholm,1961
+2940,Investor AB,Financials,Investment services,Stockholm,1916
+2941,IsaDora,Consumer goods,Personal products,Malm�,1983
+2942,iZettle,Technology,Software,Stockholm,2011
+2943,J.Lindeberg,Consumer goods,Clothing & accessories,Stockholm,1997
+2944,Jeeves,Technology,Software,Stockholm,1992
+2945,Jernhusen,Industrials,Railroads,Stockholm,2001
+2946,Jofa,Consumer goods,Recreational products,Malung,1926
+2947,Jonsereds Fabrikers AB,Industrials,Industrial machinery,Jonsered,1832
+2948,Kinnevik AB,Financials,Investment services,Stockholm,1936
+2949,Klarna,Consumer services,Broadline retailers,Stockholm,2005
+2950,Kockums Naval Solutions,Industrials,Commercial vehicles & trucks,Malm�,1840
+2951,Koenigsegg,Consumer goods,Automobiles,�ngelholm,1994
+2952,Kooperativa F�rbundet,Consumer services,Consumer co-operatives,Stockholm,1899
+2953,Kopparbergs Brewery,Consumer goods,Brewers,Kopparberg,1882
+2954,Kosta Glasbruk,Industrials,Building materials & fixtures,Kosta,1742
+2955,Kr�nleins,Consumer goods,Brewers,Halmstad,1836
+2956,Kungs�rnen,Consumer goods,Food products,J�rna,1929
+2957,L E Lundbergf�retagen,Financials,Investment services,Stockholm,1944
+2958,L�nsf�rs�kringar,Financials,Full line insurance,Stockholm[12],1801
+2959,L�nsf�rs�kringar Bank,Financials,Banks,Stockholm,1996[13]
+2960,Lantm�nnen,Consumer goods,Farming & fishing,Stockholm,2001
+2961,LeoVegas,Consumer services,Gambling,Stockholm,2011
+2962,Lindex,Consumer services,Apparel retailers,Gothenburg,1954
+2963,Linjeflyg,Consumer services,Airlines,Stockholm,1957
+2964,LKAB,Basic materials,General mining,Lule�,1890
+2965,Loomis,Industrials,Business support services,Stockholm,1997
+2966,Lundin Petroleum,Oil & gas,Exploration & production,Stockholm,2001
+2967,Luxor AB,Consumer goods,Consumer electronics,Motala,1923
+2968,MachineGames,Technology,Software,Uppsala,2009
+2969,M�larenergi,Utilities,Conventional electricity,V�ster�s,1861
+2970,Maratone Studios,Consumer services,Broadcasting & entertainment,Stockholm,2001
+2971,Massive Entertainment,Technology,Software,Malm�,1997
+2972,Mecel,Technology,Software,Gothenburg,1982
+2973,Meda AB,Health care,Pharmaceuticals,Solna,1954
+2974,Micromy,Basic materials,Specialty chemicals,T�by,2009
+2975,Modern Times Group (MTG),Consumer services,Broadcasting & entertainment,Stockholm,1987
+2976,Mojang,Technology,Software,Stockholm,2009
+2977,M�lnlycke Health Care,Health care,Medical equipment,Gothenburg,1849
+2978,Monark,Consumer goods,Recreational products,Vansbro,1908
+2979,MySQL AB,Technology,Software,Uppsala,1995
+2980,Najad Yachts,Consumer goods,Recreational products,Hen�n,1971
+2981,Nanoradio,Technology,Semiconductors,Kista,2004
+2982,Nasdaq Nordic,Financials,Investment services,Stockholm,2003
+2983,NCC AB,Industrials,Heavy construction,Solna,1988
+2984,Neogames,Consumer services,Publishing,Gothenburg,2006
+2985,Neonode,Telecommunications,Computer hardware,Stockholm,2001
+2986,Nextjet,Consumer services,Airlines,Stockholm,2002
+2987,Nobia,Consumer goods,Durable household products,Stockholm,1996
+2988,Nobina,Consumer services,Travel & tourism,Stockholm,1999
+2989,NOHAB,Industrials,Diversified industrials,Trollh�ttan,1916
+2990,Nordiska Kompaniet,Consumer services,Broadline retailers,Stockholm,1864
+2991,Nordstjernan,Conglomerates,-,Stockholm,1890
+2992,NorthStar,Industrials,General industries,Stockholm,2000
+2993,Nudie Jeans,Consumer goods,Clothing & accessories,Gothenburg,2001
+2994,Nyby bruk,Basic materials,Iron & steel,Torsh�lla,1829
+2995,Nyfors,Technology,Telecommunications equipment,Stockholm,1987
+2996,Nynas,Oil & gas,Exploration & production,Stockholm,1928
+2997,Odd Molly,Consumer goods,Clothing & accessories,Stockholm,2002
+2998,�hlins,Consumer goods,Auto parts,Upplands V�sby,1976
+2999,Onoff,Consumer services,Broadline retailers,Upplands V�sby,1971
+3000,Orexo,Health care,Pharmaceuticals,Uppsala,1995
+3001,Oriflame,Consumer goods,Personal products,Stockholm,1967
+3002,Orrefors glassworks,Industrials,Building materials & fixtures,Orrefors,1898
+3003,Oskarshamn Shipyard,Industrials,Commercial vehicles & trucks,Oskarshamn,1863
+3004,Ovako,Basic materials,Iron & steel,Stockholm,1969
+3005,P�gen,Consumer goods,Food products,Malm�,1878
+3006,Paradox Interactive,Technology,Software,Stockholm,1999
+3007,Peab,Industrials,Heavy construction,F�rsl�v,1959
+3008,Peltarion,Technology,Software,Stockholm,2004
+3009,Phadia,Health care,Medical equipment,Uppsala,1971
+3010,Pharmacia,Health care,Pharmaceuticals,Stockholm,1911
+3011,Polarbr�d,Consumer goods,Food products,�lvsbyn,1972[14]
+3012,PostNord,Industrials,Delivery services,Solna,2009
+3013,PostNord Sverige,Industrials,Delivery services,Solna,1636
+3014,Primus AB,Consumer goods,Household goods,Stockholm,1892
+3015,Pripps,Consumer goods,Brewers,Gothenburg,1828
+3016,Profoto,Industrials,Building materials & fixtures,Stockholm,1968
+3017,Promessa Organic,Health care,Health care providers,Gothenburg,2001
+3018,PS Communication,Industrials,Business support services,Stockholm,1997
+3019,Ratos,Financials,Real estate holding & development,Stockholm,1933
+3020,ReadSoft,Technology,Software,Helsingborg,1991
+3021,Recipharm,Health care,Pharmaceuticals,Haninge,1995
+3022,Rederi AB Slite,Consumer services,Travel & tourism,Gothenburg,1947
+3023,Remograph,Technology,Software,Link�ping,2005
+3024,Resurs Holding,Financials,Banks,Helsingborg,2001
+3025,Saab Automobile,Consumer goods,Automobiles,Trollh�ttan,1945
+3026,Saab Group,Industrials,Aerospace,Stockholm,1937
+3027,SamLogic,Technology,Software,Stockholm,1992
+3028,Sandvik,Industrials,Industrial engineering,Stockholm,1862
+3029,SAS Group (Swedish-Norwegian-Danish),Consumer services,Airlines,Solna,1946
+3030,SCA,Basic materials,Paper,Stockholm,1929
+3031,Scalado,Technology,Software,Lund,2000
+3032,Scandic Hotels,Consumer services,Hotels,Stockholm,1963
+3033,Scania AB,Consumer goods,Automobiles,S�dert�lje,1891
+3034,Seavus,Technology,Software,Malm�,1999
+3035,SEB Group,Financials,Investment services,Stockholm,1972
+3036,Sector3 Studios,Technology,Software,Lidk�ping,2003
+3037,Securitas,Industrials,Business support services,Stockholm,1934
+3038,Securitas Direct,Industrials,Business support services,Malm�,1988
+3039,Semcon,Industrials,Business support services,Gothenburg,1980
+3040,SF Studios,Consumer services,Broadcasting & entertainment,Stockholm,1919
+3041,SIBA,Consumer services,Specialty retailers,Gothenburg,1951
+3042,Silva compass,Consumer goods,Recreational products,Stockholm,1932
+3043,Simogo,Technology,Software,Malm�,2010
+3044,SJ AB,Consumer services,Travel & tourism,Stockholm,2001
+3045,Skandia,Financials,Investment services,Stockholm,1855
+3046,Skandinaviska Banken,Financials,Banks,Gothenburg,1864
+3047,Skanska,Industrials,Heavy construction,Stockholm,1887
+3048,Skellefte� Kraft,Utilities,Conventional electricity,Skellefte�,1906
+3049,SKF,Industrials,Industrial suppliers,Gothenburg,1907
+3050,Skygoblin,Technology,Software,Gothenburg,2005
+3051,Smart Eye,Technology,Software,Gothenburg,1999
+3052,S�dra,Basic materials,Paper,V�xj�,1938
+3053,Specma,Industrial,Industrial Engineering,Gothenburg,1918
+3054,Spendrups,Consumer goods,Brewers,Stockholm,1897
+3055,Spotify,Technology,Internet,Stockholm,2006
+3056,SR International � Radio Sweden,Consumer services,Broadcasting & entertainment,Stockholm,1938
+3057,SSAB,Basic materials,Iron & steel,Stockholm,1978
+3058,Starbreeze Studios,Technology,Software,Stockholm,1998
+3059,Stena Line,Consumer services,Travel & tourism,Gothenburg,1962
+3060,Stena Sphere,Conglomerates,-,Gothenburg,1939
+3061,Stiga,Consumer goods,Durable household products,Eskilstuna,1934
+3062,Stockholm Stock Exchange,Financials,Investment services,Stockholm,1863
+3063,Stockholms Enskilda Bank,Financials,Banks,Stockholm,1856
+3064,Studsvik,Utilities,Conventional electricity,Nyk�ping,1947
+3065,Sveriges Television,Consumer services,Broadcasting & entertainment,Stockholm,1956
+3066,Sweco,Industrials,Business support services,Stockholm,1997
+3067,Swedbank (F�reningsSparbanken),Financials,Banks,Stockholm,1820
+3068,Swedish Match,Consumer goods,Tobacco,Stockholm,1915
+3069,Swedish Meats,Livestock,Meat,Stockholm,
+3070,Swedish Orphan Biovitrum,Health care,Health care providers,Stockholm,2001
+3071,Swedish Space Corporation,Industrials,Aerospace,Solna,1972
+3072,Swegon,Industrials,Industrial machinery,Gothenburg,2005
+3073,Symsoft,Telecommunications,Mobile telecommunications,Stockholm,1989
+3074,Synergon,Industrials,Business support services,Stockholm,2003
+3075,Syncron International AB,Technology,Software,Stockholm,1990
+3076,Tarsier Studios,Technology,Software,Malm�,2004
+3077,Tele2,Telecommunications,Fixed line telecommunications,Stockholm,1993
+3078,Telelogic,Technology,Software,Malm�,1983
+3079,Telia Company,Telecommunications,Mobile telecommunications,Stockholm,2003
+3080,Teracom,Consumer services,Broadcasting & entertainment,Stockholm,1992
+3081,TerraNet AB,Telecommunications,Mobile telecommunications,Lund,2004
+3082,Tetra Pak,Industrials,Containers & packaging,Lund/Pully,1951
+3083,Thule Group,Consumer goods,Automobiles,Hillerstorp,1942
+3084,Tradedoubler,Technology,Internet,Stockholm,1999
+3085,Transmode,Telecommunications,Fixed line telecommunications,Stockholm,2000
+3086,Trelleborg,Industrials,Business support services,Trelleborg,1905
+3087,Trio AB,Telecommunications,Fixed line telecommunications,Stockholm,1992
+3088,Truecaller,Technology,Software,Stockholm,2009
+3089,Trustly,Financials,Banks,Stockholm,2008
+3090,TV4 Group,Consumer services,Broadcasting & entertainment,Stockholm,1984
+3091,Uddeholms AB,Basic materials,Iron & steel,Hagfors,1668
+3092,Ume� Energi,Utilities,Conventional electricity,Ume�,1887
+3093,Urbanears,Consumer goods,Recreational products,Stockholm,2009
+3094,V&S Group,Consumer goods,Soft drinks,Stockholm,1917
+3095,Vabis,Industrials,Diversified industrials,S�dert�lje,1891
+3096,Vattenfall,Utilities,Conventional electricity,Stockholm,1909
+3097,Vida AB,Basic materials,Forestry,Alvesta,1969[15]
+3098,Volvo,Industrials,Commercial vehicles & trucks,Gothenburg,1927
+3099,Volvo Buses,Industrials,Commercial vehicles & trucks,Gothenburg,1968
+3100,Volvo Financial Services,Financials,Investment services,Gothenburg,2001
+3101,Volvo Penta,Consumer goods,Auto parts,Sk�vde,1907
+3102,Volvo Trucks,Industrials,Commercial vehicles & trucks,Gothenburg,1928
+3103,VSM Group,Consumer goods,Durable household products,Huskvarna,1872
+3104,Wallenius Lines,Industrials,Marine transportation,Stockholm,1934
+3105,Wasabr�d,Consumer goods,Food products,Skellefte�,1919
+3106,Wayne's Coffee,Consumer services,Restaurants & bars,Stockholm,1994
+3107,WESC,Consumer goods,Clothing & accessories,Stockholm,1999
+3108,WG Film,Consumer services,Broadcasting & entertainment,Malm�,1994
+3109,WM-data,Technology,Software,Stockholm,1969
+3110,X5 Music Group,Consumer services,Broadcasting & entertainment,Stockholm,2003

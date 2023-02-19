@@ -1,139 +1,132 @@
-package mochotexto.dataset.schema.json;
+package mochotexto.dataset.schema.csv;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+import java.util.Collections;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.dataset.mapper.CsvDatasetMapper;
 import mochotexto.parsing.util.ParsingUtils;
 
-import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
 @NoArgsConstructor
 @Setter
 @ToString
-public class IgmmDisfoldSchema implements JsonDatasetMapper {
-	@JsonProperty("name")
-	private String _name;
-
-	@JsonProperty("code")
-	private String _code;
-
-	@JsonProperty("rank")
+@JsonPropertyOrder({"_rank", "_company", "_revenues2018_$m","_employees","_family_ownership","_founded","_public_private","_generation","_family_executive","_woman_in_leadership","_sector","_headquarters","_state","_website"})
+public class FrFamcapgermanySchema implements CsvDatasetMapper {
 	private String _rank;
-
-	@JsonProperty("ceo")
-	private String _ceo;
-
-	@JsonProperty("country")
-	private String _country;
-
-	@JsonProperty("sector")
-	private String _sector;
-
-	@JsonProperty("industry")
-	private String _industry;
-
-	@JsonProperty("headquarters")
-	private String _headquarters;
-
-	@JsonProperty("employees")
+	private String _company;
+	private String _revenues2018_$m;
 	private String _employees;
-
-	@JsonProperty("founded")
+	private String _family_ownership;
 	private String _founded;
+	private String _public_private;
+	private String _generation;
+	private String _family_executive;
+	private String _woman_in_leadership;
+	private String _sector;
+	private String _headquarters;
+	private String _state;
+	private String _website;
 
-	@JsonProperty("marketcap")
-	private String _marketcap;
-
-	@JsonProperty("revenue")
-	private String _revenue;
-
-	@JsonProperty("net income")
-	private String _netIncome;
-
-	@JsonProperty("link")
-	private List<String> _link;
+	// TODO: add 2018 revenues
 
 
 	@Override
+	@JsonIgnore
 	public String getName() {
-		return _name;
+		return _company;
 	}
 
 	@Override
+	@JsonIgnore
 	public String getStocksName() {
-		return _code;
+		return null;
 	}
 
 	@Override
+	@JsonIgnore
 	public List<String> getSectors() {
-		return ParsingUtils.makeSanitizedStringList(_sector, _industry);
+		return ParsingUtils.makeSanitizedStringList(_sector);
 	}
 
 	@Override
+	@JsonIgnore
 	public String getCountry() {
-		return _country;
+		return "Germany";
 	}
 
 	@Override
+	@JsonIgnore
 	public Float getSharePriceUSD() {
 		return null;
 	}
 
 	@Override
+	@JsonIgnore
 	public String getFoundedOn() {
 		return _founded;
 	}
 
 	@Override
+	@JsonIgnore
 	public List<String> getFounders() {
 		return Collections.emptyList();
 	}
 
 	@Override
+	@JsonIgnore
 	public Integer getEmployeesCount() {
 		return ParsingUtils.sanitizeInteger(_employees);
 	}
 
 	@Override
+	@JsonIgnore
 	public List<String> getCeo() {
-		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
+		return Collections.emptyList();
 	}
 
 	@Override
+	@JsonIgnore
 	public String getHeadquartersLocation() {
 		return _headquarters;
 	}
 
 	@Override
+	@JsonIgnore
 	public String getTopCompetitor() {
 		return null;
 	}
 
 	@Override
+	@JsonIgnore
 	public String getTelephoneNumber() {
 		return null;
 	}
 
 	@Override
+	@JsonIgnore
 	public Map<String, Integer> getFollowersBySocial() {
 		return Collections.emptyMap();
 	}
 
 	@Override
+	@JsonIgnore
 	public List<String> getUrls() {
-		return _link != null ? _link : Collections.emptyList();
+		return ParsingUtils.makeSanitizedStringList(_website);
 	}
 
 	@Override
+	@JsonIgnore
 	public Long getMarketCapitalization2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_marketcap);
+		return null;
 	}
 
 	@Override
+	@JsonIgnore
 	public Long getRevenue2022USD() {
 		return null;
 	}

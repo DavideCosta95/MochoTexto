@@ -1,129 +1,124 @@
-package mochotexto.dataset.schema.json;
+package mochotexto.dataset.schema.csv;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+import java.util.Collections;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.dataset.mapper.CsvDatasetMapper;
 import mochotexto.parsing.util.ParsingUtils;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
 @NoArgsConstructor
 @Setter
 @ToString
-public class DebigaDisfoldSchema implements JsonDatasetMapper {
-
-	@JsonProperty("name")
+@JsonPropertyOrder({"_name", "_industry", "_headquarter", "_ownership", "_foundation_year"})
+public class MarscotocAmbitionboxSchema implements CsvDatasetMapper {
 	private String _name;
-
-	@JsonProperty("market_cap")
-	private String _marketCap;
-
-	@JsonProperty("stock")
-	private String _stock;
-
-	@JsonProperty("country")
-	private String _country;
-
-	@JsonProperty("sector")
-	private String _sector;
-
-	@JsonProperty("industry")
 	private String _industry;
-
-	@JsonProperty("headquarters")
-	private String _headquarters;
-
-	@JsonProperty("founded")
-	private String _founded;
-
-	@JsonProperty("employees")
-	private String _employees;
-
-	@JsonProperty("ceo")
-	private String _ceo;
+	private String _headquarter;
+	private String _ownership;
+	private String _foundation_year;
 
 
 	@Override
+	@JsonIgnore
 	public String getName() {
 		return _name;
 	}
 
 	@Override
+	@JsonIgnore
 	public String getStocksName() {
-		return _stock;
+		return null;
 	}
 
 	@Override
+	@JsonIgnore
 	public List<String> getSectors() {
-		return ParsingUtils.makeSanitizedStringList(_sector, _industry);
+		return ParsingUtils.makeSanitizedStringList(_industry);
 	}
 
 	@Override
+	@JsonIgnore
 	public String getCountry() {
-		return _country;
+		return null;
 	}
 
 	@Override
+	@JsonIgnore
 	public Float getSharePriceUSD() {
 		return null;
 	}
 
 	@Override
+	@JsonIgnore
 	public String getFoundedOn() {
-		return _founded;
+		return _foundation_year != null ?
+				_foundation_year.trim().split(" ")[0]
+				:
+				null;
 	}
 
 	@Override
+	@JsonIgnore
 	public List<String> getFounders() {
 		return Collections.emptyList();
 	}
 
 	@Override
+	@JsonIgnore
 	public Integer getEmployeesCount() {
-		return ParsingUtils.sanitizeInteger(_employees);
+		return null;
 	}
 
 	@Override
+	@JsonIgnore
 	public List<String> getCeo() {
-		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
+		return Collections.emptyList();
 	}
 
 	@Override
+	@JsonIgnore
 	public String getHeadquartersLocation() {
-		return _headquarters;
+		return _headquarter;
 	}
 
 	@Override
+	@JsonIgnore
 	public String getTopCompetitor() {
 		return null;
 	}
 
 	@Override
+	@JsonIgnore
 	public String getTelephoneNumber() {
 		return null;
 	}
 
 	@Override
+	@JsonIgnore
 	public Map<String, Integer> getFollowersBySocial() {
 		return Collections.emptyMap();
 	}
 
 	@Override
+	@JsonIgnore
 	public List<String> getUrls() {
 		return Collections.emptyList();
 	}
 
 	@Override
+	@JsonIgnore
 	public Long getMarketCapitalization2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_marketCap);
+		return null;
 	}
 
 	@Override
+	@JsonIgnore
 	public Long getRevenue2022USD() {
 		return null;
 	}

@@ -2,10 +2,8 @@ package mochotexto.parsing.util;
 
 import lombok.extern.slf4j.Slf4j;
 
-import java.util.Collections;
-import java.util.List;
-import java.util.Locale;
-import java.util.Objects;
+import java.util.*;
+import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 @Slf4j
@@ -13,6 +11,7 @@ public final class ParsingUtils {
 	private ParsingUtils() {
 	}
 
+	// TODO: call methods below
 	public static Integer sanitizeInteger(String s) {
 		if (s == null) {
 			return null;
@@ -66,6 +65,10 @@ public final class ParsingUtils {
 			exponent = 6;
 			s = s.substring(0, s.indexOf("M"));
 		}
+		if (s.contains("K")) {
+			exponent = 3;
+			s = s.substring(0, s.indexOf("K"));
+		}
 		try {
 			double value = Double.parseDouble(s);
 			return value * Math.pow(10, exponent);
@@ -108,5 +111,15 @@ public final class ParsingUtils {
 			return Collections.emptyList();
 		}
 		return List.of(obj.toString());
+	}
+
+	public static List<String> makeSanitizedStringList(String... strings) {
+		if (strings == null) {
+			return Collections.emptyList();
+		}
+		return Arrays.stream(strings)
+				.filter(Objects::nonNull)
+				.filter(Predicate.not(String::isBlank))
+				.collect(Collectors.toList());
 	}
 }

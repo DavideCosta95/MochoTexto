@@ -26,7 +26,7 @@ public class App {
 						List<CompanyMediatedSchema> companyMediatedSchemaList = parser.readDataset().stream()
 								.map(CompanyMediatedSchema::of)
 								.collect(Collectors.toList());
-						log.info("{}", companyMediatedSchemaList.subList(0, 50));
+						log.info("{}", companyMediatedSchemaList.subList(0, 10));
 						log.info("{}", companyMediatedSchemaList.size());
 						mediatedSchemaRecords.addAll(companyMediatedSchemaList);
 					} catch (ParsingException e) {
