@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 import mochotexto.dataset.mapper.JsonDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
 import java.util.List;
 import java.util.Map;
@@ -54,10 +55,7 @@ public class AvengersHithorizonsSchema implements JsonDatasetMapper {
 
 	@Override
 	public List<String> getSectors() {
-		if (_industry == null) {
-			return Collections.emptyList();
-		}
-		return List.of(_industry);
+		return ParsingUtils.makeSanitizedStringList(_industry);
 	}
 
 	@Override
@@ -86,8 +84,8 @@ public class AvengersHithorizonsSchema implements JsonDatasetMapper {
 	}
 
 	@Override
-	public List<String> getCeo() {
-		return Collections.emptyList();
+	public String getCeo() {
+		return null;
 	}
 
 	@Override

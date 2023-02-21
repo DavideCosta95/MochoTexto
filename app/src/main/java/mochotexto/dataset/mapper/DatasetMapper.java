@@ -14,7 +14,7 @@ public interface DatasetMapper {
 	List<String> getFounders();
 	Integer getEmployeesCount();
 	// TODO: consider reverting to single string
-	List<String> getCeo();
+	String getCeo();
 	String getHeadquartersLocation();
 	String getTopCompetitor();
 	String getTelephoneNumber();

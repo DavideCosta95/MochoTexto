@@ -57,7 +57,7 @@ public class DebigaGlobaldataSchema implements JsonDatasetMapper {
 
 	@Override
 	public List<String> getSectors() {
-		return _industry != null ? List.of(_industry) : Collections.emptyList();
+		return ParsingUtils.makeSanitizedStringList(_industry);
 	}
 
 	@Override
@@ -86,8 +86,8 @@ public class DebigaGlobaldataSchema implements JsonDatasetMapper {
 	}
 
 	@Override
-	public List<String> getCeo() {
-		return Collections.emptyList();
+	public String getCeo() {
+		return null;
 	}
 
 	@Override
@@ -112,7 +112,7 @@ public class DebigaGlobaldataSchema implements JsonDatasetMapper {
 
 	@Override
 	public List<String> getUrls() {
-		return _website != null ? List.of(_website) : Collections.emptyList();
+		return ParsingUtils.makeSanitizedStringList(_website);
 	}
 
 	@Override

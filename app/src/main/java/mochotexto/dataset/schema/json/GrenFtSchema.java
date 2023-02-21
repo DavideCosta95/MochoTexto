@@ -52,7 +52,7 @@ public class GrenFtSchema implements JsonDatasetMapper {
 
 	@Override
 	public List<String> getSectors() {
-		return _sector != null ? List.of(_sector) : Collections.emptyList();
+		return ParsingUtils.makeSanitizedStringList(_sector);
 	}
 
 	@Override
@@ -83,8 +83,8 @@ public class GrenFtSchema implements JsonDatasetMapper {
 	}
 
 	@Override
-	public List<String> getCeo() {
-		return Collections.emptyList();
+	public String getCeo() {
+		return null;
 	}
 
 	@Override
@@ -121,5 +121,4 @@ public class GrenFtSchema implements JsonDatasetMapper {
 	public Long getRevenue2022USD() {
 		return null;
 	}
-	// TODO: handle EUR value
 }

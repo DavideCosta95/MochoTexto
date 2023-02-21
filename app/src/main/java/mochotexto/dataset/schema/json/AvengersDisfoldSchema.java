@@ -90,8 +90,8 @@ public class AvengersDisfoldSchema implements JsonDatasetMapper {
 	}
 
 	@Override
-	public List<String> getCeo() {
-		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
+	public String getCeo() {
+		return _ceo;
 	}
 
 	@Override
@@ -121,7 +121,7 @@ public class AvengersDisfoldSchema implements JsonDatasetMapper {
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_marketCap);
+		return null;
 	}
 
 	@Override

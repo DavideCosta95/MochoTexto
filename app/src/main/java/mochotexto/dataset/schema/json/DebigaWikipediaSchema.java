@@ -113,14 +113,14 @@ public class DebigaWikipediaSchema implements JsonDatasetMapper {
 		try {
 			return Integer.parseInt(rawCount);
 		} catch (Exception e) {
-			log.warn("Cannot parse {} as integer", rawCount);
+			log.debug("Cannot parse {} as integer", rawCount);
 			return null;
 		}
 	}
 
 	@Override
-	public List<String> getCeo() {
-		return Collections.emptyList();
+	public String getCeo() {
+		return null;
 	}
 
 	@Override
@@ -148,7 +148,7 @@ public class DebigaWikipediaSchema implements JsonDatasetMapper {
 		if (_website == null || _website.isEmpty()) {
 			return Collections.emptyList();
 		}
-		return List.of(ParsingUtils.joinStringList(_website, ""));
+		return ParsingUtils.makeSanitizedStringList(ParsingUtils.joinStringList(_website, ""));
 	}
 
 	@Override

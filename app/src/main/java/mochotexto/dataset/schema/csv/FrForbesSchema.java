@@ -3,7 +3,6 @@ package mochotexto.dataset.schema.csv;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import java.util.Collections;
-import java.util.Collections;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
@@ -75,8 +74,8 @@ public class FrForbesSchema implements CsvDatasetMapper {
 
 	@Override
 	@JsonIgnore
-	public List<String> getCeo() {
-		return Collections.emptyList();
+	public String getCeo() {
+		return null;
 	}
 
 	@Override

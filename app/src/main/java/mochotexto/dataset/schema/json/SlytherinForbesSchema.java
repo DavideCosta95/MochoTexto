@@ -52,7 +52,7 @@ public class SlytherinForbesSchema implements JsonDatasetMapper {
 
 	@Override
 	public List<String> getSectors() {
-		return _industry != null ? List.of(_industry) : Collections.emptyList();
+		return ParsingUtils.makeSanitizedStringList(_industry);
 	}
 
 	@Override
@@ -82,8 +82,12 @@ public class SlytherinForbesSchema implements JsonDatasetMapper {
 	}
 
 	@Override
-	public List<String> getCeo() {
-		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
+	public String getCeo() {
+		return _ceo != null && !_ceo.trim().equalsIgnoreCase("not found")
+				?
+				_ceo
+				:
+				null;
 	}
 
 	@Override
@@ -118,6 +122,6 @@ public class SlytherinForbesSchema implements JsonDatasetMapper {
 
 	@Override
 	public Long getRevenue2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_revenue);
+		return null;
 	}
 }

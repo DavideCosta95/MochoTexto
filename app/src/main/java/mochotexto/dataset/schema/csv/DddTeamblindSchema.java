@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 import mochotexto.dataset.mapper.CsvDatasetMapper;
+import mochotexto.parsing.util.ParsingUtils;
 
 import java.util.Collections;
 import java.util.List;
@@ -39,7 +40,7 @@ public class DddTeamblindSchema implements CsvDatasetMapper {
 	@Override
 	@JsonIgnore
 	public List<String> getSectors() {
-		return _industry != null ? List.of(_industry) : Collections.emptyList();
+		return ParsingUtils.makeSanitizedStringList(_industry);
 	}
 
 	@Override
@@ -74,8 +75,8 @@ public class DddTeamblindSchema implements CsvDatasetMapper {
 
 	@Override
 	@JsonIgnore
-	public List<String> getCeo() {
-		return Collections.emptyList();
+	public String getCeo() {
+		return null;
 	}
 
 	@Override
@@ -105,7 +106,7 @@ public class DddTeamblindSchema implements CsvDatasetMapper {
 	@Override
 	@JsonIgnore
 	public List<String> getUrls() {
-		return _website != null ? List.of(_website) : Collections.emptyList();
+		return ParsingUtils.makeSanitizedStringList(_website);
 	}
 
 	@Override

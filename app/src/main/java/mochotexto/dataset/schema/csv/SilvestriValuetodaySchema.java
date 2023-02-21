@@ -78,11 +78,11 @@ public class SilvestriValuetodaySchema implements CsvDatasetMapper {
 
 	@Override
 	@JsonIgnore
-	public List<String> getCeo() {
+	public String getCeo() {
 		if (_ceo != null && !_ceo.equalsIgnoreCase("null")) {
-			return ParsingUtils.makeSanitizedStringList(_ceo);
+			return _ceo;
 		}
-		return Collections.emptyList();
+		return null;
 	}
 
 	@Override

@@ -38,7 +38,7 @@ public class SlytherinValuetodaySchema implements JsonDatasetMapper {
 	private String _country;
 
 	@JsonProperty("industry")
-	// because people does not know how to properly work
+	// because people do not know how to properly work
 	private Object _industry;
 
 
@@ -85,8 +85,12 @@ public class SlytherinValuetodaySchema implements JsonDatasetMapper {
 	}
 
 	@Override
-	public List<String> getCeo() {
-		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
+	public String getCeo() {
+		return _ceo != null && !_ceo.trim().equalsIgnoreCase("not found")
+				?
+				_ceo
+				:
+				null;
 	}
 
 	@Override
@@ -121,6 +125,6 @@ public class SlytherinValuetodaySchema implements JsonDatasetMapper {
 
 	@Override
 	public Long getRevenue2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_revenue);
+		return null;
 	}
 }

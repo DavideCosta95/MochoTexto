@@ -80,8 +80,8 @@ public class WisselAziendeinfoclipperSchema implements CsvDatasetMapper {
 
 	@Override
 	@JsonIgnore
-	public List<String> getCeo() {
-		return Collections.emptyList();
+	public String getCeo() {
+		return null;
 	}
 
 	@Override

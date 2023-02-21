@@ -7,7 +7,6 @@ import lombok.ToString;
 import mochotexto.dataset.mapper.JsonDatasetMapper;
 import mochotexto.parsing.util.ParsingUtils;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
@@ -89,8 +88,8 @@ public class DebigaDisfoldSchema implements JsonDatasetMapper {
 	}
 
 	@Override
-	public List<String> getCeo() {
-		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
+	public String getCeo() {
+		return _ceo;
 	}
 
 	@Override
@@ -120,7 +119,7 @@ public class DebigaDisfoldSchema implements JsonDatasetMapper {
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_marketCap);
+		return null;
 	}
 
 	@Override

@@ -39,7 +39,7 @@ public class FrDisfoldSchema implements CsvDatasetMapper {
 	@Override
 	@JsonIgnore
 	public List<String> getSectors() {
-		return null;
+		return Collections.emptyList();
 	}
 
 	@Override
@@ -63,7 +63,7 @@ public class FrDisfoldSchema implements CsvDatasetMapper {
 	@Override
 	@JsonIgnore
 	public List<String> getFounders() {
-		return null;
+		return Collections.emptyList();
 	}
 
 	@Override
@@ -77,11 +77,8 @@ public class FrDisfoldSchema implements CsvDatasetMapper {
 
 	@Override
 	@JsonIgnore
-	public List<String> getCeo() {
-		if (_ceo == null) {
-			return Collections.emptyList();
-		}
-		return ParsingUtils.makeSanitizedStringList(_ceo.replace("CEO:", "").trim());
+	public String getCeo() {
+		return _ceo != null ? _ceo.replace("CEO:", "").trim() : null;
 	}
 
 	@Override
@@ -105,13 +102,13 @@ public class FrDisfoldSchema implements CsvDatasetMapper {
 	@Override
 	@JsonIgnore
 	public Map<String, Integer> getFollowersBySocial() {
-		return null;
+		return Collections.emptyMap();
 	}
 
 	@Override
 	@JsonIgnore
 	public List<String> getUrls() {
-		return null;
+		return Collections.emptyList();
 	}
 
 	@Override

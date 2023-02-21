@@ -84,8 +84,8 @@ public class AvengersCompaniesmarketcapSchema implements JsonDatasetMapper {
 	}
 
 	@Override
-	public List<String> getCeo() {
-		return Collections.emptyList();
+	public String getCeo() {
+		return null;
 	}
 
 	@Override
@@ -115,7 +115,7 @@ public class AvengersCompaniesmarketcapSchema implements JsonDatasetMapper {
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_marketCap);
+		return null;
 	}
 
 	@Override

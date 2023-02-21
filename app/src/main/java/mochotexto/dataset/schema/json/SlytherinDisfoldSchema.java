@@ -77,11 +77,11 @@ public class SlytherinDisfoldSchema implements JsonDatasetMapper {
 	}
 
 	@Override
-	public List<String> getCeo() {
+	public String getCeo() {
 		if (_ceo == null || _ceo.trim().equalsIgnoreCase("not found")) {
-			return Collections.emptyList();
+			return null;
 		}
-		return List.of(_ceo);
+		return _ceo;
 	}
 
 	@Override

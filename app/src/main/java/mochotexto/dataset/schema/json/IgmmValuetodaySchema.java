@@ -64,7 +64,7 @@ public class IgmmValuetodaySchema implements JsonDatasetMapper {
 
 	@Override
 	public List<String> getSectors() {
-		return _companyBusiness!= null ? _companyBusiness : Collections.emptyList();
+		return _companyBusiness != null ? _companyBusiness : Collections.emptyList();
 	}
 
 	@Override
@@ -93,8 +93,8 @@ public class IgmmValuetodaySchema implements JsonDatasetMapper {
 	}
 
 	@Override
-	public List<String> getCeo() {
-		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
+	public String getCeo() {
+		return _ceo;
 	}
 
 	@Override
@@ -119,17 +119,16 @@ public class IgmmValuetodaySchema implements JsonDatasetMapper {
 
 	@Override
 	public List<String> getUrls() {
-		return _companyWebsite != null ? List.of(_companyWebsite) : Collections.emptyList();
+		return ParsingUtils.makeSanitizedStringList(_companyWebsite);
 	}
 
 	@Override
 	public Long getMarketCapitalization2022USD() {
-		return null;
+		return ParsingUtils.sanitizeCurrencyLong(_marketValue2022);
 	}
 
 	@Override
 	public Long getRevenue2022USD() {
-		// TODO
 		return null;
 	}
 }

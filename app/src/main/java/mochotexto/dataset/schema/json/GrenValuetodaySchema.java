@@ -88,8 +88,8 @@ public class GrenValuetodaySchema implements JsonDatasetMapper {
 	}
 
 	@Override
-	public List<String> getCeo() {
-		return _ceo != null ? List.of(_ceo) : Collections.emptyList();
+	public String getCeo() {
+		return _ceo;
 	}
 
 	@Override

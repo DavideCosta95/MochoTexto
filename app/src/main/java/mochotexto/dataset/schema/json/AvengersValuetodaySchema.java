@@ -48,7 +48,7 @@ public class AvengersValuetodaySchema implements JsonDatasetMapper {
 	private String _headquartersRegionCity;
 
 	@JsonProperty("headquarters_country")
-	// because people does not know how to properly work
+	// because people do not know how to properly work
 	private Object _headquartersCountry;
 
 	@JsonProperty("headquarters_sub_region")
@@ -58,18 +58,18 @@ public class AvengersValuetodaySchema implements JsonDatasetMapper {
 	private String _headquartersContinent;
 
 	@JsonProperty("company_business")
-	// because people does not know how to properly work
+	// because people do not know how to properly work
 	private Object _companyBusiness;
 
 	@JsonProperty("number_of_employees")
 	private String _numberOfEmployees;
 
 	@JsonProperty("ceo")
-	// because people does not know how to properly work
+	// because people do not know how to properly work
 	private Object _ceo;
 
 	@JsonProperty("founders")
-	// because people does not know how to properly work
+	// because people do not know how to properly work
 	private Object _founders;
 
 	@JsonProperty("company_website")
@@ -117,8 +117,8 @@ public class AvengersValuetodaySchema implements JsonDatasetMapper {
 	}
 
 	@Override
-	public List<String> getCeo() {
-		return ParsingUtils.parseStringList(_ceo);
+	public String getCeo() {
+		return null;
 	}
 
 	@Override
@@ -143,7 +143,7 @@ public class AvengersValuetodaySchema implements JsonDatasetMapper {
 
 	@Override
 	public List<String> getUrls() {
-		return _companyWebsite != null ? List.of(_companyWebsite) : Collections.emptyList();
+		return ParsingUtils.makeSanitizedStringList(_companyWebsite);
 	}
 
 	@Override
@@ -153,6 +153,6 @@ public class AvengersValuetodaySchema implements JsonDatasetMapper {
 
 	@Override
 	public Long getRevenue2022USD() {
-		return ParsingUtils.sanitizeCurrencyLong(_annualRevenueInUsd);
+		return null;
 	}
 }

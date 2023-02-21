@@ -27,7 +27,7 @@ public final class ParsingUtils {
 					.replace("€", "");
 			return Integer.parseInt(ss);
 		} catch (Exception e) {
-			log.warn("Error while parsing {} as integer", s);
+			log.debug("Error while parsing {} as integer", s);
 			return null;
 		}
 	}
